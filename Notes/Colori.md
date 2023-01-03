@@ -989,3 +989,84 @@ Dal latino _sapphìrus_, a sua volta dal greco σάπφειρος _sàppheir
 
 **► ZUCCA** [[arancione]]
 Tonalità di arancione, colore che ricorda l'omonimo vegetale. Nuance calda e golosa, che rallegra le giornate uggiose e regala subito un'aria sofisticata.
+
+
+
+# I 10 colori con 50 sfumature comuni
+
+Mettimo alcuni colori o sfumature più note all'interno dell nostra selezione di 10 colori.
+
+> Chiediamo ad amici e parenti di farci l'elenco dei colori che gli vengono in mente e registriamoli. Quelli che si ripetono di più li inseriamo in questo sotto elenco.
+
+Lo scopo di questo elenco è quello di arricchire il vocabolario delle persone con dei toni di colore che possono usare nelle loro descrizione parlando con gli altri.
+Hanno quindi queste due caratteristiche:
+- Sono nomi di colore riconoscibili dalla maggior parte delle persone.
+- Sono sensibilmente distinti uno dall'altro per coprire più gamma possibile con il minor numero di nomi.
+
+> Il secondo punto lo spieghiamo meglio con questo esempio:
+> Prendiamo 1000 tessere di colore diverso e le allineiamo una affianco all'altra in ordine di sfumatura e diamo un numero ad ogni tessera a partire da 0. Se la tessera 500 è un rosso la tessera 501 sarà un tono di rosso quasi identico, la tessera 502 leggermente diverso e la tessera 510 già è un tono di rosso che distingo facilmente.
+> Avendo 50 tessere da scegliere che mi rappresentino tutta la gamma prenderei a partire dalla prima una tessera ogni 20 (1000/50=20).
+> 0, 20, 40, 60, 80, 100, 120, ..., 900, 920, 940, 960, 980, 1000
+
+Ecco l'elenco che cerca di ottentere lo stesso:
+
+1. giallo
+	1. limone
+	2. oro
+	3. girasole
+	4. ...
+	5. ...
+2. verde
+	1. lime
+	2. avocado
+	3. smeraldo
+	4. ...
+	5. ...
+3. blu
+	1. acquamarina
+	2. cielo
+	3. turchese
+	4. azzurro
+	5. celeste
+4. viola
+	1. prugna
+	2. melanzana
+	3. uva
+	4. ...
+	5. ...
+5. rosso
+	1. ciliegia
+	2. vino
+	3. ...
+	4. ...
+	5. ...
+6. arancione
+	1. salmone
+	2. mandarino
+	3. melone
+	4. ...
+	5. ...
+7. marrone
+	1. castagna (c'è un tipo di castagna che si chiama marrone e dà il nome al colore)
+	2. terra di Siena
+	3. ocra
+	4. beige
+	5. ...
+8. bianco
+	1. bianco avorio
+	2. latte
+	3. panna
+	4. ...
+	5. ...
+9. grigio
+	1. topo
+	2. cenere
+	3. ...
+	4. ...
+	5. ...
+10. nero
+	1. corvo
+	2. ...
+	3. ...
+	4. ...
+	5. ...
