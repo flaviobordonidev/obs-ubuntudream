@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "c32e61e1128d7338",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be547d85b8c9dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b48ea83702cdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/YT-UD-003 - Le catene invisibili.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a74ff80a394aadd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/YT-UD-003 - Le catene invisibili.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a190dae33ce3aeea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Il vantaggio dell’emozione della Noia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "346b2bf2d51410c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb27470c78d39f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76144a4c353b15fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e62685f9e3ec53e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbbab3ea953b2efe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bafbf0b7f19c5309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4a5690db008c49",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d865c8b0c77e55e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7dd2f8853a3dd91",
+        "type": "tabs",
+        "dimension": 30.944444444444446,
+        "children": [
+          {
+            "id": "60cffc0bf4a04356",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Il vantaggio dell’emozione della Noia.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7083423516760682,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f843325cb788dee",
+        "type": "tabs",
+        "dimension": 30.944444444444446,
+        "children": [
+          {
+            "id": "82c10bf03e245031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Il vantaggio dell’emozione della Noia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "501c02e170d06bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Il vantaggio dell’emozione della Noia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df1de408b0c916f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "040773929dfe76b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Il vantaggio dell’emozione della Noia.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "dd52d5f4e513d182",
+        "type": "tabs",
+        "dimension": 38.111111111111114,
+        "children": [
+          {
+            "id": "5997ce6fe129a34f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open this month": false
+    }
+  },
+  "active": "a190dae33ce3aeea",
+  "lastOpenFiles": [
+    "Notes/La corruzione è creata dalla società - Cesto frutta marcia.md",
+    "Notes/Nessuno mi credeva - raccogliere lattine.md",
+    "Notes/Anna non so dire di no.md",
+    "Notes/YT-UD-003 - Le catene invisibili.md",
+    "Notes/Colori.md",
+    "Notes/marrone.md",
+    "Notes/Cavallo di Troia.md",
+    "Notes/catena invisibile - rabbia.md",
+    "Notes/Untitled.md",
+    "Notes/YT-UD.md"
+  ]
+}
