@@ -362,3 +362,9 @@ Tutto quello che fai così, del tipo:
 
 Tutto questo è frutto delle tue convinzioni limitanti. E queste convinzioni limitanti che creano questo cavallo di troia.
 Esistono inoltre le convinzioni limitanti trasparenti che sono pensieri che neanche ti rendi conto di avere che ti stanno paralizzando (un po’ come i bias cognitivi) nel tuo stato mentale di totale ciclo vizioso.
+
+---
+## Vedi anche
+
+- [[convinzioni limitanti]]
+- 

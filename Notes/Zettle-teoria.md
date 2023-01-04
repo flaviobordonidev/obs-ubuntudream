@@ -81,3 +81,31 @@ Ricordo
 - Ripassi programmati (Space repetition) esempio: il metodo Anki
 - Tecniche di memoria
 
+---
+**
+
+# Saper prendere appunti
+
+Prendendo appunti dovede considerare il vosto evidenziatore fatto d'oro o la matita con cui sottolineate come se fosse fatta di argento.
+
+  
+
+E' scarso e prezioso.
+
+Dovete scegliere con molta attenzione cosa sottolineare.
+
+  
+
+Ad una prima lettura usate l'argento ma con molta parsimonia.
+
+Ad una seconda lettura, quando ormai siete più esperti del contenuto del libro, usate l'oro ma pensateci due volte prima di usarlo e non sottolineate una frase. Sottolineate solo le parole chiave di quella frase. Vi servono per ricordare non per studiare. La sottolineatura serve a creare degli agganci mnemonici a dei concetti che sono scritti nel libro e che tu hai già studiato. Non serve per creare un riassunto del libro.
+
+  
+
+Il riassunto del libro lo dovresti fare tu usando il platino. Il platino è costituito dall'attività del tuo cervello. Quando ti senti esperto e pronto, chiudi il libro e nascondilo lontano. Non lo devi aprire assolutamente nella prima stesura del tuo riassunto. DEVE LAVORARE IL TUO CERVELLO.
+
+  
+
+Solo DOPO che hai FINITO il riassunto puoi riaprire il libro e sfogliarlo osservando le tracce d'oro tra le pagine. Quando ti accorgi che un concetto manca nel tuo riassunto puoi chiudere il libro e aggiungerlo al tuo riassunto facendo LAVORARE IL TUO CERVELLO. Non copiare le frasi scritte sul libro. Ti è permesso solo di copiare le parole evidenziate con l'oro. Queste parole chiave le puoi tranquillamente usare ma la frase, il concetto, lo devi riesprimere così come tu lo hai appreso. Non stai riscrivendo un libro; stai aiutando la tua mente ad assimilare quanto ha appreso. Stai trasportando nella tua struttura psicologica i concetti appresi.
+
+**

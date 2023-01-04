@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Robero Cerè.md",
+                "file": "Notes/Che tipo di persona essere.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#chiarezza_obiettivo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Robero Cerè.md",
+                "file": "Notes/Che tipo di persona essere.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Robero Cerè.md",
+                "file": "Notes/Che tipo di persona essere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Robero Cerè.md",
+                "file": "Notes/Che tipo di persona essere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Robero Cerè.md"
+                "file": "Notes/Che tipo di persona essere.md"
               }
             }
           }
@@ -249,15 +249,15 @@
   },
   "active": "0ababefc374e14a7",
   "lastOpenFiles": [
-    "Notes/Cambiare vita è semplice come smettere di fumare.md",
-    "Notes/Uomo in cerca di fortuna - lupo albero ragazza.md",
-    "Notes/visualizzazione.md",
-    "Notes/Allenare l'intuizione.md",
-    "Notes/Vivere in modalità zombie.md",
-    "Notes/Allenarsi a “vedere oltre”.md",
-    "Notes/La storia di Flavia e lo sciamano.md",
-    "Notes/Anello del professore - autostima.md",
-    "Notes/Alla ricerca del formaggio.md",
-    "Notes/Monaco e viaggiatore prossimo villaggio.md"
+    "Notes/Grande opportunità non vista.md",
+    "Notes/La fiducia in se stessi.md",
+    "Notes/Vincitore tra milioni.md",
+    "Notes/La persona più importante.md",
+    "Notes/I sentimenti sono energia.md",
+    "Notes/Il pensiero diventa realtà.md",
+    "Notes/Il mio subconscio - il mio giardino.md",
+    "Notes/La semina e il raccolto.md",
+    "Notes/Cominciamo con un piccolo passo imperfetto.md",
+    "Notes/Non è importante quello che sei.md"
   ]
 }

@@ -86,3 +86,16 @@ LEZIONE APPRESA 
 Tutti noi siamo come questa gioia: unici e preziosi. Purtroppo, passiamo la vita andando per tuti i mercati della vita, svalutando il nostro proprio valore, pretendendo che persone mal preparate ci possano valutare. Nessuno dovrebbe avere la forza di farci sentire inferiori senza il nostro consenso. Ciascuno di noi è speciale, poiché fu il Signore che ci ha fatto.
 
 Non vi giudicate migliori di quello che siete realmente. Al contrario siate modesti nei vostri pensieri e ognuno si giudichi in funzione di quello che Dio gli ha dato.
+
+Siamo tutti come questa gemma: unica e preziosa. Sfortunatamente, passiamo la vita a girare per tutti i mercati della vita, sminuendo il nostro valore, fingendo che persone mal preparate ci apprezzino. Nessuno dovrebbe avere la forza di farci sentire inferiori senza il nostro consenso. Ognuno di noi è speciale, perché è stato Dio a crearci.
+     "Non pensare di essere migliore di quello che realmente sei. Al contrario, sii modesto nei tuoi pensieri, e ciascuno di voi giudichi se stesso secondo la fede che Dio vi ha dato". Romani 12.3
+
+**
+
+# Io sono prezioso
+
+Poniti le seguenti domande: “Che cosa ti rende prezioso per le altre persone? Sono forse le tue esperienze, il tuo sapere, la fiducia che tu ispiri, la comprensione che tu dimostri? Quali sono le qualità che apprezzi di più in te stesso? Quali sono le esperienze da te già vissute, che possono ritornare utili, a te e forse ad altre persone?”
+
+Ecco ora rispondi per iscritto a queste domande. Leggile per 60giorni consecutivi 3volte al giorno. Ricordati: la terza volta rileggile poco prima di andare a letto.
+
+**
