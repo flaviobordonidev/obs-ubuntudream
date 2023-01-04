@@ -437,3 +437,27 @@ Al posto della rosa possiamo poi inserire qualsiasi cosa nella nostra vita:
     
 -   …
     
+**
+
+Visualizzazione
+
+  
+
+Immagina la vita ideale che ti piacerebbe avere da qui ad un anno.
+
+Immaginato?
+
+Visualizza dove vuoi stare. Chi sta al tuo lato. Cosa stai facendo?
+
+Quanto hai nella tua conta bancaria?
+
+Che esperienza stai vivendo che ti porta grande allegria?
+
+Infine, immagina il futuro ideale per te da qui ad un anno.
+
+  
+
+Con questa chiarezza, identifica le tre attività che sono di maggior importanza per la tua vita su cui devi concentrarti OGGI per far si che la tua vita ideale possa realizzarsi fra un anno.
+
+  
+**

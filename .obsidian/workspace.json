@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0ababefc374e14a7",
+            "id": "180f60ce02827a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Che tipo di persona essere.md",
+                "file": "Notes/visualizzazione.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chiarezza_obiettivo",
+                "query": "cambio di prospettiva",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Che tipo di persona essere.md",
+                "file": "Notes/visualizzazione.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Che tipo di persona essere.md",
+                "file": "Notes/visualizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Che tipo di persona essere.md",
+                "file": "Notes/visualizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Che tipo di persona essere.md"
+                "file": "Notes/visualizzazione.md"
               }
             }
           }
@@ -247,17 +247,17 @@
       "periodic-notes:Open this month": false
     }
   },
-  "active": "0ababefc374e14a7",
+  "active": "180f60ce02827a8c",
   "lastOpenFiles": [
-    "Notes/Grande opportunità non vista.md",
-    "Notes/La fiducia in se stessi.md",
-    "Notes/Vincitore tra milioni.md",
-    "Notes/La persona più importante.md",
-    "Notes/I sentimenti sono energia.md",
-    "Notes/Il pensiero diventa realtà.md",
-    "Notes/Il mio subconscio - il mio giardino.md",
-    "Notes/La semina e il raccolto.md",
-    "Notes/Cominciamo con un piccolo passo imperfetto.md",
-    "Notes/Non è importante quello che sei.md"
+    "Notes/La potenza di un’idea.md",
+    "Notes/Cos’è il successo.md",
+    "Notes/Mete e obiettivi.md",
+    "Notes/Punta alla luna.md",
+    "Notes/Il coraggio di essere differenti.md",
+    "Notes/Cambio di prospettiva.md",
+    "Notes/Calzini per nonno con Alzheimer.md",
+    "Notes/Essere se stessi - non compararsi con gli altri.md",
+    "Notes/Maschere sociali.md",
+    "Notes/Il tassista e gli insulti come rifiuti buttati per strada.md"
   ]
 }

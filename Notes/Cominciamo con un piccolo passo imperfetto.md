@@ -32,3 +32,14 @@ Tu lo sai! Un proposito ha la possibilità di diventare realtà, solo se tu port
 
   
 **
+**
+
+Ricorda che tutti hanno iniziato da qualche parte. "Non disprezzare questi piccoli inizi, perché il Signore si rallegra nel vedere l'opera cominciare" - Zaccaria 4:10
+
+**
+
+Non disprezzare mai i giorni di umili inizi.
+
+Fortunatamente siamo in una nazione libera. Fai quello che vuoi finché non fai del male agli altri.
+
+**

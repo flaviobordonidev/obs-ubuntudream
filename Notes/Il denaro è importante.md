@@ -49,3 +49,15 @@ Noi facciamo le cose più impensate, più assurde, pur di raggiungere il tanto d
 Vuoi veramente diventare per sempre ricco? Allora mettiti alla prova e controlla:”Come tratti i tuoi spiccioli?”
 
 **
+**
+
+# Chi non rispetta il centesimo, non si merita l’euro!
+
+Ti sei mai chiesto, in che cosa consista il tanto ambito milione? Giusto, è il risultato di tanti singoli euro, franchi, dollari, ecc…
+
+Noi facciamo le cose più impensate, più assurde, pur di raggiungere il tanto desiderato milione. Giochiamo alla lotteria, alla roulette, facciamo scommesse e molte altre cose. “Se io avessi un milione, sarebbe tutto diverso. Lo accoglierei come un caro amico, lo coccolerei e lo curerei.” Questo è veramente assurdo, uno scherzo di pessimo gusto! E cosa ne fai del singolo euro, dollaro, franco? Questi sono i piccoli fratelli del grande milione. Li trattiamo male e senza rispetto, li spendiamo senza un minimo d’attenzione seguendo la massima: “Questo non costa molto, che cosa sono poi 20 euro, dollari o franchi?”
+
+Vuoi veramente diventare per sempre ricco? Allora mettiti alla prova e controlla:”Come tratti i tuoi spiccioli?”
+
+  
+**

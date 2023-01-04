@@ -99,3 +99,27 @@ Poniti le seguenti domande: “Che cosa ti rende prezioso per le altre persone? 
 Ecco ora rispondi per iscritto a queste domande. Leggile per 60giorni consecutivi 3volte al giorno. Ricordati: la terza volta rileggile poco prima di andare a letto.
 
 **
+**
+
+---
+
+La storia dell’anello del professore dice di venderlo all’anima spenta che va al mercato e lo vende per due soldi. Tornando il professore gli dice che quell’anello/medaglia apparteneva all’armata pinco pallo e che lo passavano di soldato in soldato come premio per il valore dimostrato. Tu hai dimostrato che il tuo valore vale due soldi.
+
+  
+
+---
+
+La storia dell’anello del professore dice di venderlo all’anima accesa che decide di capire prima quanto può valere. Lo porta al mercato e gli offrono due soldi. Decide di non venderlo e lo porta ad un orefice che gli dice essere d’argento e gli propone venti soldi. Decide di non venderlo e lo porta da un antiquario che gli dice che è un amuleto raro dell’armata pinco pallo e gli offre 200 soldi. 
+
+L’anima accesa torna dal professore dicendogli che probabilmente si è sbagliato perché gli ha dato una medaglia di molto valore. Il professore gli dice che il valore dell’anima accesa è inestimabile ma che nel mondo reale si deve usare il proprio valore e gli indica un grande collezionista dicendogli di vendergli l’amuleto e di usare il ricavato per i suoi sogni.
+
+L’anima vende l’amuleto per 2000 soldi e li investe per aprire il negozio dei suoi sogni.
+
+All’apertura incontra il suo amico anima spenta che gli fa i complimenti e gli dice: “Tu si che sei veramente fortunato!”
+
+[E’ autore della sua propria fortuna! E’ autore del suo proprio destino.
+
+Fortuna è quando la preparazione incontra un’opportunità]
+
+  
+**

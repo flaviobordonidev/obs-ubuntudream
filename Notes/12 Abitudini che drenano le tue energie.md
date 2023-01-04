@@ -21,3 +21,5 @@ tag: #
 10.  Provocar disordine - stuzzicare troppo (fuxicar demais)
 11.  Non vivere il momento presente
 12.  Tentar agradar os outros
+
+**Gli esseri umani sono creature abitudinarie. Siamo più a nostro agio nell'affrontare vecchi problemi invece di sfidare lo status quo.**

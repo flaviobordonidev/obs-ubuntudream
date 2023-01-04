@@ -178,3 +178,14 @@ Se ogni giorno riesci a percepire dentro di te quanto vicine siano le tue meravi
 Vedrai che in breve tempo sentirai crescere in te una forza carica di aspettativa, d’impazienza e tensione. A questo punto non desideri altro che pianificare ed effettuare la prossima mossa vincente.
 
 **
+**
+
+# Quando mangi, allora mangia; quando cammini, allora cammina; quando corri, allora corri.
+
+Ma questo io già lo faccio! Pensi tu. Sicuro? Proprio sicuro? Non è forse vero che:”Mentre mangi pensi già a dove andare - e quando vai, pensi già a correre? Fai ciò che fai sempre cosciente e concentrato, e fai solo quello!” Che ne ricavi? La concentrazione favorisce risultati precisi e rapidi, la qualità del tuo lavoro migliorerà e raggiungerai effetti positivi come, pace interiore, vivere più sano e avrai più tempo. Ed è proprio il tempo oggi ad essere più importante che mai. Avrai così il vantaggio di usufruire del tempo in modo migliore.
+
+Sei forse dell’idea che se fai contemporaneamente più cose, di essere più veloce ed effettivo? Completamente sbagliato!
+
+Prova a fare questo test: ”Togli dalla tua scrivania, tutto ciò di cui adesso non hai bisogno e mettici solo quello con cui stai lavorando ora. “Constaterai di essere più redditizio e più veloce!
+
+**

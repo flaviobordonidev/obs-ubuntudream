@@ -17,3 +17,29 @@ Si ripete a voce bassa la frase con cui si è allenata ad interrompere questi pe
 
 Con questa frase interrompe I primi pensieri di paura ed evita che la paura si inneschi come emozione. Quindi non è costretta a vincere la paura ma semplicemente fa un respiro ed esce per recitare.
 
+**
+
+# Calma
+
+A volte ci facciamo delle storie di quello che ci accadrà nel futuro e ci creiamo delle preoccupazioni su qualcosa che la maggior parte delle volte neanche accade.
+
+La frase da ripetersi è:
+
+-   Sta succedendo realmente?  
+    No, sto solo con paura che possa succedere.  
+    Allora CALMA!
+    
+
+-   La cosa più probabile è che non succederà
+    
+-   E se dovesse succedere: “Eu vou dar conta!”
+    
+
+--
+
+Andando con calma si arriva prima.
+
+Viaggiamo piano perché abbiamo fretta!
+
+  
+**

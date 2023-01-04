@@ -8,7 +8,15 @@ tag: #
 
 ---
 # Scopri la bellezza negli altri
+**
 
+# Scopri la bellezza negli altri
+
+Questo giorno deve diventare davvero unico e speciale. Intraprendiamo assieme un viaggio esplorativo molto speciale!” Oggi scopri in ogni persona che incontri qualcosa di bello!”. Può essere anche un semplice particolare, come la bella forma del suo naso, la bella bocca ben formata, la voce piacevole, i gioielli preziosi, i vestiti eleganti che lei/lui indossa.
+
+[Bollino libro hotel]
+
+**
 **
 
 Questo giorno deve diventare davvero unico e speciale. Intraprendiamo assieme un viaggio esplorativo molto speciale!” Oggi scopri in ogni persona che incontri qualcosa di bello!”. Può essere anche un semplice particolare, come la bella forma del suo naso, la bella bocca ben formata, la voce piacevole, i gioielli preziosi, i vestiti eleganti che lei/lui indossa, their tolerant attitude towards you or others.

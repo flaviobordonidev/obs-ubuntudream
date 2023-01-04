@@ -7,8 +7,13 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
-# Metafora del chiodo
+# Metafora dei chiodi
 
+**
+
+Le parole possono ferire più di qualsiasi cosa. Stai attento a cosa dici!
+
+**
 **
 
 C'era una volta un ragazzo sempre di cattivo umore e di cattivo umore. Quando si arrabbiava, si lasciava trasportare dalla rabbia, dicendo e facendo cose che facevano male a chi gli era più vicino.
