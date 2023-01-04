@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/visualizzazione.md",
+                "file": "Notes/Interpretazione - voto d'esame.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/visualizzazione.md",
+                "file": "Notes/Interpretazione - voto d'esame.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/visualizzazione.md",
+                "file": "Notes/Interpretazione - voto d'esame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/visualizzazione.md",
+                "file": "Notes/Interpretazione - voto d'esame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/visualizzazione.md"
+                "file": "Notes/Interpretazione - voto d'esame.md"
               }
             }
           }
@@ -249,15 +249,15 @@
   },
   "active": "180f60ce02827a8c",
   "lastOpenFiles": [
-    "Notes/La potenza di un’idea.md",
-    "Notes/Cos’è il successo.md",
-    "Notes/Mete e obiettivi.md",
-    "Notes/Punta alla luna.md",
-    "Notes/Il coraggio di essere differenti.md",
-    "Notes/Cambio di prospettiva.md",
-    "Notes/Calzini per nonno con Alzheimer.md",
-    "Notes/Essere se stessi - non compararsi con gli altri.md",
-    "Notes/Maschere sociali.md",
-    "Notes/Il tassista e gli insulti come rifiuti buttati per strada.md"
+    "Notes/Orgoglio.md",
+    "Notes/Tatuaggio.md",
+    "Notes/convinzioni limitanti.md",
+    "Notes/Diventare ricco.md",
+    "Notes/Paura della concorrenza.md",
+    "Notes/Tornare a sognare - chef e pastore.md",
+    "Notes/Non mi sento abbastanza.md",
+    "Notes/Vola basso - tornare a sognare.md",
+    "Notes/Solitudine.md",
+    "Notes/La libertà di essere uno svitato.md"
   ]
 }

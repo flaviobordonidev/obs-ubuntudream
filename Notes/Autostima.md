@@ -40,3 +40,39 @@ Lo psicologo spiega a Giuseppe che l'autostima, è codificata nel cervello lingu
 
   
 **
+**
+
+---
+
+Flavio si lamenta spesso che ha una pancia che vuole togliere
+
+Si sente triste ed ha una bassa autostima di sé per non essere in grado di avere una pancia piatta e si dice che dovrebbe dimagrire
+
+La sera mangia al bar le patatine fritte e beve la birra e quando la moglie gli dice che questo non gli fa bene alla linea lui dice: “sti cazzi”
+
+Questo alla lunga non porta una diminuzione della pancia e Flavio continua a lamentarsi e a pensare che è incapace.
+
+  
+
+---
+
+Flavio si rende conto che ha una pancia che è meglio togliere
+
+Sente che questa è una sfida difficile perché è contro l’abitudine di mangiare. Sa che deve essere fatto in piccoli passi.
+
+Decide di perdere 15kg entro il 12 dicembre. E stabilisce una media di un chilo ogni settimana con pietre miliari mensili di 4kg.
+
+Il controllo costante del peso e la motivazione ad andare nella direzione del suo obiettivo lo portano a perdere i 15kg in 3 mesi. Inoltre riesce a mantenere il peso raggiunto perché si crea di volta in volta nuove mete da raggiungere.
+
+---
+
+Daniela sbaglia a coniugare I verbi ed il suo insegnante la fa sentire stupida in classe.
+
+Si vergogna molto e si sente una fallita.
+
+Non riesce a smettere di rivedere la scena in testa per giorni e giorni. E questo le impedisce di imparare nuove lingue perché non pratica.
+
+Rimuginare su questo evento diventa un'abitudine, ed è una abitudine molto costosa. Perché spendendo così tanto tempo concentrata su pensieri negativi, si mette a rischio di depressione clinica, alcolismo, disturbi alimentari, ed anche di malattie cardiovascolari.
+
+  
+**

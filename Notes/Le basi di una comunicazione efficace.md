@@ -11,3 +11,6 @@ tag: #comunicazione
 
 -   Pensa prima di parlare vuol dire: Parla lentamente.
 -   Parla come mangi vuol dire: usa parole semplici.
+
+[[Metafora dei chiodi]]
+"Le persone non ricorderanno le parole che dici ma ricorderanno come le hanno fatte sentire."

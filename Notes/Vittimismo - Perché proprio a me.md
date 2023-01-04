@@ -59,3 +59,28 @@ Sente che può reagire in maniera differente a quella situazione.
 Lascia defluire l’emozione di rabbia facendo una sezione di Yoga in modo che I suoi pensieri annebbiati non condizionino la sua decisione.
 
 Prende il controllo della sua vita
+
+---
+**
+
+Giorgio ha un problema molto particolare che pensa riguardi solo lui perché non trova altri con lo stesso problema
+
+Si sente sfortunato e crede che il mondo ce l’abbia con lui.
+
+Decide di aspettare che la tecnologia gli possa portare una soluzione al suo problema.
+
+Si abitua a convivere con il suo problema senza rendersi conto di quanto questo lo stia limitando
+
+  
+
+---
+
+Eleonora ha una piccola attività e tutte le mattine si chiede: "Come posso risolvere problemi più grandi per più persone con meno del mio tempo?"
+
+E’ carica e motivata perché sa che se trova la risposta a questa domanda, farà più soldi facendo felici più clienti.
+
+Decide di studiare modi nuovi per risolvere problemi che già conosce. Si informa e fa corsi di aggiornamento sull’assunto in modo da avere più informazione per trovare idee nuovi che siano sempre più efficaci.
+
+Così diventa un risolutore di problemi
+
+**

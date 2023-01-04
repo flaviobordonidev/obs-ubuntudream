@@ -31,3 +31,16 @@ Tutto questo ti ha plasmato e formato profondamente. Se il tuo “oggi” non ti
 Questo non significa che tu debba lasciare tutto dietro alle tue spalle. Devi fare una scelta, e selezionare in maniera posata ed intelligente. Poi percorri la tua strada con sicurezza, piacere ed entusiasmo.
 
 **
+**
+
+---
+
+Marzia ha un gruppo di amici con cui si incontrano e parlano di crescita personale. Molti sono psicologi e quasi tutti appassionati di libri di auto-aiuto e crescita personale
+
+Si sente spronata a trasformare le sue passioni in un lavoro perché sa che lavorare tante ore non sarà un sacrificio ma una fatica divertente, proprio come gli appassionati di un hobby.
+
+Fa dei corsi di aggiornamento nella sua passione ed inizia a lavorare come secondo lavoro.
+
+Piano piano il secondo lavoro cresce e si trasforma nel lavoro principale che le da grandi soddisfazioni.
+
+**

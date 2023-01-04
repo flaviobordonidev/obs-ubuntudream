@@ -25,3 +25,16 @@ Non viviamo, forse in un periodo fantastico? Abbiamo il mondo intero ai nostri p
 Il sapere è il presupposto fondamentale per poter fare qualcosa! Il potere si ottiene però solo attraverso il fare risoluto. Questo è fantastico! Perché quasi tutto “il sapere” è a tua disposizione. Vai nella biblioteca più vicina e capirai che in tutta la tua vita, non riuscirai a leggere tutto ciò che lì sta scritto. Naviga in internet e il tuo mondo del sapere cresce ancora con nuove conoscenze. Tu hai la libertà, già da oggi, di iniziare ad afferrare e a realizzare i tuoi traguardi. Chi può impedirtelo, se non tu stesso? Fallo ora!
 
 **
+
+**
+
+Leonardo da Vinci ha grandi pensieri e compie grandi azioni che gli portano soldi e onore ed anche se i nobili cercano di tenerlo a guinzaglio perché sono loro che pagano non lo trattengono per molto.
+
+Lui sente di essere libero e segue la sua sete di conoscenza e fa esperimenti anche impopolari
+
+Ad esempio studia anatomia sezionando i cadaveri. Lascia molte opere incompiute.
+
+L'ecletticità di Leonardo lo porta alla genialità.
+
+  
+**

@@ -8,7 +8,9 @@ tag: #
 ---
 # Colori
 
-Progetto per un libro con i colori in modo da aiutare a distingure le varie sfumature
+Progetto per un libro con i colori in modo da aiutare a distingure le varie sfumature.
+
+[Riprendi video su TED che spiega della tribù indigena che non vede il colore azzurro perché non hanno una parola per quel colore. Invece vedono chiaramente un differente tono di verde di cui hanno una parola. Ha messo la ruota con vari verdi ed io non sono riuscito a riconoscere il verde differente *_* Questo vuol dire che se cominciamo ad usare più parole per i colori il nostro cervello si abituerà a distinguerli e vedremo il mondo "più colorato" ^ _^ ]
 
 - https://it.wikipedia.org/wiki/RAL_(scala_di_colori)
 - https://www.masterdany.it/conversione-dei-colori-ral-a-pantone/

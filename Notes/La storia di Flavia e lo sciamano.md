@@ -128,3 +128,12 @@ In estrema sintesi, questi 3 punti riassumono abbastanza bene lo sviluppo di una
 
 L’importante, il “succo” che volevo dirti, è che da soli non si vede mai il problema: occorre un life coach, che, dall’esterno, ti aiuta a capire come stanno le cose. 
 Il life coach non è un terapeuta, e se tu attraversi un periodo di crisi non vuol dire che tu sei malato: ti serve orientamento, tutto qui.
+
+---
+
+Gianna apprende che stare bene comincia dall’accettarsi. Scrive ad una persona che conosce per fargli sapere quanto la ammira.
+
+realizza che molto di quello che apprezza è un riflesso di qualità che anche Gianna ha, solo che non le riusciva a vedere.
+
+  
+**

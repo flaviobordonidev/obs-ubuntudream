@@ -60,3 +60,15 @@ A tal proposito c’è la storiella del tizio che voleva avvelenare la suocera e
   
 
 Quindi se inizi a fare concentrandoti in quello che c’è di buono anche se piccolissimo farai dei piccolissimi passi verso lo scoprire una passione che prima non vedevi.
+
+**---
+
+Kimie ha seguito la sua "leggenda personale" di essere assistente di volo. Nelle compagnie giapponesi non la accettavano e lei si è spostata in Europa ed è riuscita ad entrare in Lufthansa.  Studiare e crescere nel lavoro è la chiave per andare verso l'apice della performance. Per avere l'energia di studiare si deve avere PASSIONE in quello che si fa.  Kimie studia molto per fare la hostess; studia inglese, studia e si allena nella compagnia aerea. Fanno diverse prove e attività ed ha le colleghe che in molte attività sono più brave di lei, ma lei è arrivata prima nella prova di nuoto su simulazione di ammaraggio. 
+
+  
+
+---
+
+Il signore della LEGO che licenziato dalla fabbrica dove lavorava scopre interesse nel fabbricare giocattoli di legno per i propri figli. E ricercava SOLO IL MEGLIO.  
+fare un lavoro che ti piace?  
+Non sono solo momenti di piacere ma ci sono anche difficoltà da affrontare. Come superi le difficoltà ti caratterizza come persona. Se riesci ad andare ugualmente perché hai slancio e credi in quello che fai allora voto 100.**

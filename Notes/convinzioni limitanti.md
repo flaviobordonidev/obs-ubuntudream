@@ -59,3 +59,17 @@ Casi limite anche divertenti vengono da video su youtube come la ragazza che pre
 
   
 **
+**
+
+---
+
+Un indigeno è convinto che è impossibile fermare il flusso d’acqua di una cascata.
+
+L’esploratore gli spiega che basta affrontare il problema a monte. E’ impossibile fermare l’acqua di una cascata se il tuo unico punto di vista è la cascata. Ma se realizzi che la cascata è fatta da acqua che arriva dal fiume che è a monte è molto facile pensare a deviare il fiume scavando un canale.
+
+Esce dalla chiesa
+
+Come conseguenza del fiume deviato a monte la cascata resta senza acqua e quindi si riesce a fermare il flusso d’acqua di una cascata
+
+  
+**
