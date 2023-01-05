@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettel-teoria",
+      "path": "Notes/Zettel-teoria.md"
+    },
+    {
       "basename": "Interpretazione - voto d'esame",
       "path": "Notes/Interpretazione - voto d'esame.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "I soldi non sono tutto",
       "path": "Notes/I soldi non sono tutto.md"
-    },
-    {
-      "basename": "Parlare in pubblico",
-      "path": "Notes/Parlare in pubblico.md"
     }
   ],
   "omittedPaths": [],

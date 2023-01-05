@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Interpretazione - voto d'esame.md",
+                "file": "Notes/Zettel-teoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Interpretazione - voto d'esame.md",
+                "file": "Notes/Zettel-teoria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Interpretazione - voto d'esame.md",
+                "file": "Notes/Zettel-teoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Interpretazione - voto d'esame.md",
+                "file": "Notes/Zettel-teoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Interpretazione - voto d'esame.md"
+                "file": "Notes/Zettel-teoria.md"
               }
             }
           }
@@ -249,6 +249,7 @@
   },
   "active": "180f60ce02827a8c",
   "lastOpenFiles": [
+    "Notes/Interpretazione - voto d'esame.md",
     "Notes/Orgoglio.md",
     "Notes/Tatuaggio.md",
     "Notes/convinzioni limitanti.md",
@@ -257,7 +258,6 @@
     "Notes/Tornare a sognare - chef e pastore.md",
     "Notes/Non mi sento abbastanza.md",
     "Notes/Vola basso - tornare a sognare.md",
-    "Notes/Solitudine.md",
-    "Notes/La libertà di essere uno svitato.md"
+    "Notes/Solitudine.md"
   ]
 }

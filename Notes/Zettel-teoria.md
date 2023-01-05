@@ -80,6 +80,58 @@ Per la lettura poi passiamo allo screening/scanning ossia scorrere rapidamente i
 - pezzi di frase
 - spunti... che ci diano un'idea generale del libro e delle possibili risposte alle nostre domande.
 
+# Gli schemi
+
+> Non devi fare gli schemi per studiare...
+> ...devi **studiare** facendo gli schemi!!!
+
+Non partire da uno schema per studiare. Lo schema ***è*** lo studio.
+Parti dal libro e fai la lettura efficace --> prendi le parole chiave evidenziate nella lettura efficace e creaci uno schema. Questo è studiare.
+Lo schema **che hai fatto TU** può essere usato per **ripassare** un argomento che hai già studiato.
+
+[https://www.youtube.com/watch?v=6nMsWBirnlY]
+I 3 tipi di schemi principali:
+- schema di tipo **lineare** (anche detto *a cascata* o *a flusso*) 
+- mappe concettuali di novak (sviluppate con foglio A4 verticale)
+- mappe mentali di buzan (sviluppate con foglio A4 orizzontale)
+
+Il quarto tipo di schema:
+- schemi complementari
+
+### Schema lineare
+[ https://www.youtube.com/watch?v=NJ0SB8w_2Sw]
+Sono schemi verticali fortemente gerarcici con un con uno sviluppo che va:
+- dall'alto in basso : come successione degli argomenti (spesso elencati nella parte sx)
+- da sinistra adestra : come approfondimento dei vari punti
+
+Sviluppano uno stile *analitico*. Sono particolarmente adatti per gli argomenti tecnici, matematici, con elenchi e sottoelenchi,  dimostrazioni a step e cose del genere.
+
+### Mappe mentali
+Sono schemi radiali che si sviluppano in senso orario e dal centro verso l'esterno.
+Scrivendo le parole chiave su rami interconnessi tra loro; e sviluppando uno stile "globale".
+
+Sono eccellenti per argomenti descrittivi e discorsivi.
+Per i ragionamenti, dove l'aspetto del collegamento e del flusso di pensiero è più rilevante del dettaglio tecnico.
+
+### Mappe concettuali
+Sono degli schemi a **blocchi** che sfruttano caselle interconnesse tra loro secondo un ordine gerarchico preciso.
+
+Ideali per argomenti fortemente sequenziali per illustrare:
+-  processi
+- e sequenze
+
+### Schemi complementari
+
+Schemi specifici come:
+- tabelle
+- diagrammi cartesiani
+- linee del tempo (ad esempio in storia)
+- le nuvole di parole
+- diagrammi di shikawa
+- ...
+
+
+
 # Il metodo P.A.C.R.A.R.
 
 Pianificazione
