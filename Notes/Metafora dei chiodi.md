@@ -148,3 +148,20 @@ ogni momento è speciale, e  non ritorna, perciò vivilo al meglio.
 La tua esistenza è preziosa: non sprecare nemmeno un solo giorno pensando che conta poco e che potrai rifarti più avanti. Investi le tue risorse interiori: parti da te, dalle tue sane ambizioni, e realizzale con metodo e con gioia.
 
 **
+**
+
+Un ragazzo aveva un brutto carattere e litigava spesso, anche per motivi banali. Il padre lo invitò a fare un particolare esercizio: piantare un chiodo nella staccionata di casa ogni volta che aveva voglia di litigare, in modo da sostituire il litigare con il conficcare chiodi.
+
+Il primo giorno il ragazzo piantò 37 chiodi, e dunque evitò di litigare per 37 volte. Nei giorni seguenti piantò meno chiodi, perché notò che era più facile piantare chiodi piuttosto che litigare. Dopo alcune settimane arrivò un giorno in cui il ragazzo non piantò  alcun chiodo.
+
+Il padre gli disse: "Bene, ora, per ogni giorno che trascorri senza piantare chiodi, togli un chiodo dalla staccionata". Il ragazzo obbedì e dopo centinaia di giorni la staccionata era priva delle centinaia di chiodi che il ragazzo aveva conficcato.
+
+Quando anche l'ultimo chiodo fu levato, il padre commentò:
+
+"Hai imparato a comportarti bene, ma guarda questa staccionata: è piena di buchi e non sarà mai più come una volta. Quando litighi con qualcuno crei delle ferite che rimangono, come questi buchi.
+
+Importa poco quanto ti scuserai: la ferita rimane.".
+
+Filho, você tem controlado bem seu gênio, mas olhe os buracos que ficaram na porta. Quando uma pessoa deixa-se levar pela ira, suas palavras deixam cicatrizes como essas. Uma ferida verbal pode fazer tanto dano quanto uma ferida física. A ira deixa sinais. Não esqueça nunca..
+
+**

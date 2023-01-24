@@ -48,6 +48,20 @@ Continuando a superare I suoi limiti rinforza il suo ruolo di eroe invincibile.
 
   
 **
+**  
+
+Maddalena fa un provino per essere ammessa a lavorare in radio perché è un lavoro che le piace ed è molto preparata sulla musica e sulla storia dei cantanti.
+
+Si sente spaventata e non ha molta confidenza che sarà scelta perché non si sente abbastanza brava.
+
+La sua voce risulta molto piatta e monotona anche se risponde correttamente alle domande e riesce a tenere il discorso
+
+Al primo “grazie le faremo sapere” Maddalena rinuncia a fare altri provini perché ha conferma che lei non è brava come voce alla radio. In realtà le sarebbe bastato scaldare un po’ la voce e lasciar trasparire la sua passione per la musica e la storia della musica.
+
+  
+**
+
+
 
 ---
 # Vedi anche

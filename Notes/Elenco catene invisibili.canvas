@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"369ab7f516f0a287","x":-457,"y":-378,"width":391,"height":50,"color":"4","type":"text","text":"Catena verde (soldi): scarsità di denaro"},
+		{"id":"0710acd41609db3f","x":-457,"y":-297,"width":391,"height":50,"color":"3","type":"text","text":"Catena gialla (soldi): avidità"},
+		{"id":"b4b111da9f072e18","x":50,"y":-378,"width":318,"height":50,"color":"4","type":"text","text":"Chiave verde: abbondanza di denaro "},
+		{"id":"48f054345eb96af2","x":50,"y":-297,"width":318,"height":50,"color":"3","type":"text","text":"Chiave verde: intelligenza finanziaria"},
+		{"id":"dbb65e1caaf19ea5","x":-457,"y":-215,"width":391,"height":50,"color":"6","type":"text","text":"Catena viola (interioirtà): eccesso di libertà"},
+		{"id":"9030cbc8289aaedd","x":50,"y":-215,"width":318,"height":50,"color":"6","type":"text","text":"Chiave viola: accettare dei limiti"},
+		{"id":"9c1ad3349d911ddf","x":-457,"y":-130,"width":391,"height":50,"color":"2","type":"text","text":"Catena arancione: compromesso ad ogni costo"},
+		{"id":"a37a4972bb6d9f3c","x":50,"y":-130,"width":409,"height":50,"color":"2","type":"text","text":"Chiave arancione: saper infrangere le regole (ribelle - vedi articolo psicologia)"}
+	],
+	"edges":[
+		{"id":"65f0ff7fc549c70d","fromNode":"b4b111da9f072e18","fromSide":"left","toNode":"369ab7f516f0a287","toSide":"right"},
+		{"id":"7256620a8dae01e2","fromNode":"48f054345eb96af2","fromSide":"left","toNode":"0710acd41609db3f","toSide":"right"},
+		{"id":"e37cb3f358f45c57","fromNode":"369ab7f516f0a287","fromSide":"right","toNode":"b4b111da9f072e18","toSide":"left"},
+		{"id":"c99b6a7f1d6ff912","fromNode":"0710acd41609db3f","fromSide":"right","toNode":"48f054345eb96af2","toSide":"left"},
+		{"id":"5c88943f7f0ad4bf","fromNode":"dbb65e1caaf19ea5","fromSide":"right","toNode":"9030cbc8289aaedd","toSide":"left"},
+		{"id":"7b2d8b4884299102","fromNode":"9030cbc8289aaedd","fromSide":"left","toNode":"dbb65e1caaf19ea5","toSide":"right"},
+		{"id":"b72635cf9d2769b3","fromNode":"9c1ad3349d911ddf","fromSide":"right","toNode":"a37a4972bb6d9f3c","toSide":"left"},
+		{"id":"375bc54b416839da","fromNode":"a37a4972bb6d9f3c","fromSide":"left","toNode":"9c1ad3349d911ddf","toSide":"right"}
+	]
+}

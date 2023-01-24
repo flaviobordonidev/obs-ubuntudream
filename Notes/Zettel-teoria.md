@@ -98,6 +98,14 @@ I 3 tipi di schemi principali:
 Il quarto tipo di schema:
 - schemi complementari
 
+Tuttti gli schemi devono avere queste caratteristiche:
+- Gerarchie : raggruppa i concetti in un concetto principale e via via sotto gruppi
+	- usa un colore diverso per ogni sotto gruppo principale
+- Dividi in *passi* (step) 1, 2, 3, ...
+	- in pratica è un elenco con sotto-elenchi, come l'indice dei libri (table of content)
+- Scriverlo fatto a mano su un foglio A4 (o supporto elettronico equivalente es: iPad o remarkable)
+- 
+
 ### Schema lineare
 [ https://www.youtube.com/watch?v=NJ0SB8w_2Sw]
 Sono schemi verticali fortemente gerarcici con un con uno sviluppo che va:

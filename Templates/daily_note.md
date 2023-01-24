@@ -25,9 +25,9 @@ Come avrei potuto ottenere un punto in più?
 
 
 3 cose che faccio nelle prossime 24h. (In ordine di priorità)
-- bla
-- bla
-- bla
+- [ ] bla
+- [ ] bla
+- [ ] bla
 
 ---
 ## Journaling

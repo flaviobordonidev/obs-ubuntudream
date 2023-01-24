@@ -17,6 +17,6 @@ Non siamo forse un po’ pazzi? Lavoriamo e sfacchiniamo per giorni e notti inte
 
 Noi sappiamo bene, che ci siamo meritati la pausa ma purtroppo dentro di noi c’è sempre questa “vocina” che con successo ci suggerisce delle sensazioni spiacevoli.
 
-Hai anche tu già provato queste sensazioni oppure conosci qualcuno che si comporta così? Allora è arrivato il momento dell’autosuggestione:”Mi merito di godermi in santa pace e con la coscienza pulita, l’equilibrio tra lavoro e divertimento.” Scrivi questa frase su un cartoncino e ripetila almeno 50 volte al mattino e 50 alla sera. Fallo per un periodo di 4 settimane. Ti stupirai!
+Hai anche tu già provato queste sensazioni oppure conosci qualcuno che si comporta così? Allora è arrivato il momento dell’autosuggestione:”==Mi merito di godermi in santa pace e con la coscienza pulita, l’equilibrio tra lavoro e divertimento.==” Scrivi questa frase su un cartoncino e ripetila almeno 50 volte al mattino e 50 alla sera. Fallo per un periodo di 4 settimane. Ti stupirai!
 
 **

@@ -9,8 +9,22 @@ tag: #
 ---
 # chiarezza
 
-**
+Avere CHIAREZZA
 
+Camminare con costanza in direzione dei propri obiettivi
+
+Flavio sa che può raggiungere quello che vuole... Il modo per raggiungere l'ottenere quello che vuoi. Ma se si cambia idea tutte le volte non avrai mai chiaro quello che stai cercando. Non hai chiarezza di obiettivi. E 'molto difficile per l'universo aiutarti. Così, i ricchi sono molto bravi a dichiarare chiaramente quello che vogliono e poi andare dietro a quello che vogliono con tutta la sua forza e tutta la loro potenza.
+
+Quando si ha chiaro quello che si  vuole. Il "come" è semplice ma non è facile. Se hai chiaro di voler arrivare in cima a quella montagna per arrivarci basta camminare un passo dopo l’altro ma non è facile. Richiede preparazione e allenamento.
+
+E’ come inviare all'universo messaggi di aiuto precisi.
+
+---
+1. Clareza - aonde está a minha vida finançeira - Defina o meu estado inicial -- Base Line.
+2. Aonde eu quero chegar - esado desejado - METAS
+3. ciclo de mudança -
+
+---
 Luca tutti I giorni si dibatte tra mille compiti da fare.
 
 Si sente confuso perché non riesce a capire se quello che sta facendo vale veramente la pena. E questo non riesce a capirlo perché non ha chiarezza.
@@ -31,8 +45,6 @@ Decide di farsi la seguente domanda: ”Questo sarà importante da qui ad un ann
 
 Un passetto alla volta I mille compiti da fare restano ma ad un livello completamente differente perché adesso ha una grande impresa.
 
-  
-**
 
 
 
