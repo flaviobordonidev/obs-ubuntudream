@@ -8,9 +8,6 @@ tag: #
 
 ---
 # Maratona di New York
-
-**
-
 Dario vorrebbe andare alla maratona di New York perché è un evento che ha voglia di vivere. Passare per il ponte Verrazzano e correre nella metropoli più conosciuta al mondo.
 
 Si sente emozionato ed inizia a prepararsi il viaggio.
@@ -22,7 +19,6 @@ Arriva a fare la maratona e si diverte molto, ma non riesce a completarla per ma
   
 
 ---
-
 Laura si prepara per fare una maratona ed inizia ad andare a correre tutti i giorni.
 
 Ho scelto di iniziare questo compito con un piccolo passo imperfetto; Mi sentirò alla grande e sarò pieno di tempo per giocare
@@ -34,7 +30,6 @@ La decisione si ottiene con la preparazione.  Imponiti di fare qualcosa verso l
   
 
 ---
-
 Fernando ha il sogno di correre la maratona di New York. E’ convinto che una volta riuscito a correrla tutta avrà raggiunto la felicità.
 
 E’ super impegnato e sopporta lo stress e la fatica perché vuole raggiungere il suo sogno ma una volta corsa la maratona il picco di felicità si esaurisce in poche settimane e gli resta una sensazione di vuoto.
@@ -46,7 +41,6 @@ Non realizza quanto era cresciuto per fare la maratona. Ormai è solo un vago ri
   
 
 ---
-
 Valentino vuole correre la maratona di New York perché questo è il suo sogno. E’ convinto che una volta raggiunto il suo sogno si troverà in un luogo magico dove la felicità sarà tutta intorno.
 
 Sente determinazione ed una volta corsa la maratona realizza che la sensazione di felicità è un picco momentaneo mentre la sua vita è una continuità nel tempo.
@@ -55,4 +49,13 @@ Decide di stabilire un nuovo obiettivo e di gioire di ogni piccola vittoria in d
 
 La vita non è il solo raggiungimento degli obiettivi. La vita è il viaggio. L'unico modo per raggiungere davvero tutti i tuoi sogni è di godere pienamente ogni passo del vostro viaggio. Questo è il modo migliore
 
-**
+[la felicità non è una linea di arrivo.]
+[la felicità non è un traguardo ma è il percorso per arrivarci]
+
+
+---
+# Vedi anche
+- [[Il successo non accade per caso|Il successo non arriva per caso]]
+- [[I 7 gradini verso il successo]]
+- [[Crede che successo è dato dalla preparazione]]
+- 

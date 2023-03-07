@@ -25,3 +25,9 @@ Ha mille dubbi e mille domande ed ha ha la capacità di cambiare, crescere e imp
 Se trova qualcosa di meglio lo usa per migliorare la sua posizione.
 
 E’ in costante apprendimento di nuove competenze, leggendo le cose che lo ispirano a fare meglio, e non ha paura di cambiare il suo stile di vita anche drasticamente.
+
+
+---
+# Vedi anche
+- 
+- 

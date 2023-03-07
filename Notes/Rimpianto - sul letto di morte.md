@@ -8,34 +8,19 @@ tag: #
 
 ---
 # Rimpianto - sul letto di morte
-
-
-**
-
 Un'infermiera ha trascorso diversi anni a prendersi cura dei pazienti durante le ultime 12 settimane della loro vita e ha chiesto ai suoi pazienti di "eventuali rimpianti che avevano o qualsiasi cosa avrebbero fatto in modo diverso".  I principali rimpianti dei suoi pazienti sono:
 
--   Vorrei avere avuto il coraggio di vivere una vita vera per me, non la vita che gli altri si aspettavano da me. Vorrei essermi lasciato andare di più alla felicità.
-    
+-   Vorrei avere avuto il coraggio di vivere una vita vera per me, non la vita che gli altri si aspettavano da me. Vorrei essermi lasciato andare di più alla felicità.    
 -   Vorrei aver avuto il coraggio di esprimere i miei sentimenti.
-    
 -   Vorrei essere rimasto in contatto con i miei amici.
-    
 
 “Il rammarico per le cose che abbiamo fatto può essere mitigato dal tempo; è un rimpianto per le cose che non abbiamo fatto che è inconsolabile.”
 
-  
-
 ---
-
 Le 3900 biglie. Un modo per vedere la vita passare.
-
 [è il “ricordati che devi morire” dei tempi moderni]
 
-  
-
 "Lascia che ti dica qualcosa Tom, qualcosa che mi ha aiutato a mantenere una buona prospettiva sulle mie priorità." E fu allora che iniziò a spiegare la sua teoria delle "mille biglie".
-
-  
 
 “Vedi, un giorno mi sono seduto e ho fatto un po' di calcoli. La persona media vive circa settantacinque anni. Lo so, alcuni vivono di più e altri di meno, ma in media la gente vive circa settantacinque anni". “Ora, ho moltiplicato 75 per 52 e ho ottenuto 3900 che è il numero di sabati che una persona media ha in tutta la sua vita.
 
@@ -61,5 +46,7 @@ Avresti potuto sentire uno spillo cadere sulla band quando questo tizio si è co
 
 ---
 # Vedi anche
-- 
+- [[Il tempo è la mia sorgente più preziosa]]
+- [[Il tuo stato mentale si riflette nel tuo comportamento]]
+- [[agire]]
 - 

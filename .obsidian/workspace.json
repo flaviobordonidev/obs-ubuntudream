@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9be80c39119548",
+        "id": "4b23a0c4e4395117",
         "type": "tabs",
         "children": [
           {
-            "id": "58c69d9f302b265f",
+            "id": "a3b11677e18349d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "aa1497342e5121d8",
+            "id": "af72fdb8439b3ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/La passione non è spontanea.md",
+                "file": "Journal/2023-03-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leggenda personale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/La passione non è spontanea.md",
+                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/La passione non è spontanea.md",
+                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/La passione non è spontanea.md",
+                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/La passione non è spontanea.md"
+                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md"
               }
             }
           }
@@ -232,17 +231,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa1497342e5121d8",
+  "active": "a3b11677e18349d9",
   "lastOpenFiles": [
-    "Notes/Come allenare la concentrazione.md",
-    "Notes/Strategia per sfidarmi a fare di più.md",
-    "Notes/Fare un poco tutti i giorni.md",
-    "Notes/equilibrio tra lavoro e divertimento.md",
-    "Notes/Ruota della vita finanziaria.md",
-    "Notes/Impresa - Startup.md",
-    "Notes/Mezzi e risorse per aiutare gli altri.md",
-    "Notes/Denaro Vs Relazioni personali.md",
-    "Notes/Il denaro è importante.md",
-    "Notes/Comprare Attivi Vs Passivi.md"
+    "Journal/2023-03-07.md",
+    "Notes/Obsidian.md",
+    "Notes/courses.md",
+    "Notes/Dissociazione - Vedersi fuori da se stessi.md",
+    "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
+    "Notes/2023-03-07.md",
+    "Notes/Chiedi e ti sarà dato.md",
+    "Notes/meditazione e mindfulness.md",
+    "Notes/La corda sopra l'abisso.md",
+    "Notes/Papà con figlio in bicicletta.md",
+    "Notes/Non si sentiva adulta - gli mancava qualcosa.md",
+    "Notes/Dilettante vs professionista.md",
+    "Notes/Il coraggio di essere differenti.md",
+    "Notes/Sapere ascoltare.md",
+    "Notes/Un antidoto contro l'ira.md",
+    "Notes/Tornare a sognare - chef e pastore.md",
+    "Notes/Rischiare - Nuotare è bello.md",
+    "Notes/È il tetto che parla non il capretto.md",
+    "Notes/Domatore leoni e sgabello.md",
+    "Notes/Vedovo - puoi sentire l’acqua con il ramo senza toccare l’acqua.md",
+    "Notes/Piccolo me piccolo me.md",
+    "Notes/Dr.ssa e pazienti terminali.md",
+    "Notes/Le pietre diventano scalini.md",
+    "Templates/(default).md",
+    "Notes/Tazza d’oro e tazza di coccio.md",
+    "Notes/Forze o debolezze.md"
   ]
 }

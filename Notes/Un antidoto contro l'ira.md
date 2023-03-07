@@ -22,39 +22,35 @@ Essere impazienti peggiora la qualità della vita, con conseguenze negative sull
 Puo' diventare un disturbo compulsivo: si trasforma nell'OSSESSIONE DI AVERE O SAPERE TUTTO E SUBITO e puo' causare ansia o depressione.
 
 10 esercizi pratici
-
 1. CONTARE FINO A DIECI
    funziona davvero! Il primo passo fondamentale per allenare la calma è prendere tempo. La lentezza aiuta a non commettere errori.
-
 2. FARE YOGA
    questa disciplina c'insegna a prenderci delle pause, a rilassarci a respirare profondamente. Cio' aiuta a ritrovare la calma.
-
-***********************************************
-3. SCRIVERE UN DIARIO O UN BLOG
-
+3. ==SCRIVERE UN DIARIO O UN BLOG==
    la scrittura e' un'ottima valvola di sfogo.
-***********************************************
-
 4. FARE GIARDINAGGIO
    prenderci cura delle piante ci insegna a seguire i suoi ritmi e non i nostri
-
 5. EVITARE DI SOVRACCARICARSI DI LAVORO
    fare troppe cose insieme predispone all'impazienza
-
-************************************************************************
-6. ELENCARE PER ISCRITTO LE PRIORITA'
-
+6. ==ELENCARE PER ISCRITTO LE PRIORITA'==
    puo' essere utile redigere un elenco degli impegni quotidiani e di lavoro
-***********************************************************************
-
 7. PENSARE
    occorre riflettere su quello che si sta' facendo e ricordare che il mondo non gira attorno a noi e che si e' parte di una comunita' composta da migliaia di individui
-
 8. QUANDO SI E' IN RITARDO
    chiedersi quale sia la cosa peggiore che puo' capitare per colpa di quel ritardo e cercare di essere pazienti con se stessi
-
 9. NON FISSARSI SU UN UNICO OBIETTIVO
    allargare i propri orizzonti e vagliare le varie possibilita'
-
 10. LEGGERE UN LIBRO
     utile l'arte della calma di Seaward Brian, edito da Eco
+
+
+
+---
+# Vedi anche
+- [[Intelligenza Emozionale]]
+- [[catena invisibile - rabbia]]
+- [[Il controllo delle emozioni]]
+- [[Convinzioni ed Emozioni]]
+- [[Visualizzazione sulle emozioni]]
+- [[Pazienza]]
+- 

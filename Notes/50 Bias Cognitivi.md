@@ -293,3 +293,11 @@ We don't think we have bias, and we see it in others more than ourselves.
 - I'm not biased
 
 ![[50 Bias Cognitivi.jpg]]
+
+
+
+---
+# Vedi anche
+- [[Intelligenza Emozionale]]
+- [[Possiamo cambiare il nostro comportamento linguisticamente]]
+- 

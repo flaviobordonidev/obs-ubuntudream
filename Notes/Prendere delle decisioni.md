@@ -3,7 +3,7 @@ alias:
 ---
 2023-01-04 - 01:24 - *luogo*
 zettle: # letteraria transitoria permanente
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #etica-sociale #impegno-lavoro relazione-famiglia valore-denaro 
 tag: #
 
 ---
@@ -20,10 +20,7 @@ Chi non sa decidere, rimane davanti al cartello stradale e là si trova ancor og
 Il mondo appartiene ai decisi e non certo agli indecisi! Promessa:”La prossima volta, al ristorante decido entro 30 secondi quello che voglio mangiare!”
 
 
-**
-
-# Prendere decisioni
-
+---
 Martina non sa prendere decisioni
 
 Si sente frustrata perché è sempre titubante e non sa mai dire se si o no. Resta nel vago ed allunga i tempi fino allo sfinimento.
@@ -44,5 +41,10 @@ va da un guru per avere risposte. Il guro gli dice che Una decisione è basata s
 
 Matteo passa a camminare il percorso che gli indica il suo cuore o quello che gli permette in caso non vada bene di tornare indietro. Non si preoccupa più di scegliere ma cammina un passo dopo l’altro.
 
-  
-**
+
+
+---
+# Vedi anche
+- [[Decidere è fondamentale]]
+- [[Decide di non conformarsi]]
+- 

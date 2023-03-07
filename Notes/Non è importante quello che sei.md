@@ -8,10 +8,7 @@ tag: #
 
 ---
 # Non è importante quello che sei
-
-**
-
-# Non è importante quello che sei, ma quello che ne fai di te
+[Non è importante quello che sei, ma quello che ne fai di te]
 
 Non rincorrere continuamente l’idea di come voler essere, solamente perché credi così, di poter fare impressione sugli altri. Analizza chi sei veramente, quali sono le cose che sai fare veramente bene, quali sono i tuoi punti forti - e adesso fanne uso nel migliore dei modi.
 
@@ -19,4 +16,11 @@ Una persona disabile costretta sulla sedia a rotelle, potrebbe continuamente lam
 
 Da che cosa ti lasci paralizzare? Che cosa sai fare veramente bene e a chi potrebbe essere utile?
 
-**
+
+
+---
+# Vedi anche
+- [[Interpretare - La sedia a rotelle mi ha liberato]]
+- [[Giustificare la paura|La paura ci blocca]]
+- [[Vittimismo - Perché proprio a me]]
+- 

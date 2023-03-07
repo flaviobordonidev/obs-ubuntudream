@@ -8,10 +8,6 @@ tag: #
 
 ---
 # Tornare a sognare - chef e pastore
-
-
-**
-
 Il figlio di ricchi avvocati ha un futuro assicurato nello studio del padre ma lui vorrebbe fare lo chef perché ama cucinare.
 
 Sente che la sua passione è nel cucinare ma segue gli studi di avvocato perché è la cosa più “intelligente” da fare.
@@ -20,10 +16,7 @@ Si concentra negli studi di avvocato che lo impegnano molto e non gli lasciano t
 
 Diventa un serio avvocato che ha tutto ma non si sente davvero felice. Ormai ha perso anche l’entusiasmo nel cucinare ed anche il piacere nello sperimentare piatti ricercati.
 
-  
-
 ---
-
 Il figlio di ricchi banchieri ha un posto “fisso” tranquillo ma lui decide di fare il pastore perché vuole viaggiare.
 
 Sente che la sua “leggenda personale” è quella. Sogna che in Egitto troverà un tesoro.
@@ -32,10 +25,11 @@ lascia tutto, va in egitto si ferma lì per 3 anni. arriva alle piramidi e viene
 
 Il pastore torna in spagna e trova davvero il tesoro nella chiesa in rovina dove solitamente dormiva con le pecore. Eventi che l’Acceso sa interpretare positivamente e che lo condurranno alla fine del viaggio e all’inizio di uno nuovo
 
-**
-
 
 ---
 # Vedi anche
-- 
+- [[passione]]
+- [[Cavallo di Troia|Scoprire le nostre convinzioni limitanti]]
+- [[Comportati come se]]
+- [[i 5 comportamenti della mente inconscia]]
 - 

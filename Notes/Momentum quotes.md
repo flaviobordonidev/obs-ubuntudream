@@ -12,6 +12,12 @@ Le frasi famose presentate sul plug-in del browser google chrrome: **Momentum**
 ## Le frasi
 
 —
+“Se ti concentri sui risultati, non cambierai mai. Se ti concentri sul cambiamento, otterrai risultati”. ~Jack Dixon
+
+—
+“The biggest mistake people make in life is not trying to make a living at doing what they most enjoy.” - Malcolm Forbes
+
+—
 “Your greatest dreams are all on the other side of the wall of fear and caution.” - Unknown
 
 —

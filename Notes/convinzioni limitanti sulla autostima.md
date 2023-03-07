@@ -3,8 +3,8 @@ alias:
 ---
 2023-01-23 - 10:37 - *luogo*
 zettle: # atomic moc
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
-tag: #
+ubuntudream: #equilibrio-interiorità 
+tag: #mind-set 
 
 ---
 # convinzioni limitanti sulla autostima
@@ -25,5 +25,6 @@ Convinzioni limitanti legate all’autostima 
 
 ---
 # Vedi anche
-- 
+- [[convinzioni limitanti]]
+- [[Pensieri limitanti - non meritare]]
 - 

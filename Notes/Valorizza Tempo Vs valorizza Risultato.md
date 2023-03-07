@@ -7,6 +7,7 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
+[[Pianificare]]
 # Valorizza Tempo Vs valorizza Risultato
 
 sceglie di essere pagato per il tempo lavorato. Lo spento sceglie di essere pagato per il tempo lavorato ma il tempo è limitato a 24 ore al giorno per tutti. 
@@ -92,5 +93,5 @@ Sceglie di essere pagato per i risultati. Sa che non ci sono limiti al suo rendi
 
 ---
 # Vedi anche
-- 
+- [[My Life Planning  Workbook|pianificare e time management]]
 - 

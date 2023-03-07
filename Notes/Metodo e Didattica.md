@@ -4,125 +4,80 @@ alias:
 2023-01-06 - 14:51 - *luogo*
 zettle: # atomic moc
 ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
-tag: #
+tag: #metodo #didattica
 
 ---
 # Metodo e Didattica
 
+### Metodo
 **Metodo**: serie di passi per affrontare una situazione. È una procedura su come fare una cosa, o su come arrivare a farla, nel migliore dei modi.
 
-  
-
 -   Esempio per aprire la lattina coca cola prima si tirava la linguetta strappando via all’infuori. Adesso si gira e si fa rientrare verso l’interno della lattina. Il signore asiatico sull'aereo che ha tentato di aprirla con il metodo vecchio e non solo non c’è riuscito ma gli è rimasto in mano l’anello di latta impedendo di aprirla anche con il nuovo metodo.
-    
-
   
-
 -   Esempio per pattare nel golf immaginare una linea rossa che va da prima della pallina fino ad oltre la buca. Questo semplice insegnamento mi da un metodo per studiare le pendenze del green tutte le volte che impatto la palla. e mi abitua a verificare che il movimento della mazza segua la linea prima di impattare la palla. 
-    
-
-  
 
 -   Esempio di metodo in Giappone è fermare un poliziotto e farsi portare in questura li chiamano l'ambasciata e ti trovano un interprete l'ambasciata può fornirti un prestito per affrontare il rientro in patria o fornisce dei corsi di lingua o posti dove puoi vivere...
-    
-
-  
 
 -   Esempio di metodo: per aprire la porta ruotare la maniglia in senso orario.
-    
 
-  
-
--   Esempio di metodo: in caso di atterraggio di fortuna di un aereo in una giungla le azioni da fare sono...
-    
-
-  
+-   Esempio di metodo: in caso di atterraggio di fortuna di un aereo in una giungla le azioni da fare sono...  
 
 -   ﻿Esempio della bambina che si dava la spinta per partire avendo il pedale alto rivolto verso il dietro invece che in avanti. Quindi alzandosi per spingersi perdeva l'equilibrio.  
     Se gli avessimo dato il metodo di come mettere i pedali per partire avrebbe appreso molto prima ad andare in bicicletta.  
       
     ^_^ Questo esempio è nel foglio della teoria della Foglia de Produtividade :)
-    
 
-  
-  
 
 Adattabilità neuroplasticitá mesi invece di secoli usati dall'evoluzione.
 
 Se metto una persona in Giappone lui si adatta con velocità differente a secondo dei mezzi e dei metodi.
 
-  
+Einstein crea chiavi ed apre nuove porte noi dobbiamo guardare attraverso quelle porte. Entrare già è per pochi perché devi apprendere una nuova lingua....  
 
-Einstein crea chiavi ed apre nuove porte noi dobbiamo guardare attraverso quelle porte. Entrare già è per pochi perché devi apprendere una nuova lingua....
 
-  
-  
-
-Didattica: insegnare un metodo in modo chiaro: iniziando dai concetti semplici e poi, piano piano, insegnando i passi sempre più complessi.
-
-  
+### Didattica
+**Didattica**: insegnare un metodo in modo chiaro: iniziando dai concetti semplici e poi, piano piano, insegnando i passi sempre più complessi.
 
 Magari il metodo inizia con un passo difficile ma didatticamente spiego prima dei passi più facili così che poi puoi capire il primo passo da fare nel metodo.
 
-  
-
 Esempio di didattica é un corso di sopravvivenza in cui ti insegnano vari metodi per sopravvivere in situazioni difficili. Ma tu se ti dovesse servire non userai i vari passi da fare per sopravvivere nella stessa sequenza in cui te li hanno insegnati ...
 
-  
-  
 
 Paradigma: è il modo in cui filtri il mondo esterno:
-
-Uccello immerso in aria non percepisce l’aria.
-
-Pesce immerso in acqua non percepisce l’acqua.
-
+- Uccello immerso in aria non percepisce l’aria.
+- Pesce immerso in acqua non percepisce l’acqua.
 (Geronimo Tehml nel ciclo della realtà lo chiama "il mio mondo")
 
-  
 
----
-
+### Metafora della siepe
 Avere un metodo - struttura psicologica - Metafora Siepe por aprender portugues
-
-  
 
 La metafora del supporto per far si che il rampicante riproduca la siepe.
 
 Ho una siepe a forma di piramide (lingua portoghese). Se lascio il mio rampicante senza supporto (grammatica, scuola) cresce in modo disorganico. Sale e si piega e cade. Resta bassa e fatica a crescere. Se gli do il supporto, ci si arrampica, crea facilmente associazioni ed in poco tempo riesce a prendere la forma della piramide.
 
-  
 
---
-
+### Metafora del filo di perle
 La metafora del filo in cui metto le perle per creare la collana. Il filo è il metodo (la struttura) le perle sono le idee.
 
-  
 
---
 
+## Strategia vs Tattica
 Metodo (Strategia vs Tattica) 
 
 La differenza tra strategia e tattica l’ho già descritta approfonditamente e devo solo ritrovare dove. C’era anche un audio di 1 ora di Erico Rocha che mi ricordo sentivo al telefono nella mia passeggiata a vedere i geroglifici quando ero andato alla centrale idroelettrica per Via Lite che si rompeva in continuazione.
-
-  
 
 Il metodo lo descrive anche Geronimo Theml come uno dei suoi pilastri fondamentali per l’academia da produtividade. 
 
 Faceva l’esempio di lui ed il suo amico che giocavano a tennis ed erano allo stesso livello, entrambi principianti. Un giorno un istruttore di tennis gli propone una lezione gratuita. L’amico non accetta ma Geronimo accetta. Gli insegna ad indicare la palla quando arriva con la mano e battere con la racchetta. Il giorno dopo vince facile il suo amico che non aveva un metodo.
 
-  
-
 Il metodo è utile ad esempio alla bambina che imparava ad andare in bici e che partiva con il pedale messo indietro e quindi quando si sollevava invece di avere la spinta in avanti scendeva di peso sul pedale che girava a vuoto in senso contrario e non riusciva a partire.
 
 Quando ha capito che mettendolo in avanti riusciva a sfruttare il suo peso per la spinta iniziale tutto è migliorato. Se il padre gli avesse dato un metodo, ossia gli avesse detto sin dall’inizio metti il pedale così e sollevati, la bimba avrebbe appreso in meno tempo
 
-  
-
 Nella diversità dell’altro possiamo apprendere ad esempio il dipendente creativo che mette il ventilatore puntato sul nastro trasportatore con scatole dentifricio.
 
 Magari nella sua esperienza ha associato i bicchieri di carta vuoti che volavano via col vento quando faceva dei pic-nic, invece quelli pieni restavano sul tavolo. Ha preso quell’associazione e la ha usata in modo diverso per risolvere un problema senza passare per i percorsi “canonici” di una bilancia di precisione.
-
   
 
 ---
@@ -232,5 +187,6 @@ Altro metodo di tagliare il pane verso l’esterno per evitare di tagliarti.
 
 ---
 # Vedi anche
-- 
+-  [[liberare]]
+- [[Potenziare]]
 - 

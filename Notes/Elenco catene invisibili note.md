@@ -9,12 +9,12 @@ tag: #
 ---
 # Le catene invisibili
 
-==Le prigioni invisibili sono quelle **regole che ci imponiamo** crescendo. 
+==Le catene invisibili sono quelle **regole che ci imponiamo** crescendo. 
 Sono regole che ci vengono date dall’esterno e che noi incorporiamo nella nostra struttura psicologica come se fossero dei programmi che installiamo nel nostro cervello.==
 
-Le regole sono importanti ma diventno catene invisibili quando abbiamo l’**intransigenza** estrema nel seguire dei propri valori o principi di vita. **Nelle proprie convinzioni**.
+Le regole sono importanti ma diventano catene invisibili quando abbiamo l’**intransigenza** estrema nel seguire dei propri valori o principi di vita. **Nelle proprie convinzioni**.
 
-==La libertà è quella di “**eccezionalmente**” permettersi di **non rispettare** ==un proprio valore e un proprio principio di vita o una propria convinzione. È la libertà di essere ribelli con se stessi; o meglio è avere la ==libertà di poter essere flessibile ed imperfetto==.
+==La libertà è quella di “**eccezionalmente**” permettersi di **non rispettare** ==un proprio valore e un proprio principio di vita o una propria convinzione. È la libertà di essere ribelli con se stessi; o meglio è avere la ==libertà di poter essere flessibili ed imperfetti==.
 
 
 [Questa parte in basso rivedere con le parole di Murillo Gun del corso CriCriCri]

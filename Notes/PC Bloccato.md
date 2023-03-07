@@ -8,11 +8,6 @@ tag: #
 
 ---
 # PC Bloccato
-
-**
-
-# PC Bloccato
-
 Alice sbrocca perché il pc si impalla ed è rallentato.
 
 è arrabbiata e non pensa a quale possa risolvere il suo problema. Forse usare il telefono per cercare l’informazione oppure chiudere qualche applicativo o riavviare il pc.
@@ -33,4 +28,10 @@ Sente compassione e vuole aiutarla ad affrontare il cattivo pc che l’ha fatta 
 
 si siede con calma, aspetta che il pc si carichi, ricerca il problema e come potrebbe fare per risolverlo. Dopo essersi informato su vari siti capisce che il pc è rallentato perché la memoria è piena, cancella I file superflui e restituisce il pc riparato e velocizzato alla ragazza...e riceve un bacetto!
 
-**
+
+
+
+---
+# Vedi anche
+- [[Intelligenza Emozionale]]
+- 

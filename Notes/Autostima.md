@@ -11,6 +11,11 @@ tag: #
 
 **
 
+Be OK with what you ultimately can't do, because there is so much you CAN do.
+-> Accetta di essere "abbastanza".
+
+**
+
 # Si imprime che è capace ed accresce la sua autostima
 
 Marco è ingegnere e deve fare un progetto che normalmente veniva gestito da uno studio più grande. Fino ad oggi aveva solo aiutato perché la complessità del progetto richiede un livello di esperienza molto alto.

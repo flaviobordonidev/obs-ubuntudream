@@ -8,10 +8,7 @@ tag: #
 
 ---
 # Fai quello di cui hai paura
-
-**
-
-# Fai quello di cui hai paura, e la paura sparirà!
+Fai quello di cui hai paura, e la paura sparirà!
 
 Quanto volte hai rinviato di fare cose che ti sembravano spiacevoli, che affrontavi malvolentieri, delle quali hai sempre avuto un gran timore o sentito una così grande paura che ti paralizzava? Hai trovato sempre mille scuse per dire che oggi non puoi affrontarle. Questo è completamente assurdo e paradossale:
 
@@ -21,4 +18,9 @@ Ammetti:”Spesso quello che tu avevi a lungo rimandato lo hai sbrigato in poco 
 
 Fai le cose più importanti oggi, altrimenti domani diventeranno urgenti - e presta attenzione alle tue sensazioni.
 
-**
+
+
+---
+# Vedi anche
+- [[Giustificare la paura|La paura ci blocca]]
+- 

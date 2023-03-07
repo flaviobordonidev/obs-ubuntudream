@@ -16,3 +16,11 @@ Sentono l’adrenalina di una nuova sfida da affrontare. Se fuori piove che poss
 Sfornano una serie di opzioni: bowling, acquario, museo, parco acquatico, spa … Decidono di andare alla spa li vicino che ha anche una piscina al coperto ed un salone estetico con lampade abbronzanti.
 
 Passano una giornata magnifica e la settimana successiva invece di cenare fuori al ristorante vanno a cena dai vicini perché devono rientrare nel budget e … fare invidia buona ai loro amici.
+
+
+
+
+---
+# Vedi anche
+- [[Agire sulla base di un piano scritto]]
+- 

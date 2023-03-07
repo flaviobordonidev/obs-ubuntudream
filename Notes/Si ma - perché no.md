@@ -8,10 +8,7 @@ tag: #
 
 ---
 # Si ma - perché no
-
-**
-
-# Dal “si ma…” al “perché no”!
+[Dal “si ma…” al “perché no”!] --> [esci dal vittimismo]
 
 Molto prima di aver modo di conoscere bene una persona e molto prima che essa esprima il suo modo di pensare, puoi riuscire a conoscerla dalle sue parole. Il vincente si pone la seguente domanda “Perché no?” e nella sua risposta è già inclusa la possibilità di trovare la via giusta.
 
@@ -21,4 +18,11 @@ Spetto solo a te decidere:”Vuoi cambiare qualche cosa nella tua vita, e prende
 
 Trasformati da un “si ma” ad un “perché no?” e questo per realizzare i tuoi desideri ed i tuoi sogni.
 
-**
+
+
+---
+# Vedi anche
+- [[Vittimismo - Perché proprio a me]]
+- [[convinzioni limitanti sulla autostima]]
+- 
+- 

@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: Convinzioni limitanti
 ---
 2023-01-03 - 16:51 - *luogo*
 zettle: # letteraria transitoria permanente
@@ -7,7 +7,7 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
-# Convinzione limitante - Elefante spaghetto sgabello
+# Elefante spaghetto sgabello
 
 Un gentiluomo stava attraversando un accampamento di elefanti e notò che gli elefanti non venivano tenuti in gabbie o tenuti con l'uso di catene.
 
@@ -23,8 +23,16 @@ L'allenatore ha risposto;
 
 L'unico motivo per cui gli elefanti non si liberavano e scappavano dal campo era che nel tempo hanno adottato la convinzione che non fosse possibile.
 
-  
-
 Morale della storia:
-
 Non importa quanto il mondo cerchi di trattenerti, continua sempre con la convinzione che ciò che vuoi ottenere sia possibile. Credere di poter avere successo è il passo più importante per raggiungerlo davvero.
+
+
+
+---
+# Vedi anche
+- [[convinzioni limitanti]]
+- [[Cavallo di Troia]]
+- [[Convinzioni ed Emozioni]]
+- [[Essere povero è una convinzione]]
+- [[Il successo non accade per caso]]
+- 

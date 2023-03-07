@@ -130,46 +130,26 @@ Affitta una casa molto inferiore a quella che vuoi comprare facendo sacrifici pe
   
 
 Zio paperone insegna:
-
-Compra un kindle o libri di seconda mano
-
-Non un libro nuovo di zecca. $ 5/6 vs $ 15/16
-
-Compra un thermos
-
-E prendi una tazza di caffè (s) o tè con te
-
-Pranzo al sacco la sera prima e NON comprare Itsu / Pret / Subway / Etc
-
-Risparmia $ 10 + al giorno
-
-Fai la spesa prima di cenare
-
-E risparmia inutili spese
-
-Fai una regola. NON acquistare mai soda o cioccolato dal supermercato
-
-Vai al negozio d'angolo. Tendi a comprare di meno
-
-Riceverai una carta di credito un giorno
-
-Rendila priva di interessi e una che restituisce cashback e / o airmiles
-
-Se stai investendo
-
-Fallo nella tua stessa educazione
-
-Imporre una "tassa personale"
-
-$ 5/10 a settimana in un conto di risparmio devi accedere di persona in banca. Immagina che questa sia una tassa NON NEGOZIABILE. Inizia al più presto. Quindi andare avanti
-
-Acquista esperienze e non oggetti
-
-Un'abitudine migliore e meno costosa ED è più gratificante
-
-Prima di pagare per il software
-
-Google 'alternative gratuite'. Sarai sorpreso di quante buone alternative gratuite ci sono
+- Compra un kindle o libri di seconda mano
+  Non un libro nuovo di zecca. $ 5/6 vs $ 15/16
+- Compra un thermos 
+  E prendi una tazza di caffè o tè con te
+- Pranzo al sacco la sera prima e NON comprare Itsu / Pret / Subway / Etc
+  Risparmia $ 10 + al giorno
+- Fai la spesa prima di cenare
+  E risparmia inutili spese
+- Fai una regola. NON acquistare mai soda o cioccolato dal supermercato
+- Vai al negozio d'angolo. Tendi a comprare di meno
+- Riceverai una carta di credito un giorno
+  Rendila priva di interessi e una che restituisce cashback e / o airmiles
+- Se stai investendo
+  Fallo nella tua stessa educazione
+- Imporre una "tassa personale"
+  $ 5/10 a settimana in un conto di risparmio devi accedere di persona in banca. Immagina che questa sia una tassa NON NEGOZIABILE. Inizia al più presto. Quindi andare avanti
+- Acquista esperienze e non oggetti
+  Un'abitudine migliore e meno costosa ED è più gratificante
+- Prima di pagare per il software
+  Google 'alternative gratuite'. Sarai sorpreso di quante buone alternative gratuite ci sono
 
 Get familiar with [cashback](http://www.moneysavingexpert.com/shopping/cashback-websites) sites
 -   Since you're shopping anyway - make use of them
@@ -179,10 +159,9 @@ Enrol in a long distance learning course
 --
 Una tecnica che aiuta a bilanciare l’investimento in esperienza rispetto all’acquisto di oggetti è quello di stabilire una regola che per ogni nuovo acquisto dobbiamo buttare via un oggetto analogo che già possediamo. Compro un nuovo paio di scarpe? Devo gettare un paio che già ho, anche se è ancora in buone condizioni.
 
-  
 
 
 ---
 # Vedi anche
-- 
+-  [[Sono le esperienze che ci fanno felici e non tanto le cose materiali]]
 - 

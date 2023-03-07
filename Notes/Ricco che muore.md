@@ -3,12 +3,11 @@ alias:
 ---
 2023-01-03 - 16:56 - *luogo*
 zettle: # letteraria transitoria permanente
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #equilibrio-interiorità #etica-sociale #relazione-famiglia 
 tag: #
 
 ---
 # Ricco che muore
-
 Una persona ha lavorato a lungo e duramente per fare una grande carriera. Un giorno decise di riposarsi dal lavoro e di vivere nel lusso per il suo piacere, che poteva permettersi grazie alla sua ricchezza.
 
 Proprio quando prese questa decisione, un angelo della morte venne da lui.
@@ -24,3 +23,11 @@ Ma l'angelo si rifiutò di nuovo.
 Alla fine, l'uomo chiese se l'angelo poteva concedergli almeno un minuto in modo che potesse scrivere un biglietto di addio. Il suo desiderio fu esaudito e scrisse una nota:
 
 “Trascorri il tempo che ti è stato dato, nel modo giusto. Io non ho potuto comprare nemmeno un'ora di vita con tutta la mia ricchezza. Ascolta il tuo cuore e controlla se le cose che ti circondano hanno un vero valore. Assapora ogni minuto della tua vita.”
+
+
+
+---
+# Vedi anche
+- [[Cavallo di Troia]]
+- [[Un generatore di valori]]
+- 

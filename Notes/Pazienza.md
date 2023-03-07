@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: emozioni
 ---
 2023-01-04 - 02:10 - *luogo*
 zettle: # letteraria transitoria permanente
@@ -7,9 +7,8 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
+[[Convinzioni ed Emozioni]]
 # Pazienza
-
-**
 
 La pazienza, una virtù spesso dimenticata…
 
@@ -19,4 +18,9 @@ E tu che cosa aspetti? Che cosa hai seminato, senza essere certo quando e se ci 
 
 Vai avanti, tieni duro, cura e coccola la tua semina e rallegrati per il giorno in cui per la prima volta vedrai spuntare le loro tenere punte per poi crescere con un’incontenibile forza.
 
-**
+
+
+---
+# Vedi anche
+- 
+- 

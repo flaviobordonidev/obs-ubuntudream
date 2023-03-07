@@ -3,7 +3,7 @@ alias:
 ---
 2023-01-23 - 10:35 - *luogo*
 zettle: # atomic moc
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #valore-denaro 
 tag: #
 
 ---
@@ -79,5 +79,8 @@ Convinzioni limitanti sul denaro:
 
 ---
 # Vedi anche
-- 
+- [[Il denaro è importante]]
+- [[Pensare da Ricco e pensare da Povero]]
+- [[Il gioco del pensare da ricco]]
+- [[Essere povero è una convinzione]]
 - 

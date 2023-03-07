@@ -8,21 +8,19 @@ tag: #
 
 ---
 # Scopri la bellezza negli altri
-**
+Questo giorno deve diventare davvero unico e speciale. Intraprendiamo assieme un viaggio esplorativo molto speciale!” Oggi scopri in ogni persona che incontri qualcosa di bello!”. 
 
-# Scopri la bellezza negli altri
+Può essere anche un semplice particolare, come la bella forma del suo naso, la bella bocca ben formata, la voce piacevole, i gioielli preziosi, i vestiti eleganti che lei/lui indossa, il loro atteggiamento tollerante nei confronti di te o degli altri.
 
-Questo giorno deve diventare davvero unico e speciale. Intraprendiamo assieme un viaggio esplorativo molto speciale!” Oggi scopri in ogni persona che incontri qualcosa di bello!”. Può essere anche un semplice particolare, come la bella forma del suo naso, la bella bocca ben formata, la voce piacevole, i gioielli preziosi, i vestiti eleganti che lei/lui indossa.
+Non importa cosa sia... E ora guardati: "Come ti senti quando fai questo?" E come reagiscono le persone interessate? Sì, anche loro agiranno in modo diverso, poiché tu, con la scelta di pensieri diversi, cambi i segnali che stai dando. Il modo in cui ti avvicini alle persone prima o poi ti torna in mente!
 
-[Bollino libro hotel]
+Cosa ne pensi dell'idea di abituarti costantemente a questa "sindrome scoperta" - e trasformarti così in una persona piacevole e sempre benvenuta? Riesci a immaginare quanto saranno più facili le cose per te se ti avvicini alle persone in questo modo?
 
-**
-**
 
-Questo giorno deve diventare davvero unico e speciale. Intraprendiamo assieme un viaggio esplorativo molto speciale!” Oggi scopri in ogni persona che incontri qualcosa di bello!”. Può essere anche un semplice particolare, come la bella forma del suo naso, la bella bocca ben formata, la voce piacevole, i gioielli preziosi, i vestiti eleganti che lei/lui indossa, their tolerant attitude towards you or others.
 
-It doesn’t matter what it is… And now take a look at yourself: “How do you feel when you do this?” And how do the people concerned react to it? Yes, they too will act differently, as you, with the choice of different thoughts, change the signals you’re giving out. The way you approach people comes back to you sooner or later!
-
-What do you think of the idea of constantly getting used to this “siscovered syndrome” - and thus turning into a pleasant person who is always welcome? Can you imagine how much easier will things be for you if you approach people this way?
-
-**
+---
+# Vedi anche
+- [[Interpretare]]
+- [[Non esiste una sola realtà - nel mio mondo]]
+- [[per cambiare gli altri cambia te stesso]]
+- 

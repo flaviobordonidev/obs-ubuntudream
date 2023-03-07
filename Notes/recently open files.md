@@ -4,3 +4,11 @@ FROM " "
 WHERE date(now) - file.mtime <= dur(1 days)  
 SORT file.mtime desc  
 ```
+
+
+
+
+---
+# Vedi anche
+- [[Obsidian]]
+- 

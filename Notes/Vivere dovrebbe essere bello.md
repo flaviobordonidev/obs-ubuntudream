@@ -8,7 +8,6 @@ tag: #
 
 ---
 # Vivere dovrebbe essere bello
-
 Vivere dovrebbe essere bello e semplice per tutti: perché, invece, a molti pare così complicato?
 
 Voglio dire: ogni giorno devi difendere quello che hai, conquistare qualcosa di nuovo, relazionare con persone che la pensano diversamente da te, gestire gli imprevisti - dov’è finita la semplicità della vita?
@@ -32,3 +31,10 @@ Ritrova la direzione, così scopri la pace dentro di te, e il mondo ti appare in
 In effetti, la bellezza del vivere, la gioia di esistere, le conferme, i successi, le buone occasioni, nascono ed esistono nella tua percezione: te l’ho detto, la stessa giornata, che per uno sembra cupa, per un altro è splendida.
 
 La differenza è nel modo di percepire, e il modo di percepire migliora quando orienti il tuo stato d’animo verso la fiducia e la gratitudine.
+
+
+
+---
+# Vedi anche
+- [[Vivere pienamente]]
+- 

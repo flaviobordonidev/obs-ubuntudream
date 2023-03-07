@@ -8,10 +8,7 @@ tag: #
 
 ---
 # La persona più importante
-
-**
-
-# La persona più importante nella tua vita?
+[La persona più importante nella tua vita?]
 
 Semplicissimo. Guardati allo specchio e la riconoscerai.
 
@@ -19,4 +16,11 @@ Si, tu sei la persona più importante nella tua vita meravigliosa ed avvincente.
 
 Veramente? Sicuro? Così come sei, con tutte le tue caratteristiche? Bene allora il test seguente, sarà molto semplice per te. “Vai davanti allo specchio e muovi la tua bocca formando un bacio. Guardati negli occhi e di, gentilmente e pieno di entusiasmo: io ti amo!” :). Se nell’eseguire questo test, provi strane sensazioni e la muscolatura del tuo viso non fosse completamente rilassata, vuol dire che devi fare ancora parecchia strada per arrivare a possedere il tuo amor proprio. Come puoi piacere agli altri se nemmeno tu, ti piaci?
 
-**
+
+
+---
+# Vedi anche
+- [[Autostima]]
+- [[Essere se stessi - non compararsi con gli altri]]
+- 
+- 

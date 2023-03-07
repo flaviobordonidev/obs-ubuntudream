@@ -9,9 +9,7 @@ tag: #
 ---
 # Io posso
 
-**
-
-# Io posso, io ce la faccio, io sono il migliore!
+Io posso, io ce la faccio, io sono il migliore!
 
 Ti sei mai chiesto, cosa significhino i rituali, che i giapponesi ogni mattina celebrano con i loro esercizi e le loro urla? O quello che succede nelle squadre di Rugby, quando i giocatori urlano le loro parole di “battaglia” quasi fossero una mandria di selvaggi? Si stanno auto-suggestionando per caricarsi di energia.
 
@@ -19,4 +17,9 @@ Puoi citarmi un solo motivo perché questo non dovrebbe funzionare con te? La ri
 
 L’esercizio si esegue così: “Respira profondamente, sorridi, a voce alta e con le braccia alzate ripeti le seguenti parole:”Si, io posso, io ce la faccio, io sono il migliore.” Ripetilo per 10 volte. Nel caso volessi aumentare l’effetto, fallo con il tuo gruppo di colleghi: “Chi siamo noi? I migliori!”
 
-**
+
+
+---
+# Vedi anche
+- [[Rituali]]
+- 

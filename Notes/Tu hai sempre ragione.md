@@ -8,9 +8,6 @@ tag: #
 
 ---
 # Tu hai sempre ragione
-
-**
-
 La buona notizia: tu hai sempre ragione
 
 Tu pensi: “Io ho il più caro ed il migliore partner e la migliore partner del mondo?” Hai ragione! Tu pensi: “E’ difficile iniziare un’attività di successo, in un periodo di recessione!” Hai ragione!
@@ -21,7 +18,9 @@ Il mondo, il tuo mondo, è quello che tu pensi che sia.
 
 Comunque tu pensi, saprai sempre d’aver ragione! Ti fa riflettere questo?… Hai ragione:”Pensaci!”
 
+
+
 ---
 # Vedi anche
 - [[Come pensi così sarà]]
-- 
+- [[Il successo non accade per caso]] --> Henry Ford

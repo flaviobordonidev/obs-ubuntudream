@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: Impresa - Startup
 ---
 2023-01-23 - 21:22 - *luogo*
 zettle: # atomic moc
@@ -7,72 +7,34 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
-# Impresa - Startup
-
-
-**
-
 # I motivi principali del fallimento delle Startups
 
-1.  No market need (40%)
-    
+1.  No market need (40%)    
 2.  Ran out of cash (30%)
-    
 3.  Not the right team (20%)
-    
 4.  Poor Product / Marketing (10%)
-    
 
-  
-**
-**  
+
 
 # Profit Academy - Marketing Digitale
 
-  
-
 Come la Fase 1 genera profitto:
-
 1.  Gather Audience (Collect Email Addresses)
-    
 2.  Build Relationship Through Valuable Content
-    
 3.  Recommend good information products to your audience using affiliate link
-    
 4.  Collect Commission on your referred sales!
-    
-
-  
-  
 
 Key factors needed for phase 1:
-
 1.  Profitable Niche
-    
 2.  Opt-In Page
-    
 3.  Good Offer to promote affiliate program
-    
 4.  Autoresponder & Broadcasting emails
-    
-
-  
-  
 
 people landing on the thankyou page:
 
-  
-  
-
 The key to your first 100,000 $. Focus on 2 main things:
-
 -   Continue to grow your list
-    
 -   Continua ad inviare una semplice email giornaliera
-    
-
-  
-  
 
 Le vendite ricorrenti. Una volta venduto al primo cliente vendiamo prodotti più costosi perché approfondiscono di più. Questo può essere fatto anche nell’immediato Up-Sale.
 
@@ -82,228 +44,97 @@ Le vendite ricorrenti. Una volta venduto al primo cliente vendiamo prodotti più
 
 -   Front End 1.000 visitatori (leads)  
     Prodotto 47€ 
-    
-
 -   3% di vendite → 30 persone (1410€) → UPSELL #1
-    
 -   Chi non compra va nella lista di leads e ci riprovi più avanti
-    
 
 -   UPSELL #1 (97€ - 30 persone)
-    
-
 -   30% di vendite → 9 persone (873€) → UPSELL #2
-    
 -   70% non compra → 21 persone →  DOWNSELL #1
-    
 
--   DOWNSELL #1 (47$ - 21 persone)
-    
-
+-   DOWNSELL #1 (47$ - 21 persone)    
 -   15% di vendite → 3 persone (141€) → UPSELL #2
-    
 -   85% non compra → 18 persone → Thank you page
-    
 
 -   UPSELL #2 (67€ - 12 persone)
-    
-
 -   30% di vendite → 4 persone (873 €) → Thank you page
-    
 -   70% non compra → 8 persone → DOWNSELL #2
-    
 
 -   DOWNSELL #2 (37$ - 8 persone)
-    
-
 -   15% di vendite → 3 persone (141€) → Thank you page
-    
 -   85% non compra → 18 persone → Thank you page
-    
 
-  
-  
-  
-  
-  
 
-# Scoprire il TITOLO (Headline o Outline) la chiamata che genera attenzione.
 
-  
+## Scoprire il TITOLO (Headline o Outline) la chiamata che genera attenzione.
 
 Il 90% della battaglia è sul Titolo. Sulla chiamata iniziale (Hook / Gancio)
-
 -   Questo è dove la maggior parte si blocca
-    
-
-  
 
 La chiave: Scoprire il tuo Gancio / Grande promessa:
-
 -   Amazon.com → Cerca tra i titoli dei libri…
-    
 -   Clickbank.com → cerca tra il marketplace
-    
 
-  
-  
 
-# Per delegare il lavoro
+
+## Per delegare il lavoro
 
 Outsourcing for pennies to the dollar
-
--   Guru.com
-    
+-   Guru.com 
 -   Elance.com
-    
 -   Freelancer.com
-    
 -   99designs.com
-    
 -   Odesk.com
-    
-
-  
-  
-  
-  
 
 Amazon.com per aiutarti a creare l'outline -> leggendo il "look inside" con il content list dei primi 10-15 libri che rispondono alla tua ricerca.
 
   Domande per creare un outline:
-
   - dammi le 10 cose che tu vorresti insegnare 
 
   Fatto! ^_^
 
-  
-
   - dato in pasto a degli editori che hanno fatto telefonate di 15minuti -> registrate le telefonate con un buon audio perché userò le registrazioni.
-
   - l'editore ha poi fatto un sunto creando un PDF
-
-  
 
 clickbank.com ti aiuta a creare l'hook -> how others are positioning their products
 
-  
-  
 
-///
-
+---
 Fonti di traffico:
-
   1. email traffic
-
   2. facebook traffic
-
   3. power of one --> go out to find your first affiliate. (fagli una proposta tipo ti do un dollaro per click. ATTENTO! Testa prima che il tuo funnel funziona bene e dà questo ritorno.)
 
     3b. When it's working with the first affiliate. Ask him if he can present you other people that can be new affiliates.
 
-  
-  
-  
-  
 
-# Relatorios / Reports
+## Relatorios / Reports
+Abaixo, elencamos alguns tipos de relatórios que podem ser aplicados a uma empresa e que contribuem em diversos aspectos, para diferentes atividades.
 
-Abaixo, elencamos alguns tipos de relatórios que podem ser aplicados a uma
+- Faturamento por cliente: organiza as distribuições do faturamento por cliente, para conhecer a contribuição de cada um para as finanças da empresa.
 
-empresa e que contribuem em diversos aspectos, para diferentes atividades.
+- Relatório de clientes: permite conhecer os clientes e as informações sobre cada um deles. Com isso, é possível oferecer soluções mais adequadas e personalizadas.
 
-  
+- Produtos e serviços mais vendidos: auxilia no controle dos produtos e serviços mais requisitados da empresa. Permite trabalhar no desenvolvimento deles e colabora na organização da disponibilidade.
 
-Faturamento por cliente: organiza as distribuições do
+- Giro de estoque: demonstra o que tem mais e menos saída no estoque, o que é vital para planejar os investimentos e ter a quantidade e reposição adequadas para atender a demanda.
 
-faturamento por cliente, para conhecer a contribuição
+- Fluxo de caixa diário e mensal: contribui para uma visão mais imediata sobre as entradas e saídas. Permite corrigir distorções com base em informações fornecidas em tempo real.
 
-de cada um para as finanças da empresa.
+- Análise de despesas e centro de custos: faz um controle minucioso das despesas da empresa e organiza a forma de cuidar das finanças com mais precisão.
 
-  
+- Relatório de lançamentos no caixa: oferece uma visão dos valores atualizados de entrada e saída do caixa da empresa. É mais um importante controle financeiro.
 
-Relatório de clientes: permite conhecer os clientes e as
+- Vendas por cliente: possibilita conhecer melhor o comportamento de cada cliente, para saber o que oferecer e o que é da preferência de cada um deles. Organiza as informações mais importantes sobre as vendas.
 
-informações sobre cada um deles. Com isso, é possível
+- Análise de pagamentos: facilita o controle do quanto a sua empresa está gastando em determinado período de tempo.
 
-oferecer soluções mais adequadas e personalizadas.
 
-  
+Perceba que esses relatórios contemplam uma visão abrangente de todos os processos da empresa: o estoque, as vendas, o pós-venda, o relacionamento com o cliente, as despesas (inclusive com fornecedores), o fluxo de caixa. É um panorama geral do funcionamento de todos os processos.
 
-Produtos e serviços mais vendidos: auxilia no controle dos
 
-produtos e serviços mais requisitados da empresa.
-
-Permite trabalhar no desenvolvimento deles e colabora
-
-na organização da disponibilidade.
-
-  
-
-Giro de estoque: demonstra o que tem mais e menos saída no
-
-estoque, o que é vital para planejar os investimentos e ter a
-
-quantidade e reposição adequadas para atender a demanda.
-
-  
-
-Fluxo de caixa diário e mensal: contribui para uma visão mais
-
-imediata sobre as entradas e saídas. Permite corrigir distorções
-
-com base em informações fornecidas em tempo real.
-
-  
-
-Análise de despesas e centro de custos: faz um controle
-
-minucioso das despesas da empresa e organiza a forma de
-
-cuidar das finanças com mais precisão.
-
-  
-
-Relatório de lançamentos no caixa: oferece uma visão dos
-
-valores atualizados de entrada e saída do caixa da empresa.
-
-É mais um importante controle financeiro.
-
-  
-
-Vendas por cliente: possibilita conhecer melhor o
-
-comportamento de cada cliente, para saber o que oferecer
-
-e o que é da preferência de cada um deles. Organiza as
-
-informações mais importantes sobre as vendas.
-
-  
-
-Análise de pagamentos: facilita o controle do quanto a sua
-
-empresa está gastando em determinado período de tempo.
-
-  
-
-Perceba que esses relatórios contemplam uma visão abrangente de todos os
-
-processos da empresa: o estoque, as vendas, o pós-venda, o relacionamento com o
-
-cliente, as despesas (inclusive com fornecedores), o fluxo de caixa. É um panorama
-
-geral do funcionamento de todos os processos.
-
-**
-**
 
 ---
-
-Erico Rocha - Formula di lancio
-
-  
+# Erico Rocha - Formula di lancio
 
 1. Grande promessa / Gancio
 
@@ -694,31 +525,20 @@ Esempi di asset sono: una macchina, una casa.
   
 
 # Henry Ford e l’officina meccanica
-
 Quando il giovane, Henry Ford, lavorava in una officina meccanica. Con lui lavorava un altro ragazzo, uno dei suoi grandi amici. Durante alcuni anni, fecero le stesse cose in quella officina. Molti non avevano dubbi che, tra i due, l’amico di Ford era il più intelligente e competente.
 
 Trent'anni più tardi, però, Ford diventò uno degli uomini più ricchi e potenti del mondo, mentre il suo amico continuava nello stesso lavoro nella stessa officina.
 
-  
-
 Primo - Ford si è concentrato su un proposito definito: sviluppare e rendere popolare un'automobile che potesse essere acquistata da qualsiasi persona.
-
-  
 
 Secondo - Con questo proposito in mente ed agendo costantemente per realizzarlo, ha sviluppato caratteristiche personali importante come: immaginazione, fiducia in se stesso, determinazione e persistenza, che gli hanno dato enorme potere personale.
 
-  
-
 Terzo - Ha organizzato un team di persone che l’hanno aiutato armoniosamente nella realizzazione di questo proposito. Ossia: sviluppò un potere collettivo intorno al suo proposito definito.
-
-  
-  
-**
-
 
 
 
 ---
 # Vedi anche
-- 
+- [[marketing]]
+- [[Impresa di successo]]
 - 

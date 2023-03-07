@@ -3,15 +3,10 @@ alias:
 ---
 2023-01-24 - 10:49 - *luogo*
 zettle: # atomic moc
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #impegno-lavoro 
 tag: #
 
 ---
-# La passione non è spontanea
-
-
-**
-
 # La passione non è spontanea
 
 La passione non è un qualcosa che ci nasce spontaneamente Ma è un qualcosa che noi creiamo. 
@@ -30,9 +25,6 @@ Arriva dal nostro modo di pensare,  dalla nostra interpretazione. Quando pensi 
 
 Al contrario se ti lamenti del lavoro che fai avrai sempre e sempre meno passione.
 
-…
-
-**
 
 
 ---

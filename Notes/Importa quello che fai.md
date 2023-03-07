@@ -16,3 +16,12 @@ Non rincorrere continuamente l’idea di come voler essere, solamente perché cr
 Una persona disabile costretta sulla sedia a rotelle, potrebbe continuamente lamentarsi, commiserarsi e tutti avrebbero la massima comprensione. Le servirebbe a qualcosa? La renderebbe forse più felice? Le darebbe forse, la sensazione d’essere utile, indispensabile e importante? Lei invece, può concentrarsi sulla sua fenomenale capacità di resistenza, sulla sua indistruttibile automutilazione e sulle sue brillanti capacità di pensiero, e da queste trarre l’insegnamento che la porta a diventare il migliore e il più amato allenatore di motivazioni. Questa persona, sa come ottenere il massimo da ciò che dispone. Una persona così, sarà assolutamente credibile.
 
 Da che cosa ti lasci paralizzare? Che cosa sai fare veramente bene e a chi potrebbe essere utile?
+
+
+---
+# Vedi anche
+- [[agire]]
+- [[Agisci ora]]
+- [[Agire sulla base di un piano scritto]]
+- [[Interpretare - La sedia a rotelle mi ha liberato]]
+- 

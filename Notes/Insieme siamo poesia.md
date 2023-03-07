@@ -8,10 +8,7 @@ tag: #
 
 ---
 # Insieme siamo poesia
-
-**
-
-# Singolarmente siamo parole, insieme una poesia
+Singolarmente siamo parole, insieme una poesia
 
 Una sinfonia è formata da migliaia di note. Singolarmente sono semplici toni, insieme danno come risultato, una composizione completa, meravigliosa ed armonica. Da solo tu sei un tono armonioso molto importante nell’universo. Senza di te mancherebbe qualcosa a questa melodia.
 
@@ -19,5 +16,10 @@ Purtroppo però ti puoi realizzare solo se tu ti senti veramente parte del tutto
 
 La cosa migliore in tutto questo:”il sapere, che quando sveglierai tutto ciò che sin dalla nascita è riposto in te, e lascerai agire quest’opera finora nascosta, tanti dei tuoi problemi si risolveranno in un battibaleno”.
 
-  
-**
+
+
+---
+# Vedi anche
+- [[sinergia]]
+- [[La sinfonia ha migliaia di note]]
+- 

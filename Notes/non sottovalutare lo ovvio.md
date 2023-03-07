@@ -18,5 +18,7 @@ Tutti sappiamo come dimagrire. è ovvio. Ma pochi dimagriscono realmente e richi
 
 ---
 # Vedi anche
-- 
+- [[Sogna la tua vita e vivi il tuo sogno]]
+- [[I pensieri propagano nell'universo e tornano]]
+- [[Vale di più il fare che il dire - Predicatore e taxista in paradiso]]
 - 

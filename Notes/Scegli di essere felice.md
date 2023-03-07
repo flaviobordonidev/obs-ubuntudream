@@ -8,10 +8,7 @@ tag: #
 
 ---
 # Scegli di essere felice
-
-**
-
-# Oggi è il mio giorno migliore!
+[Oggi è il mio giorno migliore!]
 
 Una persona intelligente una volta disse: “Ogni mattino, quando mi alzo, ho la scelta tra l’essere felice e rallegrarmi o l’essere infelice e sentirmi male. Non sono mica stupido, scelgo di essere felice!”. Forse adesso pensi:”Non è poi così semplice. Lui lo può dire. Se avesse le mie preoccupazioni nemmeno lui potrebbe essere felice”.
 
@@ -19,28 +16,25 @@ Domanda:”Secondo te, quando è il momento migliore per affrontare i problemi? 
 
 Come? Compila una lista di cose ed avvenimenti che ti stimolano e ti caricano di motivazione. Leggila ogni giorno e rivivi nella tua mente questi momenti meravigliosi che ti permetteranno di ricaricarti.
 
-**
-**  
+
 
 # Prenditi il tempo!
 
 Prenditi il tempo per lavorare: è il prezzo del successo.
-
 Prenditi il tempo per riflettere: è la sorgente della forza.
-
 Prenditi il tempo per giocare: è il segreto della gioventù
-
 Prenditi il tempo per leggere: è la base del sapere
-
 Prenditi il tempo per essere gentile: è la porta della felicità
-
 Prenditi il tempo per sognare: è la strada verso le stelle.
-
 Prenditi il tempo per amare: è il vero piacere della vita.
-
 Prenditi il tempo per essere allegro: è la musica dell’anima.
-
 Prenditi il tempo!
 
-  
-**
+
+
+---
+# Vedi anche
+- [[La persona che sceglieresti di essere]]
+- [[Il successo non accade per caso|Il successo non arriva per caso]]
+- [[Decidere è fondamentale]]
+- 

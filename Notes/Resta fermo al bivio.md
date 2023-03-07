@@ -1,9 +1,9 @@
 ---
 alias: 
 ---
-2023-01-03 - 17:13 - *luogo*
+2023-01-03 - 17:13 - *Roma*
 zettle: # letteraria transitoria permanente
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #impegno-lavoro
 tag: #
 
 ---
@@ -16,3 +16,11 @@ Si sente in difficoltà e lascia arenare il tutto aspettando che qualcuno risolv
 Decide di informare internamente che non può andare avanti col progetto se non vengono prima risolti i problemi che si è trovato davanti.
 
 Enrico resta fermo ad ogni entrata in un nuovo progetto aspettando che qualcun altro risolva.
+
+
+
+---
+# Vedi anche
+- [storiella del generale che, sentite le due possibilità, ne sceglie una. e a chi gli chiede come fai a sapere che è quella giusta lui risponde: mettendola in pratica lo sapremo]
+- [[agire]]
+- 

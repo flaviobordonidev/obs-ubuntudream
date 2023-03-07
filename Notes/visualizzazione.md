@@ -17,6 +17,9 @@ Creare delle immagini di un film nella tua mente. È un po’ come ciò che acca
 Di solito si visualizza ad occhi chiusi perché ridurre stimoli visuali ci aiuta a “vedere” quelle immagini che vogliamo immaginare nella nostra mente.
 Si fanno precedere da un rilassamento.
 
+Le domande più importanti della vita non possono mai essere risolte da nessuno tranne noi stessi. - John Fowles
+La visualizzazione ci aiuta a rispondere perché ci porta in uno stato di introspezione più profondo.
+
 
 ### Cosa sono le visualizzazioni o esperienze mentali?
 Si può semplificare, che la visualizzazione o esperienza mentale è un “sognare ad occhi aperti”. È la capacità di proiettare un film nella nostra mente di cui noi siamo i protagonisti, come ci succede quando viviamo in un sogno. 

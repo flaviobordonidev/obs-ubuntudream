@@ -19,7 +19,7 @@ Io ho smesso del tutto perchè è come gli alcolisti. Un bicchiere di vino al gi
 
   
 
-Ho iniziato a fare attività fisica perché ho scoperto una secunda camada. un mio grande perché che mi motiva. Non è per entrare nei vestiti con taglie minori. E' per fare sesso più volte con mia moglie. Perché il dimagrimento l'ho puntato non sulla dieta ma sull'attività fisica. Perché fare sesso è una prestazione sportiva e richiede allenamento. 
+Ho iniziato a fare attività fisica perché ho scoperto un "secondo strato" (segunda camada); un mio grande perché che mi motiva. Non è per entrare nei vestiti con taglie minori. E' per fare sesso più volte con mia moglie. Perché il dimagrimento l'ho puntato non sulla dieta ma sull'attività fisica. Perché fare sesso è una prestazione sportiva e richiede allenamento. 
 
 Il mangiare di meno è un aspetto secondario che viene con l'allenamento. Se mangio un dolce, pazienza. Ma se non faccio i saltelli la mattina sul tappetino elastico... questo no! Il risultato è che mi sento meglio e non cerco neanche gli zuccheri del dolce. Spesso lo evito senza che mi costi fatica.
 

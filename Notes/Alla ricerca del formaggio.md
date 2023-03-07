@@ -8,7 +8,6 @@ tag: #
 
 ---
 # Alla ricerca del formaggio
-
 Due topolini dal nome Nasofino e Trottolino, e due gnomi, che si chiamavano Tentenna e Ridolino, vagavano in un labirinto alla ricerca di formaggio.
 
 I primi si muovevano "a naso", prendendo decisioni rapide, guidate dall'istinto: Nasofino era bravo nel fiutare il formaggio, Trottolino molto veloce nel raggiungere il bottino segnalato dall'amico.
@@ -35,16 +34,14 @@ Ma man mano che si addentrava nel labirinto, iniziò a sentire il piacere di que
 
 Pensò di andare a chiamare Tentenna, ma sapeva che sarebbe stato inutile: l'amico doveva trovare dentro se stesso la spinta a muoversi.
 
-  
 
-LEZIONE APPRESA 
 
+## LEZIONE APPRESA 
 Cambiare nella vita è necessario ed è meno difficile di quanto si creda. Lo dimostra questa storiella usata nelle aziende, e in psicoterapia, per allenare al cambiamento.
 
 IL CAMBIAMENTO NON E' SOLTANTO NECESSARIO PER LA VITA. IL CAMBIAMENTO E' LA VITA.
 
 SPIEGAZIONE
-
 Il formaggio rappresenta ciò che per noi è importante nella vita, che può riguardare il lavoro o la sfera personale.
 
 Tutto quello che ci dà sicurezza e ci gratifica può cambiare, e allora abbiamo la sensazione di essere stati privati del nostro "formaggio".
@@ -58,62 +55,43 @@ E' il caso di chi perpetua attività, obiettivi o comportamenti che non danno al
 A volte è la paura che frena: ma ciò che ci spaventa è sempre meno terribile di come noi lo immaginiamo. Altre volte non riusciamo a intravedere nuove possibilità: ma ci sono sempre strade alternative da percorrere.
 
 GLI INSEGNAMENTI DELLA STORIA
-
 Il cambiamento è inevitabile
-
 Ci sarà sempre qualcuno che sposterà il formaggio
-
 Prevedi il cambiamento
-
 Sii pronto quando il formaggio viene spostato
-
 Controlla il cambiamento
-
 Annusa spesso il formaggio così ti accorgi se diventa vecchio
-
 Adattati rapidamente al cambiamento
-
 Quanto più rapidamente abbandonerai il vecchio formaggio, tanto prima gusterai quello nuovo.
-
 Cambia
-
 Spostati con il formaggio
-
 Apprezza il cambiamento
-
 Assapora il gusto dell'avventura e goditi le delizie del nuovo formaggio.
 
-  
-  
-
 SCELTE.
-
 Le scelte sono legate all'inconscio, sovente neppure noi stessi siamo in grado di giustificarle.
-
 Il nostro passato, la nostra cultura, le aspettative sociali e personali entrano inevitabilmente in gioco.
 
-  
-
 Quali sono le conseguenze di questo fenomeno sugli individui?
-
 Innanzitutto una grande ansia, un profondo sentimento di inadeguatezza che degenera sovente in un senso di colpa.
-
 Se tutto dipende dalle nostre scelte la responsabilità diventa schiacciante.
-
-Non a caso gli psicanalisti riferiscono sempre più spesso di persone che non sono in grado di fare alcun tipo di scelta.
-
-Ciò si riflette, per esempio, nell'incapacità d'impegnarsi sentimentalmente o di decidere di avere un figlio.
-
-  
-
+Non a caso gli psicanalisti riferiscono sempre più spesso di persone che non sono in grado di fare alcun tipo di scelta. Ciò si riflette, per esempio, nell'incapacità d'impegnarsi sentimentalmente o di decidere di avere un figlio.
 Ma cos'è che più blocca la scelta, l'eccessiva possibilità o la paura del fallimento?
 
-************************************************************************
-Più che il fallimento è la molteplicità di scelte e l'incapacità di gestire il senso di perdita.
-************************************************************************
+==Più che il fallimento è la molteplicità di scelte e l'incapacità di gestire il senso di perdita.==
 
 Ogni scelta è la perdita di altre possibilità e si ha la sensazione che un'alternativa migliore sia pronta dietro l'angolo.
-
 Se mi sposo con una persona perdo idealmente la possibilità di altre relazioni magari migliori; se faccio un figlio perdo la libertà che pensavo di avere. 
-
 E' come se noi volessimo prevenire anzi quasi predire le perdite future.
+
+
+
+---
+# Vedi anche
+- [[Cambio di prospettiva]]
+- [[Cambiamento è aumento di possibilità]]
+- [[per cambiare gli altri cambia te stesso]]
+- [[Che cosa cambia le cose]]
+- [[Decidere è fondamentale]] --> scelte
+- [[La mente vede il futuro limitato da ciò che sa nel presente]]
+- 

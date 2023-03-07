@@ -8,12 +8,6 @@ tag: #
 
 ---
 # Parlare in pubblico
-
-
-**
-
-# Parlare in pubblico
-
 Marcello ha paura a parlare in pubblico perché si sente preso in giro per la sua statura ma lancia il cappello al di là del muro e trova un modo per riprenderlo.
 
 Si sente a disagio ma quando si trova in ballo inizia a ballare. Sa che ha una preparazione sufficiente per poter affrontare la sfida.
@@ -22,10 +16,11 @@ Decide di tenere una conferenza e si prepara un argomento e lo propone al gestor
 
 a forza di tenere conferenze guadagna sempre più coraggio perché si rende conto che ogni volta continua ad avere successo.
 
-**
 
 
 ---
 # Vedi anche
+- [[Giustificare la paura|La paura ci blocca]]
+- [[Palcoscenico con sudarella - e se dimentico la battuta]]
 - 
 - 

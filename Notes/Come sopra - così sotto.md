@@ -8,9 +8,6 @@ tag: #
 
 ---
 # Come sopra - così sotto
-
-**
-
 Come sopra - così sotto, come dentro - così fuori
 
 Così come pensi, così agisci. Così come ti senti dentro di te, così prende forma anche il tuo mondo, e tutta la tua vita.
@@ -21,4 +18,10 @@ Una storia vera: C’era una persona, il cui ufficio era la proiezione della sua
 
 Metti in ordine il tuo ambiente esterno e anche il tuo mondo interiore sarà ordinato. Riordina il tuo mondo interiore e anche quello esterno sarà ordinato. E’ indifferente da dove incominci, metti in ordine e avrai gli effetti desiderati!
 
-**
+
+
+---
+# Vedi anche
+- [[Il paradiso e l’inferno sono dentro di te]]
+- [[ambiente - piramide dei 7 livelli logici]]
+- 

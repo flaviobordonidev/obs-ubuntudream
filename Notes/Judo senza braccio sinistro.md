@@ -3,10 +3,11 @@ alias: La tua debolezza può essere la tua forza
 ---
 2023-01-03 - 17:16 - *luogo*
 zettle: # letteraria transitoria permanente
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
+ubuntudream: #equilibrio-interiorità
 tag: #
 
 ---
+[[Potenziare]]
 # Judo senza braccio sinistro
 
 Un bambino di 10 anni ha deciso di studiare judo nonostante avesse perso il braccio sinistro in un devastante incidente stradale.
@@ -32,3 +33,10 @@ Sulla strada di casa, il ragazzo e il sensei hanno rivisto ogni mossa in ogni pa
 "Sensei, come ho vinto il torneo con una sola mossa?"
 
 "Hai vinto per due motivi", rispose il sensei. “In primo luogo, hai quasi padroneggiato una delle proiezioni più difficili di tutto il judo. E secondo, l'unica difesa conosciuta per quella mossa è che il tuo avversario ti afferri il braccio sinistro.
+
+
+
+---
+# Vedi anche
+- 
+- 

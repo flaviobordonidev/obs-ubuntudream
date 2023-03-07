@@ -25,33 +25,25 @@ Ma ancora una volta, con moderazione.
 
 [Sarebbe facile giustificare le ore di gioco ai videogiochi come una sorta di attività che migliora la mente. Ma è unidimensionale. Le attività che ho menzionato sopra coinvolgono elementi sociali o compiti che comportano il lavoro con materiali come vernice, argilla o terra. Queste attività stimolano più aree del cervello attraverso la stimolazione tattile, ottenendo così un maggiore beneficio].
 
-  
 
-• Accoppiare la tua energia con il compito - Tu e tutti avete dei ritmi. Questi ritmi sono basati su un orologio circadiano (in latino: circa un giorno). Mi capita di essere una persona mattiniera. Scrivo o svolgo attività fisiche circa un'ora dopo il risveglio. Alcune persone sono nottambuli e poi dormono bene nelle ore mattutine. Sii onesto sulla tua particolare costituzione e impara a programmare di conseguenza le tue attività più impegnative.
-
-  
-
+[[Alimentazione]]
 • Una corretta alimentazione - Il tuo corpo non è molto diverso da un'auto sotto molti aspetti. Hai bisogno di manutenzione e carburante. Ma non un carburante qualsiasi. Non tutte le calorie sono uguali. Alcuni alimenti hanno proteine più dense, carboidrati più stabili e grassi più sani rispetto ad altri. Questi "cibi più sani" aumenteranno la tua resistenza, concentrazione e resistenza allo stress. Ma non esagerare con costose frutta e verdura biologiche. Nella maggior parte dei casi, le varietà convenzionali vanno bene. Assicuratevi solo che siano freschi e che i cibi preparati, (pane, cereali, yogurt, ecc.), contengano pochissimo zucchero aggiunto, pochi coloranti o conservanti.
 
-  
+
+
+[[Sonno e Bioritmi]]
+• Accoppiare la tua energia con il compito - Tu e tutti avete dei ritmi. Questi ritmi sono basati su un orologio circadiano (in latino: circa un giorno). Mi capita di essere una persona mattiniera. Scrivo o svolgo attività fisiche circa un'ora dopo il risveglio. Alcune persone sono nottambuli e poi dormono bene nelle ore mattutine. Sii onesto sulla tua particolare costituzione e impara a programmare di conseguenza le tue attività più impegnative.
 
 • Riposo / Sonno - Finalmente! Siamo una nazione priva di sonno. E non capiamo l'importanza di "Igiene del sonno". Poiché le nostre vite sono così caotiche e disorganizzate, perdiamo molte ore alla settimana a far girare le ruote. Spesso fino a tarda notte cercando di risolvere le questioni in sospeso e spegnere gli incendi dell'ultimo minuto. Inoltre, dopo una lunga giornata, può sembrare logico allontanarsi dalla TV, ma in realtà questo può interferire con un buon sonno.
 
 Ecco alcuni suggerimenti per ottenere un sonno migliore:
-
 •Finisci di mangiare almeno 3 ore prima di coricarti
-
 • Non bere alcolici la sera, se hai bisogno di dormire bene. Ha l'effetto opposto.
-
 • Non consumare troppi liquidi prima di andare a letto. Potresti andare in bagno troppo spesso
-
 • Spegnere la TV almeno 30 minuti prima di andare a letto e leggere o ascoltare musica rilassante
-
 • Chiudete tutte le tende e tenete quanto più luce ambientale possibile fuori dalla camera da letto
-
 • Se il tuo partner russa, dormi in un'altra stanza.
 
-  
 
 Tutte queste strategie ti aiuteranno a diventare molto più produttivo e allo stesso tempo rilassato. Rimarrai stupito un giorno quando ti guarderai intorno e noterai che tutto è fatto e non sei stressato. Quindi, il riposo diventa completo e senza colpa. La vita funziona meglio, sei più felice, prendi decisioni migliori ed è più facile stare con te. È l'unico modo per vivere. Fidati di me!
 
