@@ -1,5 +1,5 @@
 ---
-alias: Dieci colori e loro sfumature
+alias: Dieci colori e loro sfumature - Pantone e RAL
 ---
 2023-01-02 - 18:10 - *Roma*
 zettle: #letteraria

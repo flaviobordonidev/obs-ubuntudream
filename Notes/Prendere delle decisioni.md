@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: Six keys to make decisions. Decisions shape your life
 ---
 2023-01-04 - 01:24 - *luogo*
 zettle: # letteraria transitoria permanente
@@ -40,6 +40,61 @@ Si sente molto frustrato dal non riuscire a prendere una decisione e pensa che d
 va da un guru per avere risposte. Il guro gli dice che Una decisione è basata sul fatto che tu faccia una azione. “Se non stai agendo non hai deciso.” Gli spiega che solo venendo a trovarmi hai veramente deciso di consultare un esperto. Quindi non preoccuparti di prendere una decisione ma agisci.
 
 Matteo passa a camminare il percorso che gli indica il suo cuore o quello che gli permette in caso non vada bene di tornare indietro. Non si preoccupa più di scegliere ma cammina un passo dopo l’altro.
+
+---
+
+## Six keys to make decisions. 
+Decisions shape your life.
+Tony Robbin - Awaken the Giant Within [full seminar] Make a Differen
+http://www.youtube.com/watch?v=jBCLwDhdkO8
+
+Six keys to make decisions. Decisions shape your life:
+	1. A new decision is based on the fact that you take NEW ACTIONS. If you haven't take ACTION you haven't decided.
+	2. Make a true COMMITMENT.
+	3. Make desicions OFTEN.
+	4. LEARN a lesson from your decisions. What's good about this? 
+	5. stay with the Outcome of your decision but be flexible on the ACTIONS to go there
+	6. ENJOY making decisions 
+
+Two forces:
+	1. Avoid pain  (Or better avoid the ACTION that we believe it will bring us to pain)
+	2. Reasearch pleasure (Or better take the ACTION that we believe it will bring us to pleasure)
+	We are not driven by reality but from OUR PERCEPTION of the reality.
+	So:
+		1. Change the link that your brain associate with bringing to pain
+		2. Change the link that your brain associate with bringing to pleasure
+		Condition yourself to new behaviours.
+
+To control the 2 forces:
+	1. Be AWARE of how you react.
+	2. Focus on the PAIN of NOT TAKING ACTION
+	3. Focus on the PLEASURE of TAKING ACTION
+	4. Every day FOCUS on the CONSEQUENCIES of your BELIEFS. 
+		Brainstorm any Believes that empowers you and WRITE them DOWN.
+			How this help me? What can I do better? what can help me reach the success?
+		Brainstorm any Believes that disempowers you and WRITE them DOWN.
+			How was this believes ridiculous? What would it cost to my lovers? To me? 
+
+
+1. Getting ready to change takes time. The Change occurse in an istant.
+2. We are RESPONSIBLE for our own changes.
+Six master steps to CHANGE:
+	1. Decide what DO YOU really WHANT and what is preventing you to go there.
+	2. Get leverage. Motivation. We MUST do RIGHT NOW. Give a sense of URGENCY. (Pain and Pleasure)
+		What it will cost me to don't get there? What i will lose in my life? What is it cost me now mentally, fisically,...
+		If I do change how much happy I'll be. My lovers, my family,.... What are other things that I can do...
+	3. Interrupt the limiting pattern. Do something unexpected, do something different. Interrupt the loop, ex: look at the sky and scream Alleluia my feet don't stink today?
+		Imagine your boss face with a rainbow, with funny voice, with a pinocchio nose. Your emotion will change, your pattern will be broken.
+	4. Create a new empowering alternative.
+	5. Condition the new pattern until it is consistent. link pleasure to the every small achievement.
+	6. Test the new pattern. Does it really works? How this effect your life?
+
+	- Do I associate pain to my previous behaviour? yes = OK
+	- Do I associate pleasure to the new pattern? yes = OK
+	- Am I allined with my values, believes and rules with the new pattern? yes = OK
+	- Check the benefits have been mainteined
+	- Check the new behavior is a long term one.
+
 
 
 

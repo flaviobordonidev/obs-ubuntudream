@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"Card1","id":"56a2c70515da37f6","x":-260,"y":80,"width":250,"height":60},
+		{"type":"text","text":"blocco1","id":"f09b36ee347eb108","x":-60,"y":-80,"width":250,"height":60},
+		{"id":"f245d9d429e857c9","x":-100,"y":180,"width":250,"height":60,"type":"text","text":"sub blocco"}
+	],
+	"edges":[
+		{"id":"7482e7d7b032aac2","fromNode":"56a2c70515da37f6","fromSide":"top","toNode":"f09b36ee347eb108","toSide":"bottom"},
+		{"id":"400845c96306e4bd","fromNode":"f09b36ee347eb108","fromSide":"left","toNode":"56a2c70515da37f6","toSide":"left"},
+		{"id":"aebafd1af16e3cde","fromNode":"56a2c70515da37f6","fromSide":"bottom","toNode":"f245d9d429e857c9","toSide":"left"},
+		{"id":"3123095ecb80aed4","fromNode":"f245d9d429e857c9","fromSide":"right","toNode":"f09b36ee347eb108","toSide":"bottom"}
+	]
+}

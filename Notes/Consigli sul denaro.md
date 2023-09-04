@@ -10,8 +10,42 @@ tag: #
 # Consigli sul denaro
 
 
+Fatti le seguenti due domande. (queste impostano il tuo termostato sul denaro)
+* Quanto sarà il tuo guadagno annuale da qui a 5 anni?
+	* 40.000 eur
+* Quanto sarà il tuo patrimonio da qui a 5 anni?
+	* 100.000 eur
 
-**
+-> I poveri giocano il gioco per non perdere. I ricchi per vincere.
+L'obiettivo del ricco è creare abbondanza nel mondo.
+L'obiettivo del povero è sopravvivere e pagare le bollette.
+Qui c'è ,tra le righe, il "potere dell'intenzione!"
+(se rivedi ache il WA di Geronimo Theml parla molto dell'INTENZIONE e della sua influenza nel nostro comportamento.)
+
+---
+La mentalità da povero (la classe media) vuole stare "comodo/confortevole" e se questa è la tua INTENZIONE allora hai speranza di raggiungerla ma è molto poco probabile che diventi ricco.
+
+La mentalità da ricco vuole raggiungere la "ricchezza" e se questa è la tua INTENZIONE allora è molto probabile che per lo meno stai nel "comodo/confortevole" ed hai speranza di raggiungere la ricchezza.
+
+[mira alle stelle perché se non arriverai, per lo meno raggiungerai la luna]
+[corollario: setta comunque milestone intermedie per festeggiare ogni piccolo traguardo nella tua camminata verso le stelle. Dobbiamo AGIRE e raggiungere le piccole tappe intermedie.]
+
+Antony Robbins dice: rise your standard.
+
+Esercizio:
+aggiungi uno zero al numero che hai messo prima. 
+* Quanto sarà il tuo guadagno annuale da qui a 5 anni?
+	* 400.000 eur
+* Quanto sarà il tuo patrimonio da qui a 5 anni?
+	* 1.000.000 eur
+
+Adesso senti le tue emozioni guardando questi nuovi numeri:
+- Stai pensando: "ho un po' di paura e mi sembra difficile raggiungerli"
+- oppure stai pensando: "questo è irrealistico e irrealizzabile", "non voglio uccidermi per avere soldi, non avrei tempo per nient'altro, ..."
+
+Quella che sta risuonando di più con te è il tuo modello subcosciente sul denaro. È il tuo "termostato" sul denaro.
+Dobbiamo riuscire a sentirci emozionalmente confortevoli nel pensare a questi guadagni.
+
 
 ## Consigli sul denaro
 

@@ -821,6 +821,34 @@ Continue exchanging lists until you have a hundred questions on each. Discuss th
 
 If creativity originates with a question, then it is the art of asking dumb questions that leads to enhanced creativity. Experiment with the practice of creative questioning and construct variations of your own until you discover what works best for you.
 
+---
+
+---
+Creative Questioning
+
+http://childhood101.com/2010/08/asking-questions-which-encourage-creative-thinking/
+
+Consider the learning potential of simply shifting the way you ask your child questions…
+“Can you see the rainbow in the sky?” versus “I wonder how does the rainbow get into the sky?”
+“What is this part of the elephant called? (pointing to trunk)” versus “What would you do if you had a trunk?”
+“Can you see it’s raining?” versus “How does the rain get into the sky?”
+“What colour is this?” versus “What does this colour make you think of?”
+“What type of dinosaur is this?” versus “Do dinosaurs have friends?”
+“Can you see the bird flying in the sky?” versus “What would happen if you could fly?”
+
+“Where do fish live?” versus “What do you think would be most exciting about living underwater?”
+“What will we do tomorrow?” versus “How do you think tomorrow gets here, to where we are?”
+“What is that noise?” versus “What would that noise look like if we tried to draw it?”
+“Can you see the lizard?” versus “Why do you think lizards lie in the sun?”
+
+“What colour is this (autumn) leaf?” versus”When the leaves change colour, how does the new colour get into the leaf?”
+“Which of the balls floats?” versus “How does the ball float on top of the water?”
+“Can you find the red wool?” versus “How many different ways could this wool be used?”
+“What colour is that butterfly?” versus “How could we make a butterfly catcher?”
+“How many snails can you see?” versus “How could we make a playground for a snail to play in?”
+Good questions encourage children to think outside the square, to think and solve problems creatively.  And creative thinking is a problem solving skill that the employers of today (and tomorrow) are looking for.
+
+
 
 ---
 # Vedi anche

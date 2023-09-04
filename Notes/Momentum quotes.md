@@ -10,6 +10,30 @@ tag: #
 Le frasi famose presentate sul plug-in del browser google chrrome: **Momentum**
 
 ## Le frasi
+—
+“A hero is one who knows how to hang on for one minute longer.” - Norvegian proverb
+[anche Dilma ex presidente Brasile usava la frase "sò mais um minuto" quando era sotto tortura]
+
+—
+“Don't give your past the power to define your future.” - Unknown
+
+—
+“Feelings are just visitors. Let them come and go.” - Mooji
+
+—
+"The most invisible form of wasted time is doing a good job on an unimportant task." - James Clear
+
+—
+“Every day of our lives, we are on the verge of making those slight changes that would make all the difference.” - Mignon McLaughlin
+
+—
+“Worrying does not take away tomorrow's troubles, it takes away today's peace.” - Unknown
+
+—
+“One's destination is never a place but rather a new way of looking at things.” - Henry Miller
+
+—
+“Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end, because once you get there you can move mountains.” - Steve Jobs
 
 —
 “Se ti concentri sui risultati, non cambierai mai. Se ti concentri sul cambiamento, otterrai risultati”. ~Jack Dixon

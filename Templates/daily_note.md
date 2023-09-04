@@ -6,35 +6,44 @@ zettle: #letteraria
 tag: #
 
 ---
-# {{title}}
+# <dai un titolo alle ultime 24h>
+
+## Journaling
+(una descrizione della giornata)
 
 
-# {il titolo della mia giornata}
-{frase o parole chiavi che descrivono cosa è successo in questa giornata. serve come *memory trigger*}
-
-## Produttività
-3 cose successe nelle ultime 24h per cui sono grato.
-- bla
-- bla
-- bla
-
-Come sono state le mie ultime 24h? (1-10): 7
-Come avrei potuto ottenere un punto in più? 
-[What could I have done better]
-(Se ho 10 allora cosa ho fatto per avere una giornata da 10?)
+#### Key words
+(frasi o parole chiavi che descrivono cosa è successo nelle ultime 24 ore. Serve come *memory trigger* ed anche come *journaling*)
+- _
 
 
-3 cose che faccio nelle prossime 24h. (In ordine di priorità)
-- [ ] bla
-- [ ] bla
-- [ ] bla
+#### È successo qualcosa fuori dall'ordinario nelle ultime 24 ore?
+- _
+
+
+#### Che pensieri ho in testa adesso?
+- _
 
 ---
-## Journaling
+## Produttività
+### 3 cose successe nelle ultime 24h per cui sono grato.
+- _
+- _
+- _
 
-Did anything out of the ordinary happen today?
 
-What is on my mind.
+### Come sono state le mie ultime 24h?
+(un voto da 1 a 10)
+- _
 
 
+### Come avrei potuto ottenere un punto in più? 
+(Se ho 10 allora cosa ho fatto per avere una giornata da 10?)
+- _
 
+
+### 3 cose che faccio nelle prossime 24h. 
+(In ordine di priorità)
+- [ ] _
+- [ ] _
+- [ ] _

@@ -66,54 +66,37 @@ Se non lavori tanto sei un imprenditore zombi. Sei già morto e non lo sai.
 - Crescendo ancora puoi essere più strategico
 
 ---
-**
-
 Os seis pilares de lucros para experts empreendedores
 
-  
 
 • Escrita
-
 um livro, livretos (20-50paginas), e-books, manuais de instrução, assinaturas em blogues, séries de artigos (para serem licenciados por outros experts) e newsletters de assinaturas mensais (entregues impressas na casa dos clientes uma vez ao mês mediante pagamento de uma tarifa).
 
-  
 
 • Oratória
-
 palestrantes (meia hora e uma hora e meia), orientadores (duas horas a dois dias), “vendas em plataformas” (instruem sobre seus tópicos durante cerca de 80 minutos e, então, nos últimos dez ou quinze minutos oferecem seus programas. 50% para ele e 50% para o promotor)
 
-  
 
 • Seminários
-
 eventos ao vivo. “seminários”, workshops, congressos, retiros educacionais, treinamentos intensivos e fins de semana transformacionais.
 
-  
 
 • Coaching
-
 sessões de coaching individuais ou em grupo.
 
-  
 
 • Consultoria
-
 se você gosta de resolver problemas organizacionais de grande porte.
 
-  
 
 • Marketing digital
-
 empacotando suas informações e recomendações práticas e úteis em produtos e programas informativos que as pessoas compram via internet
 
-  
 
-Tudo se resume a posicionamento (positioning), empacotamento (packaging), promoção (promoting) e parceria (partnership) com terceiros para transmitir sua mensagem ao mundo.
 
-  
-  
+## Um plano em 5 etapas
 
-Um plano em 5 etapas
+Tudo se resume a posicionamento (==positioning==), empacotamento (==packaging==), promoção (==promoting==) e parceria (==partnership==) com terceiros para transmitir sua mensagem ao mundo.
 
 1. Crie um produto informativo com preço baixo. (20-200€)
 
@@ -125,97 +108,40 @@ Um plano em 5 etapas
 
 5. Crie um programa de coaching com preço mais alto. (2000/mes) programa moderno de coaching em grupo. Nesse programa, são oferecidos a seus clientes novos vídeos de treinamento exclusivos a cada mês, um treinamento de grupo, uma audioconferência de perguntas e respostas, dois ingressos para seu seminário presencial e um evento ao vivo de fim de semana, separado a cada ano, somente para o recebimento de coaching.
 
-  
-  
 
-...autovalorização é a chave para entendermos e cultivarmos a autoestima e o êxito.
+ ...o maior indicador de baixa autoestima e baixa autovalorização è a expressão “Quem sou eu para compartilhar o que penso com os outros?”. 
 
-...quanto maior sua percepção de valor, mais você se sente capaz e confiante.
-
-  
-
-...maior indicador de baixa autoestima e baixa autovalorização è a expressão “Quem sou eu para compartilhar o que penso com os outros?”. 
-
-  
-
-... invece chi ha successo dizem: “Bem, passei por essa grande dificuldade ou por esse evento traumático para compartilhar essas lições com o próximo”. Os experts geralmente utilizam a expressão “obrigação moral” ou “convocação".É hora de agir. Você transformará a vida de muitas
-
-pessoas.
-
-  
-
+... invece chi ha successo dizem: “Bem, passei por essa grande dificuldade ou por esse evento traumático para compartilhar essas lições com o próximo”. Os experts geralmente utilizam a expressão “obrigação moral” ou “convocação".É hora de agir. Você transformará a vida de muitas pessoas.
 1. Uma razão de eu não estar compartilhando minhas lições de vida com mais frequência com os outros é…
-
 2. Se um de meus amigos usasse uma desculpa como esse motivo, eu diria para ele…
-
 3. Os momentos de minha vida em que tive de conter minha voz foram os de…
-
 4. Os momentos de minha vida quando me expressei abertamente e ajudei as pessoas foram…
-
-  
-  
 
 ...ninguém sabe ou tem essas coisas para começar, elas simplesmente começam a descobrir se pondo em ação e seguem em frente!”
 
 ...independentemente do que sabemos ou temos, nós começaremos, enfrentaremos as dificuldades, experimentaremos, trabalharemos com dedicação e aprenderemos ou criaremos sempre que tivermos de transmitir nossa mensagem ao mundo.
-
-  
-
 1. As coisas que terei de aprender para obter sucesso nessa nova empreitada são…
-
 2. As coisas que terei de criar de modo a começar são…
-
 3. As pessoas nas quais posso me espelhar e seguir para encurtar minha curva de aprendizado são…
-
 4. As desculpas que provavelmente darei durante o caminho que terei de percorrer são…
 
-  
-  
-
 ... Sentir-se envergonhado não serve ao mundo.
-
-  
-
 1. Uma visão fantástica que tenho para mim mesmo nesta indústria é…
-
 2. Quando passei por tempos difíceis, sempre me recordo de…
-
 3. Para assegurar que não me limito na vida ou nesse negócio, farei…
-
 4. Para desempenhar um papel mais grandioso, terei que parar de…
 
-  
-  
-
 ...aprendizes primeiro, instrutores depois, servidores sempre
-
-  
-
 1. Para me sentir mais como um aprendiz na vida, eu teria de…
-
 2. Meu plano para aprender mais sobre meu tópico é…
-
 3. Meu plano para capturar as lições do dia a dia, que posso ensinar aos demais, é começar a…
-
 4. Sinto que deveria aprender tudo isso e ensinar o que sei porque…
 
-  
-  
-
 ...focam em uma oportunidade de cada vez e a exploram profundamente, trabalhando por anos até criar uma base sólida.
-
-  
-
 1. A área na qual vou me concentrar no próximo um ano e meio é…
-
 2. As coisas nas quais vou parar de me concentrar neste momento são…
-
 3. Os momentos em que perco meu foco e saio da trajetória são…
-
 4. Se daqui a 12 meses recordasse todo esse período, saberia que tinha permanecido na trajetória se pudesse ver que…
-
-  
-  
 
 ...criar um sistema mais claro e aplicável, de modo que seus consumidores possam segui-lo para resolver um problema e atingir um resultado muito específico.
 
@@ -225,8 +151,8 @@ pessoas.
 
 transcrições e livro didático, ele deve ter um layout lógico e um design bonito.
 
-  
-**
+
+
 
 ---
 # Vedi anche

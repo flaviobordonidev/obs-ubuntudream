@@ -18,3 +18,11 @@ E nella visualizzazione vediamo l’espressione del nostro viso ed i pensieri ch
 Ed alleniamoci a dire l’omino Paolo invidia mi sta facendo venire questo pensiero e mi sta facendo sentire così perché ha buttato un sacco di ormone cortisolo…
 
 Non sono io che sto pensando questo ma è l’omino Paolo che parla dentro la mia testa.
+
+
+
+---
+# Vedi anche
+- [UbuntuDream - Percorsi - 6 - Convinzioni ed Emozioni]
+- [[Intelligenza Emozionale]]
+- 

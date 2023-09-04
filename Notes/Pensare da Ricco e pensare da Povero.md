@@ -28,11 +28,36 @@ Mi piacerebbe essere ricco              | Decido di essere ricco e agisco
 Pensa di essere inferiore rispetto ai suoi problemi | Pensa di essere all’altezza dei suoi problemi
 Non si responsabilizza per i risultati  | Si responsabilizza per i risultati
 Non amministra il denaro                | Misura, calcola il crescimento della sua ricchezza
+Life happens **to** me                      | Life happens **for** me
+Life happens to me                      | I create my life
+play the money game to not lose         | play the money game to win
+want to be rich                         | are committed to being rich
+think small                             | think big
+focus on obstacles                      | focus on opportunities
+resent rich and successful people       | admire other rich and successful people
+associate with negative, unsuccessful people | associate with positive, successful people
+think negatively about selling and promotion | are willing to promote themselves and their value
+are smaller than their problems         | are bigger than their problems
+are poor receivers                      | are excellent receivers
+choose to get paid based on time        | choose to get paid based on results
+think “either/or”                       | think “both”
+focus on their working income           | focus on their net worth
+mismanage their money well              | manage their money well
+work hard for their money               | have their money work hard for them
+let fear stop them                      | act in spite of fear
+think they already know                 | constantly learn and grow
 
+**
+Il denaro risolve problemi.
+(posso pagare la pensione ai miei genitori, pagare l'operazione all'ospedale, pagare lo staff di una mia azienda, donare alimento per famiglie povere,...)
+Vendere porta denaro.
+--> Vendere risolve problemi.
+
+[[Vendere vuol dire "Servire gli altri".]]
 
 **
 
-I 5 miti sul dinheiro:
+I 5 miti sul denaro:
 1. i soldi corrompono la persona. Falso. I soldi sono solo uno strumento.
 
 2. i soldi ti allontanano dalla spiritualità. Falso

@@ -20,8 +20,8 @@ Credimi:”Cercare di raggirare un problema non serve a nulla, l’ho provato tr
 Ne rimarrai sbalordito!
 
 
-
 ---
 # Vedi anche
 - [[Interpretare]]
+- [[i problemi ci fanno crescere]]
 - 

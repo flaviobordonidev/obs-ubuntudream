@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: Scommettiamo come nelle corse dei cavalli... - Fai il bilancio della tua vita
 ---
 2023-01-04 - 00:29 - *luogo*
 zettle: # letteraria transitoria permanente
@@ -22,6 +22,20 @@ Devi mettere molti più assets che liabilities => Pensa POSITIVO ed Abbi una BUO
 
 -
 Questa storia sembra raccontare la morale che la vita può essere imprevedibile e che ci sono alti e bassi, ma è importante mantenere una mentalità positiva e trovare la forza di superare le difficoltà. Inoltre, suggerisce che la saggezza e la perseveranza possono aiutare a superare le scommesse più difficili, anche quando sembra che le probabilità siano contro di noi. Infine, ci ricorda che in momenti di crisi, può essere utile fare un bilancio delle nostre risorse e delle nostre forze, per trovare la motivazione e il coraggio di andare avanti.
+
+---
+Create a balance Sheet of your life
+more assets than liabilities.
+Assets = What you have. What you can do
+Liabilities = What you don't have. What you can't do.
+Storia del figlio poliziotto, vendita alberi di natale, stock broker, perde tutto si vuole suicidare è sul molo il vecchio gli grida la nave! la nave!
+Che nave?
+La tua nave non può arrivare c'è la sabbia, non può arrivare. Sei tu che devi raggiungerla.
+Sai correre?
+Scommettiamo come nelle corse dei cavalli 50euro che io ti batto?
+Che cosa hai imparato?
+Fai il bilancio della tua vita.
+
 
 
 ---

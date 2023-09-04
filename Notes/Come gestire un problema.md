@@ -146,7 +146,8 @@ Ecco le 5 domande per arrivare all’origine del problema (alle sue cause) e qui
 4.  C'è qualcosa che **se avessi fatto diversamente** avrei evitato questo problema?  
     Nella maggior parte dei casi la risposta è sempre: Sì. E ti porta alla fonte del problema, alla sua causa.  
   
-5.  Quais são as **três soluções possíveis** para resolver esse problema e evitar que ele se repita?  
+5.  Quali sono le **tre soluzioni possibili** per risolvere questo problema ed evitare che si ripeta?
+    Quais são as **três soluções possíveis** para resolver esse problema e evitar que ele se repita?  
     È importante verificar se precisa mudar a minha postura, ossia se cambiare il mio modo di agire deve accadere affinché risolva il problema.  
 
 

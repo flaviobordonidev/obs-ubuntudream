@@ -9,8 +9,6 @@ tag: #
 ---
 # Il pericolo di essere impazienti
 
-**  
-
 Chris, credo che ci siano ricompense mentali nell'arrendersi. Spesso quella voce interiore ci chiede se siamo persistente o insistenti e, a seconda della risposta, gettiamo la spugna. Anche mia suocera ha una frase molto bella: le cose hanno una faccia prima che succedano e un'altra dopo. Molte volte non ci prepariamo abbastanza per il viaggio, non abbiamo a disposizione gli strumenti essenziali per superare le barriere, quindi ci arrendiamo. Comunque, la lista è lunga.﻿
 
   
@@ -41,6 +39,8 @@ Ciao Crissssss..... È evidente che le persone mancano di chiarezza perché "dir
 
 Per me è l'istinto del cervello rettile cacciatore. E' molto più facile cacciare che piantare ed attendere i risultati. Quando caccio e catturo la preda il risultato è immediato mentre se pianto il cibo arriva dopo molto tempo.
 
-  
-  
-**
+
+---
+# Vedi anche
+- 
+- 

@@ -31,3 +31,10 @@ Lasciamo stare i 5 Passi fatti descritti sopra non mi convincono.  Però quello
 Questo è anche quello che mi aveva insegnato Ettore quando stai facendo una cosa sei un maestro Se riesci a guardarti da fuori dall' alto e Vedi quello che stai facendo senza essere coinvolto.  ad esempio un chirurgo non può operare un familiare perché è emozionalmente troppo coinvolto.  se riusciamo a non essere così coinvolti ma mantenere il flow,  perché ci guardiamo dall'alto E comunque siamo concentrati al 100% nel compito da fare.  un po' come se fossimo i giocatori di un videogioco e il protagonista del videogioco  siamo noi stessi che stiamo facendo il lavoro,  il compito.  il giocatore di un videogioco è in Flo facilmente,  è al 100% dentro il compito che sta svolgendo,  ma allo stesso tempo è distaccato,  perché non è il protagonista che è dentro il gioco.  ha un punto di vista differente e riesci a interpretare meglio il quadro generale. 
 
 Riuscire quindi a non guardare il lavoro solo con i nostri occhi ma immaginare noi stessi dissociati come è un'anima che ci guarda dall'alto e critica costruttiva mente quello che stiamo facendo.
+
+
+
+---
+# Vedi anche
+- [[Essenza - fumi che entrano dal naso]]
+- 

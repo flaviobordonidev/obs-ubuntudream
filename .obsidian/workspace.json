@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4b23a0c4e4395117",
+        "id": "4b8840bcd6a37ed5",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b11677e18349d9",
+            "id": "20d4c789a7bffd8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
+                "file": "Notes/OpusMotus - carte per gestire gli Stati Emotivi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af72fdb8439b3ac4",
+            "id": "5fa56f5f45e902e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/2023-03-07.md",
+                "file": "Notes/Intelligenza emotiva - esempio sedia con viti lente.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c4d2c353385ba3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Intelligenza Emozionale.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leggenda personale",
+                "query": "ikig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1807fbce7ffbead4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -112,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
+                "file": "Notes/Intelligenza Emozionale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -135,7 +156,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7083423516760682,
+                  "scale": 1.530441033124962,
                   "close": true
                 }
               }
@@ -154,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
+                "file": "Notes/Intelligenza Emozionale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
+                "file": "Notes/Intelligenza Emozionale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/YT-UD-003 - Le catene invisibili - ep01.md"
+                "file": "Notes/Intelligenza Emozionale.md"
               }
             }
           }
@@ -231,33 +252,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3b11677e18349d9",
+  "active": "5c4d2c353385ba3c",
   "lastOpenFiles": [
-    "Journal/2023-03-07.md",
-    "Notes/Obsidian.md",
-    "Notes/courses.md",
-    "Notes/Dissociazione - Vedersi fuori da se stessi.md",
-    "Notes/YT-UD-003 - Le catene invisibili - ep01.md",
-    "Notes/2023-03-07.md",
-    "Notes/Chiedi e ti sarà dato.md",
-    "Notes/meditazione e mindfulness.md",
-    "Notes/La corda sopra l'abisso.md",
-    "Notes/Papà con figlio in bicicletta.md",
-    "Notes/Non si sentiva adulta - gli mancava qualcosa.md",
-    "Notes/Dilettante vs professionista.md",
-    "Notes/Il coraggio di essere differenti.md",
-    "Notes/Sapere ascoltare.md",
-    "Notes/Un antidoto contro l'ira.md",
-    "Notes/Tornare a sognare - chef e pastore.md",
-    "Notes/Rischiare - Nuotare è bello.md",
-    "Notes/È il tetto che parla non il capretto.md",
-    "Notes/Domatore leoni e sgabello.md",
-    "Notes/Vedovo - puoi sentire l’acqua con il ramo senza toccare l’acqua.md",
-    "Notes/Piccolo me piccolo me.md",
-    "Notes/Dr.ssa e pazienti terminali.md",
-    "Notes/Le pietre diventano scalini.md",
+    "Notes/ormoni - Dopamina - Serotonina - Testosterone - Estrogeni.md",
+    "Notes/Intelligenza Emozionale.md",
+    "Notes/Il connettoma.md",
+    "Notes/Visualizzazione sulle emozioni.md",
+    "Notes/Intelligenza emotiva - esempio sedia con viti lente.md",
+    "Notes/Pazienza.md",
+    "Notes/Ikigai.md",
     "Templates/(default).md",
-    "Notes/Tazza d’oro e tazza di coccio.md",
-    "Notes/Forze o debolezze.md"
+    "Notes/Untitled.md",
+    "Notes/OpusMotus - carte per gestire gli Stati Emotivi.md",
+    "Notes/Untitled 2.md",
+    "Notes/Cambio di prospettiva.md",
+    "Notes/Napoleon Hill - think and grow rich.md",
+    "Notes/Prendere delle decisioni.md",
+    "Notes/La formula della felicità.md",
+    "Notes/Il bilancio della tua vita.md",
+    "Notes/Il fiore annaffiato con acqua pulita e quello con acqua sporca.md",
+    "Notes/Convinzioni ed Emozioni.md",
+    "Notes/Passione.md",
+    "Notes/Ognuno di noi ha la sua concezione delle emozioni.md",
+    "Notes/INTERESSANTE - Nelle carte delle emozioni.md",
+    "Notes/Il vantaggio dell’emozione della Noia.md",
+    "Notes/Convinzioni limitanti e Stile di vita.md",
+    "Notes/Possiamo cambiare il nostro comportamento linguisticamente.md",
+    "Notes/Untitled 1.md",
+    "Journal/2023-08-02.md",
+    "Canvas Test.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
   ]
 }

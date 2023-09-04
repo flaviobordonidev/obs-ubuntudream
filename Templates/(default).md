@@ -1,5 +1,6 @@
 ---
-alias: 
+aliases: []
+publishing_date: "{{date}} - {{time}}"
 ---
 {{date}} - {{time}} - *luogo*
 zettle: # atomic moc

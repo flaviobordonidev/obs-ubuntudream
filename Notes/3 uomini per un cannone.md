@@ -69,8 +69,10 @@ Perciò, è chiaro, A QUESTO PUNTO, perché il manuale per l’arma di artiglier
 
 … Nessuno, per decenni, analizzò mai la cosa… … e così, passivamente, il manuale dell’arma di artiglieria non venne corretto, PER DECENNI…
 
----
-## Referenze
 
-- vedi Murillo Gum curso principale che parla di **Quem disse?** --> Mito 4?!?
-- vedi anche [[Storia dell’autostada con le curve]]
+
+---
+# Vedi anche
+- Murillo Gum curso principale che parla di **Quem disse?** --> Mito 4?!?
+- [[Storia dell’autostada con le curve]]
+- [[La cipolla nella vernice]]

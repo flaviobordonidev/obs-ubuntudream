@@ -43,5 +43,6 @@ Dopo alcune ore torna il giorno e l’alieno apprende che nel nostro mondo c’�
 ---
 # Vedi anche
 - [[Igiene emotiva]]
-- 
+- [[Post Traumatic Growth e vasi riparati con oro]]
+- [[Tutto è difficile, prima che diventi facile]]
 - 

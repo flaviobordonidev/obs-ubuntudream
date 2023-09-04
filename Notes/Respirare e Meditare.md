@@ -164,7 +164,7 @@ Il vuoto non è fatto di pensieri, ma di puro sguardo. La natura offre mille pos
   
 
 Meditare è visto come un modo per “svuotare” la mente come la parabola del maestro zen che versa il té in una tazza già piena. Altro modo per “svuotare” la mente è mettersi con la predisposizione dello studente che vuole imparare e non di quello che già sa tutto.
-
+[[svuotare la mente]]
   
 
 La meditazione è pratica. Proprio come camminare, proprio come correre, si inizia che si è davvero parecchio incapaci ma in molte molte ore di pratica si diventa davvero bravi.
