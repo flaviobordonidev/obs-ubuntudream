@@ -22,6 +22,6 @@ Tu non potrai mai avere tutti dalla tua parte. Scordatelo! Dipende da te, se ci 
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Interpretazione - voto d'esame]]
 - [[Voce interna - Inner voice]]

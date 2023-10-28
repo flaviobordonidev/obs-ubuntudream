@@ -28,7 +28,7 @@ Oltre alle preoccupazioni gli si somma la sensazione di depressione perché lasc
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Convinzioni ed Emozioni]] --> L'albero delle preoccupazioni
 - [[Agire - il chicco di riso]]
 - 

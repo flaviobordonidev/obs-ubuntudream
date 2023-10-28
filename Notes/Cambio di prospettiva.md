@@ -19,5 +19,5 @@ A volte basta un piccolo cambiamento di prospettiva per vedere qualcosa di famil
 - [[Interpretazione - voto d'esame]]
 - [[Possiamo cambiare il nostro comportamento linguisticamente]]
 - [[I punti neri nella nostra vita]]
-- [[Interpretare - La sedia a rotelle mi ha liberato|punti di vista]]
-- 
+- [[Interpretare - La sedia a rotelle mi ha liberato]]
+- [[lo scheletro attore]]

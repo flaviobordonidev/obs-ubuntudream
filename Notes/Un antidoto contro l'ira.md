@@ -47,7 +47,7 @@ Puo' diventare un disturbo compulsivo: si trasforma nell'OSSESSIONE DI AVERE O S
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[catena invisibile - rabbia]]
 - [[Il controllo delle emozioni]]
 - [[Convinzioni ed Emozioni]]

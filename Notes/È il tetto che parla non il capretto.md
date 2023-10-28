@@ -17,5 +17,5 @@ Morale: Non dire mai niente che non diresti sempre.
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

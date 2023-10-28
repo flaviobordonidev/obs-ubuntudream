@@ -1,10 +1,10 @@
 ---
-alias: opus-motus
+aliases: 
+tags:
+  - OpusMotus
+  - equilibrio-interiorità
+date - time: 2023-08-06 - 17:07
 ---
-2023-08-06 - 17:07 - *luogo*
-zettle: # atomic moc
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
-tag: #
 
 ---
 # strategia - storie - stati emotivi
@@ -13,25 +13,27 @@ tag: #
 
 Le paure sono quello che ci trattiene da dove vogliamo andare.
 E voglio muovervi a superare queste paure. Scrivi queste tre leggi / tre passi.
-Se vuoi avere successo, se vuoi essere un leader in qualsiasi cosa: se vuoi aprire un'attività, se vuoi fare qualcosa di significato, ci sono 3 passi che devi fare:
-1. Guarda le cose per come sono, non peggio di quello che sono.
+
+1. **Guarda le cose per come sono, non peggio di quello che sono.**
    Ad esempio molte persone quando devono aprire un'attività si spaventano: non so da dove partire, non ho le competenze, non ho le abilità... E probabilmente è vero, ma non stai vedendo/valutando quanto velocemente le puoi acquisire.
    La maggior parte delle persone vede quello che vogliono fare molto più difficile di quello che realmente è per potersi giustificare di non provarci e di non rischiare di fallire. Perché non vogliono "sentirsi falliti". Pensano al fallimento come una identità: "sono un fallito" e non come ad una tappa: "ho imparato che questa cosa non funziona".
    (parentesi sulle "Storie che ci raccontiamo":
    - ho le ossa pesanti ed è per questo che peso di più
    - non posso trovare una ragazza perché tutte le migliori sono già state prese
-  Il problema è che se anche sappiamo che sono "modi di dire", a forza di ripeterlo il nostro subconscio le acquisisce come informazioni reali e ci fa agire di conseguenza... "nel mio mondo..."
-  )
-2. Guardala migliore di quello che è.
+  Il problema è che se anche sappiamo che sono "modi di dire", a forza di ripeterlo il nostro subconscio le acquisisce come informazioni reali e ci fa agire di conseguenza... "nel mio mondo..."  )
+  
+2. **Guardala migliore di quello che è.**
    Devi avere una VISION. (Devi avere CHIAREZZA)
    Devi avere chiaro dove sei e dove vuoi andare ed avere una forte ragione / motivo per agire.
    Devi avere un forte motivo per far si che agire sia un FACCIO e non un _dovrei fare_.
    Le persone AGISCONO OGGI, anche in situazioni difficili, SE CREDONO IN UN DOMANI MIGLIORE.
-3. Rendi la tua vita la visione che ti eri prefisso (Make it the way you see it)
+   
+3. **Rendi la tua vita la visione che ti eri prefisso** (Make it the way you see it)
    Questo richiede STRATEGIE.
    (Geronimo Theml: Non parlare di come vuoi la tua vita, ma vivi la vita di cui vuoi parlare.)
    Chiudere il gap tra dove siamo adesso e dove vogliamo essere.
-   Introduciamo i 3 concetti: STRATEGIE - STORIE - STATI EMOTIVI
+
+Introduciamo i 3 concetti: STRATEGIE - STORIE - STATI EMOTIVI
 
 
 ## STRATEGIE - STORIE - STATI EMOTIVI

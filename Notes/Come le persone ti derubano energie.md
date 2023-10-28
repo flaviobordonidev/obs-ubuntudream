@@ -22,5 +22,5 @@ Se questa soluzione non fosse possibile, allora respira profondamente e poi pens
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

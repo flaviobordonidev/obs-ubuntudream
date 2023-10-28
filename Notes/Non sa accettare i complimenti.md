@@ -15,5 +15,5 @@ Non si sente all’altezza ed è contro la vendita e il marketing ed il promuove
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]] 
+- [[Intelligenza Emotiva]] 
 - 

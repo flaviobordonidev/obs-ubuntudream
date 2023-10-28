@@ -60,6 +60,12 @@ Ho una siepe a forma di piramide (lingua portoghese). Se lascio il mio rampicant
 ### Metafora del filo di perle
 La metafora del filo in cui metto le perle per creare la collana. Il filo è il metodo (la struttura) le perle sono le idee.
 
+Creare delle storie interessanti che raccolgono ognuna una perla di saggezza.
+
+Tutte le perle le metto su una "collana" ovvero ho un metodo/corso che mi raccoglie tutte le perle e mi permette di portarle con me (le fa entrare nella mia struttura psicologica e me le fa mettere in pratica. Mi fa prendere delle attitudini positive)
+
+Non solo teoria ma un corso che ti fa fare degli esercizi semplici che messi in pratica tutti i giorni ti permettono di arrivare a risultati straordinari.
+
 
 
 ## Strategia vs Tattica

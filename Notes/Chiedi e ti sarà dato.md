@@ -26,7 +26,7 @@ Voce ganha a liberdade.
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Elenco catene invisibili note]]
 - [[YT-UD-003 - Le catene invisibili - ep01]]
 - 

@@ -38,7 +38,7 @@ Piano piano il secondo lavoro cresce e si trasforma nel lavoro principale che le
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Ubuntu]]
 - [[Tutto è collegato]]
 - 

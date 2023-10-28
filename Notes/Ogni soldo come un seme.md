@@ -110,4 +110,5 @@ I ricchi imparano ad acquisire, quindi mantenere e far crescere, per poi investi
 - [[Risparmiare è divertente]]
 - [[Principi sul denaro che direi a me stesso diciassettenne]]
 - [[Ciclo della ricchezza]]
+- [[Gestire i soldi]] (Poldo e la gallina)
 - 

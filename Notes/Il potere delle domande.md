@@ -7,6 +7,12 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
+# Il potere delle parole
+La nostra struttura psicologica è linguistica. (Lair Ribeiro)
+
+Semplicemente cambiando il tuo vocabolario attuale puoi istantaneamente cambiare come pensi, come senti e come vivi.
+
+
 # Il potere delle domande
 Le domande più importanti della vita non possono mai essere risolte da nessuno tranne noi stessi. - John Fowles
 

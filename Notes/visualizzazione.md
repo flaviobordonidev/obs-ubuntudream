@@ -217,6 +217,14 @@ Quindi UbuntuDream è una tattica/tecnica/metodo/formula che ci allena come se f
 Nella Wisber FoundAction c’è anche un percorso di life-coaching totalmente basato su UbuntuDream ed accessibile solo a chi ha già acquisito una buona familiarità con UbuntuDream e riesce a seguire avventure più complesse.
 
 ---
+Il processo di pensare è basato sul FARSI DOMANDE E DARSI RISPOSTE.
+
+Questo causa molto sforzo al cervello e come i muscoli hanno bisogno di allenamento per riuscire in grandi imprese, così il cervello ha bisogno di allenamento per essere efficiente nel pensare.
+
+Le tecniche di visualizzazione che fanno tante domande ed impegnano il cervello a "vedere/vivere" le risposte, sono un eccellente allenamento.
+
+
+---
 Quando gli eventi minacciano di sovrastarti
 Il seguente esercizio ti sarà di grande aiuto. Chiudi gli occhi e richiama alla tua mente, il problema che più ti opprime, ==e proiettale sul tuo schermo interiore (visualizzazione)==. Ora, entra in questo gravoso film e rivivilo mentalmente ancora una volta, in tutti i dettagli spiacevoli e in tutte le sue sfaccettature. Quindi batti le mani in modo energico e fragoroso e abbandona velocemente il film. Da protagonista diventa spettatore! Immaginati di essere un uccello o una mosca, che da una distanza di circa 5-10 metri osserva te stesso in questa foto!”
 
@@ -256,6 +264,24 @@ Al posto della rosa possiamo poi inserire qualsiasi cosa nella nostra vita:
 -   …
 
 
+---
+
+1. Il cervello non si spegne mai.  
+    Sta a te direzionarlo. Stai pensando a cose sgradevoli, a cose che NON vorresti.  
+    O stai pensando a cose gradevoli, a cose che VORRESTI?  
+    
+2. Il cervello lavora per te.  
+    DEVI dirgli CHE COSA VUOI! Dagli delle coordinate precise e lui cercherà di raggiungerle.  
+    Attenzione!!!  
+    Non devi dirgli cosa non vuoi. Non usare mai la parola "non" quando direzioni la tua mente. Dai sempre informazioni in postitivo. E non dare dei comandi, usa sempre delle domande. (:-) sto usando un sacco di "non" e non dovrei :))  
+    Riassumendo:  
+    CHIEDI AL TUO CERVELLO COME POTRESTI RAGGIUNGERE QUELLO CHE VUOI!  
+    Che cosa oggi è impossibile, ma che se fosse possibile migliorerebbe enormemente la mia vita professionale?  
+    Che cosa oggi è impossibile, ma che se fosse possibile migliorerebbe enormemente la mia vita sentimentale?  
+    Che cosa oggi è impossibile, ma che se fosse possibile migliorerebbe enormemente la mia vita fisica?        
+    
+3. Il cervello va dove trova minore resistenza.  
+    E la minore resistenza la trova dove è già stato, con la realtà o con la creatività. (La VISUALIZZAZIONE è importante!)
 
 
 ---

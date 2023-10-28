@@ -20,6 +20,6 @@ Tra questi c'è un gruppo di marinai che ha preso le patate che stavano pelando 
 ---
 # Vedi anche
 - [[resilienza emotiva]]
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Interpretare]]
 - 

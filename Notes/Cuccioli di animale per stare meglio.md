@@ -21,5 +21,5 @@ Se avesse cercato su internet le foto dei cuccioli di animale avrebbe aumentato 
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[]]

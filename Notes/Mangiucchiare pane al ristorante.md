@@ -28,7 +28,7 @@ Resta rilassato pur facendo valere I suoi diritti ed evitando che gli mangino in
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Fuoco sulla soluzione]]
 - [[Autostima]]
 - 

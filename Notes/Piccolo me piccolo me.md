@@ -18,5 +18,5 @@ Quando questo succede punta il dito su se stesso e dice: ”Piccolo me, piccolo 
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

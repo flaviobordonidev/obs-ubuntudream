@@ -25,5 +25,5 @@ Come affrontare i conflitti
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

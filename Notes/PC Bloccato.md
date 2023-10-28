@@ -33,5 +33,5 @@ si siede con calma, aspetta che il pc si carichi, ricerca il problema e come pot
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

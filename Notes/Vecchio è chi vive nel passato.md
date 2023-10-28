@@ -26,7 +26,7 @@ Decidi adesso di rimanere giovane e vitale nello spirito; rifletti su come già 
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]] 
+- [[Intelligenza Emotiva]] 
 - [[12 Abitudini che drenano le tue energie]]
 - [[Camminare nella neve per andare a scuola]]
 - 

@@ -28,7 +28,7 @@ Perché è scritto nella genetica del nostro cervello: perché nasciamo per appr
 
 come convincere il nostro cervello ad invertire direzione?
 
-## La storia di Poldo e la gallina che da 1 uovo
+## La storia di Poldo Bianchi e la gallina che da 1 uovo
 La storia del Sig. Poldo e della sua gallina da un uovo al giorno
 Il Sig. Poldo è molto povero, ma almeno ha una gallina che, ogni giorno, gli da un uovo.
 Con quell’uovo può nutrirsi, un poco. O venderlo, ovviamente guadagnando poco.
@@ -41,9 +41,12 @@ per una volta, si gode un pasto abbondante!
 Ma il giorno dopo il giorno dopo l’uomo non ha più la gallina, non ha più l’uovo quotidiano,
 non ha nulla da vendere, seppure a poco prezzo.
 
-[l’anima accesa avrebbe venduto qualche uovo per comprare mangime, poi avrebbe cercato qualcuno con un gallo e chiesto se poteva lasciare la gallina con il gallo. Avrebbe poi lasciato qualche uovo alla gallina da covare. Una volta nati i pulcini li avrebbe svezzati con il mangime. In poco tempo avrebbe avuto più galline. Avrebbe moltiplicato il suo patrimonio]
+### La storia di Nail e la gallina che da 1 uovo
+Gianni Neli ha una gallina che tutti i giorni gli da un uovo e lui ringrazia tutte le sere prima di andare a dormire di avere un uovo quotidiano. Un giorno si preoccupa di cosa accadrebbe se la gallina si ammalasse ed allora decide di chiedere al vicino se può farla accoppiare con il suo gallo. Il vicino acconsente e dopo l'accoppiamento Gianni rinuncia a mangiare le uova tutti i giorni lasciandone alcune alla gallina da covare. Gianni comincia a patire un po' di fame e a sentirsi debilitato ma dopo alcune settimane 5 uova si schiudono. Ne nascono 5 pulcini e Gianni può ricominciare a mangiare un uovo tutti i giorni. Deve però lavorare molto di più perché deve dare il mangime anche ai 5 pulcini. Dopo un po' di tempo 3 pulcini diventano galline e 2 pulcini diventano polli. Un pollo diventa un buon pranzetto in brodo perché 2 galli in un pollaio litigano. Alcuni anni più tardi Gianni ha una fattoria ricca e piena di animali. [ha moltiplicato il suo patrimonio iniziale che era di 1 sola gallina]
+Lui è felice e va a trovare un parente al cimitero, entrando si ferma a guardare la tomba a sinistra dov'è riportato sulla lapide Poldo Bianchi e si chiede chi mai possa essere.
 
-Come iniziare ad avere più soldi.
+
+## Come iniziare ad avere più soldi.
 
 Di seguito un concetto che vuole far girare la chiave nella nostra mente per iniziare ad avere un’attitudine differente.
 
@@ -78,9 +81,6 @@ L'acceso tratta i soldi come il generale saggio che tratta i suoi soldati con pr
 
 L’acceso aumenta le sue possibilità di crescita. (ex: aumenta il suo valore). 
 
-## La storia di Nail e la gallina che da 1 uovo
-Gianni Neli ha una gallina che tutti i giorni gli da un uovo e lui ringrazia tutte le sere prima di andare a dormire di avere un uovo quotidiano. Un giorno si preoccupa di cosa accadrebbe se la gallina si ammalasse ed allora decide di chiedere al vicino se può farla accoppiare con il suo gallo. Il vicino acconsente e dopo l'accoppiamento Gianni rinuncia a mangiare le uova tutti i giorni lasciandone alcune alla gallina da covare. Gianni comincia a patire un po' di fame e a sentirsi debilitato ma dopo alcune settimane 5 uova si schiudono. Ne nascono 5 pulcini e Gianni può ricominciare a mangiare un uovo tutti i giorni. Deve però lavorare molto di più perché deve dare il mangime anche ai 5 pulcini. Dopo un po' di tempo 3 pulcini diventano galline e 2 pulcini diventano polli. Un pollo diventa un buon pranzetto in brodo perché 2 galli in un pollaio litigano. Alcuni anni più tardi Gianni ha una fattoria ricca e piena di animali. Lui è felice e va a trovare un parente al cimitero, entrando si ferma a guardare la tomba a sinistra dov'è riportato sulla lapide Mirco Blanchi e si chiede chi mai possa essere.
-
 
 ### Bruciare le proprie risorse
 La persona che non è cresciuta e non è all'altezza per aiutare gli altri.
@@ -96,7 +96,7 @@ una frase da acceso è: "Cosa posso fare per aiutarti? Come posso aiutarti? Cosa
 L'acceso diventa ricco in modo da poter aiutare gli altri.
   
 
-## Aula - Amministrare il denaro
+## Amministrare il denaro
 
 Ha un budget. Sa quanto spende e decide come distribuire le sue entrate nelle varie voci di budget, es: il fondo di emergenza. 
 
@@ -114,7 +114,17 @@ Fino a quando non si può dimostrare che si è capaci di gestire ciò che avete,
 
 E questa è la chiave. Quando ho iniziato il mio viaggio verso la libertà finanziaria, non avevo niente, solo i debiti, ed io pensavo che motivo c’è di imparare a gestire il denaro quando ho solo debiti? Ma devi apprendere le abitudini amministrative prima di avere un importo da gestire.  E queste semplici abitudini sono la separazione dei risparmi e degli investimenti. Mettere da parte i soldi e risolvere questo è qualcosa che deve partire in piccolo e poi crescere
 
-1. Crea una conta dei risparmi. 2. Crea un salvadanaio dove mettere le monete. 3. Crea questi 5 conti: 10% conta del divertimento; 10% risparmi a lungo termine per le spese; 10% conta per l’educazione; 50% conta per le necessità; 10% conta per le donazioni.
+1. Crea una conta dei risparmi. 
+2. Crea un salvadanaio dove mettere le monete. 
+3. Crea questi 5 conti: 10% conta del divertimento; 10% risparmi a lungo termine per le spese; 10% conta per l’educazione; 50% conta per le necessità; 10% conta per le donazioni.
+
+--
+Robert Kiosaky: Money is an idea. Is what you think of it.
+3 piggy bank
+  1. found -> non vanno mai toccati (ima de dinheiro)
+  2. investment -> vanno investiti
+  3. charity -> vanno donati
+
 
 --
 Lo spento
@@ -531,9 +541,6 @@ In altre parole trasformiamo tutti i nostri piani e sogni in mete.
 	   A questi si sommano anche i soldi mensili delle altre mete.  
 	   Questo denaro lo metto in Tesouro SELIC o in un CDB de liquidez imediata pagando o 110% do CDI.  
 
-  
-  
-**
 
 
 ---

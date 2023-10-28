@@ -298,6 +298,6 @@ We don't think we have bias, and we see it in others more than ourselves.
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Possiamo cambiare il nostro comportamento linguisticamente]]
 - 

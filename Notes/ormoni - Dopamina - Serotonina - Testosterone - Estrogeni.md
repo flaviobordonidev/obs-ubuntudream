@@ -36,6 +36,6 @@ Con la sua azione, quest'ormone tende a inibire le funzioni corporee non indispe
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - [[Il connettoma]]
 - 

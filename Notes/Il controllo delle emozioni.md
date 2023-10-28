@@ -13,5 +13,5 @@ Mia madre stava morendo. Un amico mi ha detto: "==Hai tutta la vita per dare di 
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

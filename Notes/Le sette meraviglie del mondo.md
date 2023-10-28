@@ -39,5 +39,5 @@ La stanza divenne quindi completamente silenziosa...
 
 ---
 # Vedi anche
-- [[Intelligenza Emozionale]]
+- [[Intelligenza Emotiva]]
 - 

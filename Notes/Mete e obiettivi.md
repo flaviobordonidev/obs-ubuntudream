@@ -1,10 +1,11 @@
 ---
-alias: 
+aliases:
+  - Sono responsabile delle mete ed obiettivi. È mia responsabilità.
+date - time: 2023-01-04 - 15:44
+tags:
+  - impegno-lavoro
 ---
-2023-01-04 - 09:51 - *luogo*
 zettle: # atomic moc
-ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavoro relazione-famiglia valore-denaro 
-tag: #
 
 ---
 # Mete e obiettivi
@@ -37,6 +38,42 @@ Hai forse un obiettivo, un desiderio, un sogno? Bene! Inizia così, scrivi una l
 ## WHAT IS THE GOLDEN RULE FOR GOAL SETTING?
 Though the idea of creating and hitting goals is exciting, try to focus on your ==top three== list. 
 Why? To help you cut down overwhelm and possible exhaustion. It also pays to visualize and write down your goals. [[visualizzazione]]
+
+## È nostra responsabilità raggiungere l'obiettivo
+Abbiamo un sacco di input che ci portano a dare la colpa all'esterno. Di quelli che sono i risultati che abbiamo. 
+
+Se sono bravo in qualcosa ed ottengo un risultato e raggiungo un obiettivo... allora mi celebro. Bravo io, grande, sono un figo, sono forte sono il migliore, ecc...
+
+Se qualcosa va male... e cazzo però è la sfiga, se quello non avesse fatto così, la legge, le tasse, se fosse stato messo apposto, ...
+
+Insomma tendiamo ad acquisire un modo di pensare non coerente, ma basato su quello che ci conviene "a posteriori". 
+
+Per il coaching la **responsabilità** è sempre nostra perché questo ci mette nelle condizioni di poter sempre fare qualcosa per migliorare il risultato.
+
+[A questo concetto affianco anche quello di Geronimo Theml che dice qualcosa che è il contrario di quanto appena detto ma per esprimere un concetto differente. Lui dice che se la persona fa un errore (es: cade il bicchiere d'acqua) si dice: "SONO una distratta", ossia lo mette nella sua IDENTITÁ. Se invece ottiene qualcosa si dice: "oggi ho FATTO bene", ossia lo mette nel "COMPORTAMENTO". Invece noi dobbiamo fare proprio il contrario per aumentare la nostra autostima ed il nostro modo di vedere il mondo (ESSERE --> FARE --> OTTENERE) i risultati positivi li dobbiamo DICHIARARE a livello di IDENDITÁ: "Oggi SONO stato bravo".
+Invece i risultati negativi li dobbiamo DICHIARARE a livello di COMPORTAMENTO: "Oggi ho FATTO cadere il bicchiere" (ATTENZIONE: questo non vuol dire dare la responsabilità all'esterno. La responsabilità è sempre nostra ma è a livello di comportamento e non di identità. Insomma io sono una persona ATTENTA ma oggi ho avuto una distrazione. Se lo reputo utile posso aumentare la mia ABILITÁ nel maneggiare i bicchieri magari facendo il giocoliere...)]
+
+Per allenare la **responsabilità**, ogni giorno dobbiamo chiederci:
+- Ok, di questa situazione che sto vivendo adesso, oppure relativamente all'obiettivo che voglio realizzare... che cosa dipende da me?
+- In altre parole: Che cosa controllo?
+
+"Dipende da me" significa: "Se io faccio X accade Y. Indipendentemente dalla cornice."
+
+Ad esempio: Supponiamo che il mio obiettivo sia quello di andare a correre mezzora tutti i giorni per un mese. E questo dipende interamente da me, perché se faccio X accade Y. Se tutti i giorni mi metto le scarpe e vado a correre, alla fine dei 30 giorni hai centrato il tuo obiettivo.
+
+Finito l'elenco delle cose che dipendono da me passo al secondo elenco con la domanda:
+- Che cosa posso condizionare di questa situazione, per spingerla il più possibile verso un'area di controllo ?
+- In che modo posso aumentare le mie probabilità di raggiungere un determinato obiettivo?
+
+Ad esempio cosa posso fare per aumentare le mie probabilità di stare in salute?
+La salute non è nella nostra area di controllo ma è in quella di condizionamento.
+
+Altro esempio sono i relazionamenti. Anche quelli sono nell'area di condizionamento perché dipende anche dall'altra persona.
+
+Altro esempio è l'ambito finanziario. Lo possiamo condizionare ma non controllare. Se ad esempio vendiamo un prodotto è il nostro cliente che decide se acquistarlo.
+
+C'è poi la terza area che è quella della "casualità pura" ossia quella che non puoi neanche influenzare ed è inutile sprecare tempo pensieri e risorse in questa area.
+Spesso è quella della "lamentela". Ci lamentiamo del tempo, del governo, della guerra, ....
 
 
 
