@@ -1,5 +1,6 @@
 ---
-alias: 
+aliases:
+  - Rental properties
 ---
 2023-01-23 - 17:15 - *luogo*
 zettle: # atomic moc
@@ -172,49 +173,30 @@ Affiliate Marketing. Affiliate marketing is not only an excellent source of pass
 ---
 
 1. teach online courses
-
 2. sell ebook on amazon (keenote market place)
-
 3. make youtube videos
-
 4. Become a product affiliate
-
 5. Invest for retirement (mercato delle azioni)
-
 6. website ads (google adsense)
-
 7. Create a killer apps
-
 8. sell stock photography
-
 9. Rental properties
-
 10. drop shipping (crei un prodotto o un brand ed è venduto senza che tu fai la vendita. Es. Amazon fa questo.)
-
-  
 
 I gives you 10 ways to earn passive income. I'm currently doing it in 5 of the ways, and plan to experiment with the rest over the next few years. Here they are:
 
 Teach Online Courses:
 Many of you know that I have a number of online courses that I sell on sites such as Udemy.com, Skillfeed.com, or Skillshare.com. I began in October 2012, and it has been my most successful form of earning passive income. I’ve made tens of thousands of dollars from selling courses. This money has helped pay for a car in cash, go on vacation to the Philippines, pay down student loans, buy an engagement ring, have a wedding, and lots more!
 
-  
-
 Sell eBooks on Amazon:
 I started selling two eBooks on Amazon in October, 2014. One is about Teaching Online courses, and the other is about starting a Freelance Business. Since launching, they continue to sell about 5 copies per day. Averaging an extra $100 per month is amazing!
-
-  
 
 Start a YouTube channel:
 A while back, YouTube started allowing anyone to become a partner and put ads on their videos. I know that you hate having to watch ads on YouTube, but on the other side of those ads is a creator who is trying to make a little bit of extra income through their hard work. I have two channels that bring in some extra dough each month - my Video School Online channel & my Cat Video channel. The cat channel video is making about $6 a month. It’s not a huge amount, but it does pay for a new toy or treat for our dear Zorah each month!
 Cat YouTube Channel Earnings
 
-  
-
 Become an Affiliate:
 If you have a website that contains useful information to viewers, you can put affiliate ads on the site. When someone clicks on those links and purchases something, you make a little bit of information. For example, on my resources page, I share some of my favorite resources including ThemeForest (where I purchase web themes from). I love sharing their website because I truly believe in them, and use them. It also helps the viewer out who is wanting to build their own website. And I get a few bucks when someone clicks through that link and buys something. You can become an Affiliate for most websites. Just scroll to the bottom of the website, and in the footer is usually a link for ‘affiliates’ or ‘partners.’
-
-  
 
 Investing for Retirement:
 From a young age, I have always been smart about money. I remember being a teenager and keeping money in an Etrade account and investing in General Electric. This was my first retirement account. Now, I try to put away any extra money (mostly money made passively from the above methods) into retirement accounts and other investment accounts. Now, I’m not a financial advisor, so take everything I say with a grain of salt. But I think it’s really important to start saving now (or as early as possible). If you’re not already saving, it’s too late. Why is this passive income? Investing is literally the easiest way to make passive income. On average, the markets have increased about 7% since the beginning of the stock market. So each year, you can average about 7% returns. Adjusting for inflation, this may be closer to growing your money 3-5%. So if you have $100,000 in savings, you make an extra $7,000 per year. But you don’t have to start there. Start with $100. You’ll make about $7 on an average year. And grow from there.
@@ -232,6 +214,72 @@ Crea un business con standardization+proceduraization+automatization.
 Se tu apri un business facendo quello che facevi prima ti sei creato un lavoro e non un business. Ed è un pessimo lavoro perché hai un datore di lavoro insano (tu stesso ^_^)
 
 terceirização: www.elance.com
+
+---
+# Rental property - Affittare case
+
+The job of rentals.
+Why?
+- Financial independence
+- Build wealth
+- Live off income
+How?
+- Income --> from rentals - expenses
+- Equity/price --> buy low. sell high
+
+Analizziamo le entrate (the income) di una proprietà in affitto (rental property):
+- GRM (Gross Rent Multiplier)
+- Cap rate
+- NIAF (Net Income After Financing)
+
+## GRM
+==GRM = Total Purchase Price  / Total annual rent==
+Total Purchase Price = average price on the market + the eventual repair expenses
+
+The lower GRM the better. Normalmente un buon investimento ha un GRM tra 10 e 20.
+Meno di 10 è ottimo ma fai molta attenzione ad eventuali errori o truffe perché sembra troppo bello per essere vero (it's too good to be true). 
+
+Example:
+we find a property with a market value of 144,000 $ and you figure out that you can rent it for 1,000 $/month --> 12,000 $/year
+--> GRM = 144,000 / 12,000 = 12
+
+we find another property with a market value of 300,000 $ and you figure out that you can rent it for 1,250 $/month --> 15,000 $/year
+--> GRM = 300,000 / 15,000 = 20
+
+--> the first property is better.
+
+Un modo più veloce rispetto al GRM è il "The one percent rule".
+### The one percent rule
+It's a rule of thumb or a short cut that you use in the beginning of the analysis.
+==Monthly Gross rent > 1% total purchase price==
+
+
+## Cap Rate
+Questa è un'analisi più accurata.
+
+==Cap Rate = Net Operating Income (annual) / Total Purchase Price==
+Net Operating Income = Gross Rent - Operating Expenses
+Operating Expenses are:
+- Management fees
+- Taxes
+- Insurances
+- Maintenance
+
+Net Operating Income is also called NOI.
+
+Example:
+we find a property with a market value of 100,000 $ and you figure out that you have a NOI of 10,000 $/year --> Cap Rate = 10,000 / 100,000 = 0,1 = 10%
+
+we find another property with a market value of 100,000 $ and you figure out that you have a NOI of 5,000 $/year --> Cap Rate = 5,000 / 100,000 = 0,05 = 5%
+
+Puoi comparare il Cap Rate con altri investimenti. Ad esempio i "buoni del tesoro" (Treasury Bond) che sono senza rischio ti danno circa un 3%.
+
+
+## NIAF
+The Net Income After Financing prende in considerazione anche il fatto che per comprare una proprietà spesso facciamo un mutuo (mortgage).
+
+==NIAF = NOI - Financing Cost==
+Financing Cost è il mutuo ed altre spese legate al prestito bancario.
 
 
 

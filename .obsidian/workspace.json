@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/lo scheletro attore.md",
+                "file": "Notes/Cavallo di Troia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4a07da175092272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cambiamento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scheletro",
+                "query": "livelli logici",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/lo scheletro attore.md",
+                "file": "Notes/Cambiamento.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/lo scheletro attore.md",
+                "file": "Notes/Cambiamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/lo scheletro attore.md",
+                "file": "Notes/Cambiamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/lo scheletro attore.md"
+                "file": "Notes/Cambiamento.md"
               }
             }
           }
@@ -263,42 +275,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cdaa70646910a916",
+  "active": "e4a07da175092272",
   "lastOpenFiles": [
-    "Notes/Cambio di prospettiva.md",
-    "Notes/lo scheletro attore.md",
-    "Notes/Interpretare - La sedia a rotelle mi ha liberato.md",
-    "Notes/Gestire gli Stati Emotivi.md",
-    "Notes/Disimparare.md",
-    "Notes/LordWisber - Imparare con le Storie.md",
-    "Notes/Mete e obiettivi.md",
-    "Notes/gestire il tempo.md",
+    "Notes/Cambiamento - I 4 cammini.md",
+    "Notes/Cambiamento.md",
+    "Notes/Cambiamento - Per cambiare gli altri dobbiamo cambiare noi stessi.md",
+    "Notes/Cambiamento - I 3 tipi di cambiamento.md",
+    "Attachments/Pasted image 20231116222631.png",
+    "Notes/Cambiamento - in piccoli passi tutti i giorni.md",
+    "Attachments/Pasted image 20231116220247.png",
+    "Attachments/Pasted image 20231116220226.png",
+    "Notes/Cambiamento - Cambiare il modo in cui ti vedi.md",
+    "Notes/Cambiamento - Dire Basta.md",
+    "Notes/Cambiamento - DASISTEMARE.md",
+    "Notes/Cambiamento - è di nostra responsabilità.md",
+    "Notes/Cambiamento - può essere immediato.md",
+    "Notes/Cambiamento - Stare fermo è un errore.md",
+    "Attachments/Pasted image 20231116181624.png",
+    "Attachments/Pasted image 20231116181559.png",
+    "Notes/preoccupazione - Svuotiamo la mente.md",
+    "Notes/preoccupazione.md",
+    "Notes/Respirare e Meditare.md",
+    "Notes/preoccupazione - Come smettere.md",
+    "Notes/preoccupazione - Tieni un diario.md",
+    "Notes/preoccupazione - Dagli un appuntamento.md",
+    "Notes/preoccupazione - Rifugiatevi nel monastero.md",
+    "Notes/Preoccupazione - Appenderle all'albero fuori casa.md",
+    "Notes/Preoccupazione - Gestire situazione di crisi.md",
+    "Notes/AI - Artificial Intelligence.md",
+    "Notes/Produttività 1 - Occuparsi non è Produrre.md",
+    "Notes/accumula solo conoscenza senza usarla.md",
+    "Notes/Scegliere.md",
+    "Notes/Preparazione - Affila la tua lama.md",
+    "Notes/Scegliere - Crea una bella storia e agisci per realizzarla.md",
+    "Attachments/Screenshot 2023-11-12 at 00.05.41.png",
     "Attachments/Pasted image 20231022141405.png",
     "Attachments/Pasted image 20231022141239.png",
-    "Notes/Critico interno.md",
-    "Notes/convinzioni limitanti.md",
-    "Notes/Elefante spaghetto sgabello.md",
-    "Notes/visualizzazione.md",
-    "Notes/Capitolo Potenziare - Probabilità.md",
-    "Notes/Softball.md",
-    "Notes/Il connettoma.md",
-    "Notes/Intelligenza Emotiva.md",
-    "Notes/strategia - storie - stati emotivi.md",
-    "Notes/L'utilità evolutiva dell'emozione.md",
-    "Notes/gestire i soldi - ruota dell'abbondanza.md",
-    "Notes/Ogni soldo come un seme.md",
-    "Notes/Gestire i soldi.md",
-    "Notes/dare a chi ha e togliere a chi non ha.md",
-    "Notes/Ciclo della ricchezza.md",
-    "Notes/La sindrome del nemico.md",
-    "Notes/Il povero si accontenta di poco.md",
-    "Notes/Giustificare la paura.md",
     "Attachments/Brain rettile - coccodrillo.png",
     "Attachments/Brain limbico - rinoceronte.png",
-    "Attachments/Brain neocortex - gatto.png",
-    "Attachments/Brain-reptilian-limbic-neocortex.png",
-    "Attachments/50 Bias Cognitivi.jpg",
-    "Attachments/Metodo Cornell potenziato - Sitema ADC.png",
     "Canvas Test.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

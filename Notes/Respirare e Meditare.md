@@ -10,135 +10,125 @@ tag: #
 # Respirare
 Fai 10 respiri profondi al giorno e ti sentirai migliore. anche la postura eretta aiuta a fare respiri profondi.
 
+---
+## Respirazione
+Noi respiriamo in maniera automatica. Non dobbiamo attivamente pensare di respirare. Ma è importante almeno una volta al giorno, spostare la nostra attenzione su “come” stiamo respirando, perché spesso, senza rendercene conto, facciamo dei respiri corti o restiamo in apnea...
+Esercizio
+- Sto prestando attenzione alla mia respirazione? 
+- Faccio tre minuti di respiro profondo tutti i giorni?
 
+--
+mettere cerotto sulla bocca quando si va a dormire.
+Questo ti forza a respirare con il naso ed è benefico.
+
+--
+Espirare il doppio dell’inspirazione mette in uno stato di tranquillità (rallenta)
+Inspirare il doppio dell’espirazione mette in uno stato di freneticità (accellera)
+Espirare lo stesso tempo dell’espirazione mette in uno stato di equilibrio
+
+## Respirazione Quadrata
+Per Calmati!
+Hai mai sentito parlare di Respirazione quadrata?
+Se stai cercando di ridurre lo stress e/o di calmarti, questa è la tecnica. 
+Prende il nome da un quadrato perché ha 4 componenti
+1. Inspira per quattro secondi.
+2. Trattieni il respiro per quattro secondi.
+3. Espira per quattro secondi.
+4. Tieni i polmoni vuoti per quattro secondi.
+Quando lo fai ti calmi automaticamente.
+
+Più lo fai, più il tuo corpo riconoscerà che stai cercando di farlo. Ci vorrà sempre meno tempo per calmarsi.
+
+Per energizarci!
+Al contrario, a volte vuoi o hai bisogno di fare di tutto!
+C'è una variazione della tecnica della Respirazione Quadrata che funziona in questo modo.
+1. Riempi i polmoni eseguendo 4 inalazioni rapide intermittenti di aria.
+2. Dì il tuo ritornello ad alta voce, il mio è "IO - FACCIO - DI - PIÙ".
+3. Svuota i polmoni eseguendo 4 rapide esalazioni intermittenti di aria.
+4. Dì il tuo pezzo ad alta voce, il mio è "PERCHé - SONO - DI -  PIÙ".
+
+Anthony Robbins mentre fai le inspirazioni e le espirazioni intermittenti consiglia questi due ritornelli:
+- I - love - my - life
+- I - love - my - wife
+
+Fallo per 10 minuti. Lascia che l'adrenalina scorra nelle tue vene e senti l'euforia depositarsi nel tuo corpo. Senti le tue emozioni cambiare.
+Adoro farlo in macchina in autostrada MA stai molto attento, questa tecnica ti fa girare la testa e ti rende euforico.
+
+Un’altro modo di Canalizzare energia attraverso la respirazione è di Fermarsi respirare profondamente e trovare una frase che ci motiva:
+- "Se fosse facile lo farebbero tutti". 
+
+Un modo invece di Canalizzare la rabbia attraverso la respirazione è Immagina la rabbia come del fumo rosso e buttalo fuori con la respirazione.
+
+---
 ## Meditazione
 Della meditazione si parla sempre di più, anche in occidente perché c'è sempre di più nelle persone l'esigenza di crearsi degli spazi per sé. Di isolarsi dal caos e dalla confusione in cui siamo immersi nella maggior parte del tempo della nostra vita sta lentamente crescendo e si sta veramente diffondendo anche in maniera molto rapida attraverso le differenti fasce d'età e categorie sociali.
-
 [Sempre più persone sono interessate a migliorare la loro salute emotiva tramite la meditazione]
 
 è una cosa questa molto bella e che ha moltissime conferme scientifiche.
-
 Sulle tecniche di rilassamento sono stati fatti molti studi ed oggi si sà che indubbiamente porta a dei benefici sia a livello psichico che a livello fisico.
-
-  
-
 [Sempre più studi scientifici confermano i benefici della meditazione e delle tecniche di rilassamento]
 
-  
-
 Molte persone ci si avvicinano ma incontrano una sorta di resistenza che gli impedisce di fare quell'ultimo passo che serve ad entrare in questa nuova dimensione e scoprirla un passo dopo l'altro.
-
-  
-
 [Posso fare un altro piccolo passo]
 
-  
-
-Errore Num1 Non avere abbastanza pazienza
-
+### Errore Num1 Non avere abbastanza pazienza
 Uno crede che la pratica della meditazione possa essere comparata all'assunzione di un farmaco che assumi senza sforzo e che in genere ti da un risultato.
 
 Quindi affrontare in modo impaziente qualcosa che ha tra i suoi pilastri la pazienza è una contraddizione in termini. Quindi concediti del tempo per te senza aspettarti risultati immediati. La mancanza di pazienza specialmente nel mondo occidentale è associata al fatto che non stai ottenendo qualcosa, senti che non hai il pieno controllo, ... ecco è così che funziona. Quindi "mettitela via". Abbi pazienza e rispetta che la pratica è fatta così. 
 
-  
-
-Errore Num2 Aspettarsi risultati razionalmente spiegabili
-
+### Errore Num2 Aspettarsi risultati razionalmente spiegabili
 Aspettarsi che succeda qualcosa quando la base della meditazione è proprio quello di non aspettarsi nulla. Perché l'aspettarsi qualcosa è analizzato dal neocortex invece la meditazione ci aiuta nel libico, nell'incosciente ed il beneficio è a lungo termine.
 
 è come andare a correre ed aspettarsi dopo una settimana dei miglioramenti fisici. Le meditazione come andare a correre o in palestra non ti porta direttamente un dolore muscolare (a volte anche quello ^_^) e non ti fa sudare ma ti stimola quella sensazione di noia quella sensazione di "ma chi me lo fa fare". Questa è la risposta che ti da lo stress moderno. Così come i muscoli sedentari fanno male dopo i primi esercizi, così il nostro cervello stressato si sente male e ci spinge a non continuare con la meditazione.
-
-  
 
 Per la prima volta nella tua vita ti stai avvicinando ad un qualcosa che è privo di una aspettativa concreta, tangibile e toccabile. In una società che è totalmente orientata al risultato, al cosa ottengo, cosa ci guadagno, cosa percepisco, cosa sento...
 
 Qui stiamo entrando in un altra dimensione e non aspettarti che accada qualcosa. Dai il benvenuto al fatto che non deve accadere nulla, e che questa è un'occasione unica nella tua vita di creare uno spazio che è indipendente dai risultati, dagli avvenimenti, da ciò che accadrà. 
 
-  
-
-Errore Num3 Esercitare pressione e far diventare la meditazione l'ennesimo dovere
-
+### Errore Num3 Esercitare pressione e far diventare la meditazione l'ennesimo dovere
 La meditazione è basata sul lasciarsi andare, sul lasciarsi trasportare. La meditazione può accadere ma non "deve" accadere. La meditazione non deve diventare un ulteriore dovere per te. Deve diventare la tua oasi, il tuo spazio. Dove ti metti lì e non ti aspetti nulla, tranne il riscoprire qualcosa che ci siamo realmente dimenticati che è il rapporto con noi stessi. Punto e basta. Nell'immobilità, nel silenzio, il rapporto con noi stessi.
 
-  
-
-Errore Num4 Giudicare intellettualmente quello che sta accadendo
-
+### Errore Num4 Giudicare intellettualmente quello che sta accadendo
 Se cerchiamo di giudicare quello che accade invece di provare semplicemente ad accettare che non c'è nulla da giudicare sul piano dell'intelletto. Se una delle prime cose che ti viene da dire: "Bha, ho perso un quartodora", non ci sarà mai una possibilità che questa pratica ti ripaghi veramente sul piano emotivo. perché stai giudicando con i criteri tipici del giudizio intelletuale. (il corso in inglese invece dice che dobbiamo accettare che noi critichiamo sempre tutto e di non lasciarsi affettare sul piano emotivo.)
 
 Ritorniamo a quanto detto prima che uno si aspetta che accada qualcosa in quel quarto d'ora, alla fine sente che non è accaduto niente e decide che ha perso un quarto d'ora e che quindi meditare è una perdita di tempo.
 
 Quello che è successo internamente non riesci a giudicarlo con l'intelletto, quindi salta il giudizio e mettilo da parte.
 
-  
-
-Errore Num5 confondere gli effetti psicofisici con gli aspetti religiosi.
-
+### Errore Num5 confondere gli effetti psicofisici con gli aspetti religiosi.
 Pensare che per meditare devi essere buddista. Non c'entra niente.
-
 La meditazione è una pratica per ridurre lo stress, è una pratica per arrivare ad una gestione migliore dell'interazione tra mente e corpo, è una pratica per ottimizzare le tue capacità a 360° e per vivere meglio.
 
-  
-  
-  
-  
 
 ### MEDITAZIONE
 
-  
-
 ### Anapanasati Appunti
-
 The term “ânàpànasati” does not mean, as is generally interpreted, mindfulness established on in and out breathing. 
 
 Actually it means mindfulness established on an object all the time with each in and out breath: Initially one establishes mindfulness on the breathing itself, then on different kinds of feeling, different states of mind, then the characteristic of impermanence...  (che è l’illuminazione del Buddha, ossia del tutto cambia.)
 
-  
-
 Fase 1
-
 -   Inspira 1..8
-    
 -   Stop 1..2
-    
 -   Espira 1..8
-    
-
-  
 
 Fase2
-
 -   Inspira, Stop, Espira (senza contare mentalmente)
-    
 
----
-**  
 
 ### Meditare per acquisire chiarezza
-
-  
-
 Il “nuovo” metodo di meditazione  
 Più che non pensare a niente (che è impossibile per definizione visto che non possiamo spegnere il cervello) lo scopo dell’esercizio è concentrarsi su qualcosa e tornare a quella cosa quando la mente comincia a divagare.
 
-  
-
 Esempi di cervello che divaga:
-
 Dopo pochi secondi di meditazione sentirai la tua voce interna cercando di convincerti che: "questa merda non funziona", "questo è noioso e io sembro stupido", "l'idea era stupida in primo luogo", "Meglio che vada e ... "," Penso di aver bisogno di ... "," Oh, aspetta ... ", etc etc etc etc
-
-  
 
 Esempi classici di meditazione sono l’aria che entra ed esce dalle narici o il petto che si espande e si contrae (in una scuola di bambini problematici li facevano sdraiare con un animaletto sullo stomaco e loro osservavano che saliva e scendeva con la respirazione (univano anche la pet-terapia))
 
--   Mettiamo un timer a 5min (a livello avanzato arrivano a 45-60min)
-    
+-   Mettiamo un timer a 5min (a livello avanzato arrivano a 45-60min)    
 -   Mettiamoci seduti in modo confortevole
-    
 -   Respiriamo con il naso concentrandoci su l’aria fresca che entra nelle narici quando inspiriamo e l’aria calda che esce dalle narici quando espiriamo.
-    
 -   Puoi lasciare gli occhi aperti 
-    
 -   E’ normale che dopo qualche tempo (anche dopo pochi secondi) il nostro cervello inizi a divagare. Lo scopo dell’esercizio è riconoscere che stiamo divagando e tornare a concentrarci sull’aria fresca che entra nelle narici e l’aria calda che esce dalle narici.  
     Non appena ci accorgiamo di divagare con  gentilezza verso noi stessi torniamo a concentrarci sulla respirazione.  
       
@@ -146,22 +136,14 @@ Esempi classici di meditazione sono l’aria che entra ed esce dalle narici o il
     Quindi non sentiamoci demotivati se ci accorgiamo di divagare, è semplicemente il momento in cui scendiamo con il peso per poi fare il prossimo sollevamento. Anzi, più volte ci vediamo divagare più sollevamenti facciamo e quindi più forte diventa il nostro muscolo della concentrazione.  
     Questo non vuol dire divagare coscientemente (farlo apposta), sarebbe barare e diminuirebbe la nostra concentrazione invece di aumentarla.  
       
-    
 -   Non appena torniamo a concentrarci sulla respirazione ci diamoci una “pacca mentale, sulla spalla”, ossia festeggiamo per un istante il fatto di essere tornati alla concentrazione. Complimenti! Yes! Evvai! Bravo! Congratulazioni!  
-      
-    
 
 Questi 5 minuti vanno fatti tutti i giorni. Fa parte dell’allenamento avere la consistenza di trovare 5 minuti tutti i giorni per concentrarsi sulla respirazione. 
 
 Può essere fatto anche aspettando in coda al supermercato, o dal dottore, o davanti la tv accesa mentre passa un programma che non ti interessa. Ovvio che i migliori 5 minuti sono in un ambiente tranquillo fissando una parete vuota, oppure la fiamma di una candela.
 
-  
-
 ### Cercare il vuoto (meditare)
-
 Il vuoto non è fatto di pensieri, ma di puro sguardo. La natura offre mille possibilità in tal senso: lasciati affascinare dall'acqua che scorre e immagina di scorrere con lei, oppure guarda con attenzione, se capita, una farfalla che si libera dal bozzolo o le bollicine di gas che si formano quando l’acqua sta per bollire…, dedica qualche minuto a una nuvola o alla velocità con cui la luna trascorre nel cielo... il vuoto è come una medicina, fa riposare la mente, dona calma e fa stare bene… 
-
-  
 
 Meditare è visto come un modo per “svuotare” la mente come la parabola del maestro zen che versa il té in una tazza già piena. Altro modo per “svuotare” la mente è mettersi con la predisposizione dello studente che vuole imparare e non di quello che già sa tutto.
 [[svuotare la mente]]

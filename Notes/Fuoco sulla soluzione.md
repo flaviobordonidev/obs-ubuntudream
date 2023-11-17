@@ -1,5 +1,8 @@
 ---
-alias: concentrato sulla soluzione
+aliases:
+  - concentrato sulla soluzione
+tags:
+  - concentrazione
 ---
 2023-02-22 - 11:13 - *Roma*
 zettle: # atomic moc
@@ -48,9 +51,25 @@ Tu come reagisci ai Problemi? A quale gruppo appartieni?
 
 Reagiamo ATTIVAMENTE al Problema, considerandolo non una punizione divina, ma come un' opportunità di Crescita. I Problemi sono semplicemente dei campanelli d'allarme, la Vita ci sta suggerendo che dobbiamo "lavorare su noi stessi".
 
+---
+Concentrato sulla soluzione
+Il 5% della popolazione:
+- Porta sempre una soluzione
+- Ha sempre un piano
+- Io lo faccio
+- Una soluzione per ogni problema
+- Difficile ma realizzabile
+
+Il 95% della popolazione:
+- Pone sempre un problema
+- Ha sempre una scusa
+- Non è il mio lavoro
+- Un problema per ogni soluzione
+- Realizzabile ma troppo difficile
+
 
 
 ---
 # Vedi anche
-- 
+- [[Come allenare la concentrazione]]
 - 

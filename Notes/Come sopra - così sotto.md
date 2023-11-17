@@ -23,5 +23,5 @@ Metti in ordine il tuo ambiente esterno e anche il tuo mondo interiore sarà ord
 ---
 # Vedi anche
 - [[Il paradiso e l’inferno sono dentro di te]]
-- [[ambiente - piramide dei 7 livelli logici]]
+- [[piramide dei 7 livelli logici - ambiente]]
 - 

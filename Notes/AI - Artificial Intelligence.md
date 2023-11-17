@@ -38,7 +38,13 @@ You can use the Bard-API package to interact with me in a variety of ways. You c
 
 I hope this helps!
 
-
+# Perplexity Labs
+[https://labs.perplexity.ai/]
+This tool allows you to use multiple LLMs directly in your browser.
+(Like ChatGPT but without an account).
+Go to labs.perplexity.ai and select an AI model.
+PPLX-7B and PPLX-70B models perform well and don’t impose moral judgment or limitations.
+You can also use mistral-7b which is another popular open-source model.
 
 ---
 # Vedi anche

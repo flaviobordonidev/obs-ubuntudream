@@ -1,5 +1,6 @@
 ---
-alias: 
+aliases: 
+publishing_date: 2023-11-13 - 11:01
 ---
 2023-01-03 - 18:17 - *luogo*
 zettle: # letteraria transitoria permanente
@@ -37,3 +38,10 @@ O sei un fumatore o un non fumatore. Se sei un non fumatore, non ti preoccupi di
 
 -
 Antica saggezza: come un uomo pensa, così è.
+
+
+
+---
+# Vedi anche
+- [[Piramide dei 7 livelli logici]]
+- 

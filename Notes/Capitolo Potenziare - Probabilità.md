@@ -55,5 +55,5 @@ Queste domande ti permettono di indirizzare il tuo percorso nella giusta direzio
 
 ---
 # Vedi anche
-- 
+- [[aumentare le probabilità con la preparazione]]
 - 
