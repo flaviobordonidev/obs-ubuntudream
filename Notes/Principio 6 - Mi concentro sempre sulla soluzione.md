@@ -9,7 +9,10 @@ tag: #
 
 ---
 # Principio 6 - Mi concentro sempre sulla soluzione
-Mi concentro sempre sulla soluzione → Mi alleno nel piccolo per essere pronto nel grande
+
+Fuoco sulla soluzione. --> Sono concentrato sulla soluzione.
+==Mi concentro sempre sulla soluzione → Mi alleno nel piccolo per essere pronto nel grande==
+
 ==Eccellenza = prepararsi ed evolvere costantemente.==
 (Eccellenza vuol dire anche "fare con il cuore")
 

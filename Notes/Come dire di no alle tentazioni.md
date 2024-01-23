@@ -1,5 +1,6 @@
 ---
-alias: 
+aliases:
+  - Dire di No più spesso che di Sì
 ---
 2023-01-24 - 23:35 - *luogo*
 zettle: # atomic moc
@@ -64,6 +65,51 @@ Vediamo altri esempi di “cambio di mentalità”:
       
     
 -   L’altro esempio è di Daniel Arieli che si doveva fare un trattamento medico che prevedeva due iniezioni al giorno tipo l’insulina. Lui è uno dei pochi che è riuscito ad essere costante. Lui riesce ad essere disciplinato associando piacere a quello che normalmente è un momento di dolore (il farsi l’iniezione). Per farlo si preparava due o tre film preferiti ed un sacchetto di pop-corn e nel momento di farsi l’iniezione preparava la siringa e sceglieva il film da vedere. Faceva partire il film e nella musica iniziale che gli dava un brivido di piacere si faceva l’iniezione, poggiava la siringa sul tavolinetto e prendeva il sacchetto di pop-corn per festeggiare ed assistere il suo film preferito. Questo rituale gli ha permesso di essere molto costante nel trattamento e di avere ottimi risultati nella guarigione. La stessa dottoressa era meravigliata e gli diceva che moltissimi pazienti non erano così costanti al punto che stavano valutando di farla fare solo in ospedale così avevano il controllo dell’infermiera.
+
+---
+## Dire No più spesso di Sì
+La maggior parte dei CEO ti dirà che dire "no" è una delle più importanti tecniche di gestione del tempo. Dire "sì" spesso può essere controproducente, soprattutto quando si accetta di fare cose che non contribuiscono al proprio lavoro e ai propri obiettivi. Il tuo tempo è una risorsa limitata e non puoi permettere alle persone di impostare la tua agenda nella vita.
+Concentrati a fare un lavoro di grande qualità piuttosto che correre tutto. La qualità vince sulla quantità ogni singolo giorno.
+
+Warren Buffett lo diceva meglio: "La differenza tra persone di successo e persone di grande successo è che le persone di grande successo dicono di no a quasi tutto".
+
+Ma come fai a sapere a quali cose dovresti dire di no? Cosa succede se stai passando un'opportunità che ti cambia la vita? Fortunatamente, Buffet ha sviluppato una regola in due passaggi per aiutarti a stabilire i limiti e migliorare nel prendere le decisioni:
+- Inizia scrivendo i tuoi primi venticinque obiettivi di carriera. Una volta che hai finito, cerchi i cinque più importanti per te
+- Il secondo passo è eliminare completamente gli altri venti obiettivi. Cancellali con un tratto di penna
+
+Dì "no" di default a tutto ciò che non contribuisce ai tuoi 5 migliori obiettivi di carriera.
+Qualsiasi cosa diversa dai cinque obiettivi che hai cerchiato nel primo passaggio sono le distrazioni che ostacolano il raggiungimento di ciò che apprezzi veramente nella vita. Come tale, inizia a dire no a tutto ciò che non contribuisce ai tuoi "veri obiettivi".
+
+--
+Devi dire di no a un numero enorme di potenziali opportunità, in modo da poter concentrare i tuoi sforzi sulle "poche aree vitali" in cui potresti migliorare più velocemente. Questo è difficile, perché il nostro istinto è di evitare di chiudere la porta a qualsiasi possibilità.
+
+Prendi un'azione immediata, intelligente, massiccia: 
+- Per immediata, intendo ora. 
+- Per intelligente, voglio dire che dovresti farti tre domande ogni settimana:
+	- Cosa sta funzionando? (Fallo di più.)
+	- Cosa non funziona? (Cambia o smetti di farlo.)
+	- Qual'è il prossimo? (Pianifica la prossima settimana.)
+- Per massiccia, voglio dire che ci devi passare almeno 40 ore a settimana. 
+
+Non conosco alcun predittore più preciso del successo nella vita, rispetto all'abitudine di una persona di agire rapidamente su nuove idee, analizzando e migliorando quelle azioni, e continuando ad andare avanti fino a raggiungere il loro obiettivo.
+
+3) Lascia la tua zona di comfort:
+Tutta la crescita arriva dopo che fai cose nuove e scomode. Pensa a un bambino che impara a camminare o una farfalla che lascia la sua crisalide.
+
+Quante azioni scomode sei disposto a prendere ogni giorno nella tua ricerca di lavoro? Quel numero prevarrà in gran parte su quanto velocemente trovi lavoro.
+
+Esempio: ho incontrato centinaia di persone in cerca di lavoro che lottano da mesi per essere assunti perché fanno solo ciò che è comodo. Di solito questo comporta la navigazione di siti Web di lavoro e mandare e-mail nell'etere. Di conseguenza, le loro carriere sono letteralmente in uno stato di sviluppo arrestato.
+
+Invece, dovresti provare sentimenti di disagio nella tua ricerca di lavoro, come chiamare un amico di un amico per organizzare un colloquio informativo o partecipare a una riunione della camera di commercio (attending a chamber of commerce meeting) per trovare le principali attività commerciali locali e incontrare persone che possono assumerti.
+
+È probabile che, se una nuova azione ti mette a disagio, sarà lo stesso per altri cercatori di lavoro. Probabilmente torneranno alle loro vecchie e inefficaci abitudini. Ma se fai ciò che ti mette a disagio, non puoi fare a meno di crescere, imparare e migliorare.
+Tutto ciò ti avvicina al tuo prossimo lavoro.
+
+Dicono "No" più di quanto dicono "Sì"
+Le persone di alta performance e gli individui di successo apprezzano il loro tempo e dicono "no" a quasi tutto in modo che possano dire "Sì" alle cose più importanti.
+Se vuoi unirti ai ranghi dell'1%, devi impegnarti a dire "no" più spesso.
+Dì no a TUTTO ciò che non è direttamente correlato con la tua missione o che non ti piace.
+Certo, dovresti probabilmente aiutare tua nonna a trasferirsi in città, ma non hai l'obbligo di andare costantemente agli "obblighi" sociali.
 
 
 

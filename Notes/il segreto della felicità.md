@@ -76,8 +76,27 @@ Vivere a pieno la vita vuol dire:
 - avere l'atteggiamento di farci piacere quello che abbiamo. ("Cosa c'è di buono qui? Che cosa posso apprendere da questo?").
   L'atteggiamento è anche in quello che diciamo. Se ci lamentiamo tendiamo ad andare verso il negativo. Se invece ci mettiamo in una postura/attitudine/atteggiamento di crescita allora andremo verso il positivo. Cerchiamo sempre in quello che accade la Lezione che possiamo trarne. Associare la parola problema alla parola "sfida". 
 
+## Ti sei mai chiesto dove nasca l'infelicità?
 
+A mio avviso, la maggior parte delle volte è figlia di un conflitto che si trova dentro di noi.
 
+**L'infelicità è il prezzo da pagare quando non si è contenti di se stessi**
+
+Quando non siamo contenti di noi stessi, infatti, essere felici è un'impresa ai limiti dell'impossibile.
+
+Puoi essere circondato di persone che ti vogliono bene, puoi avere un lavoro prestigioso, puoi essere in piena salute fisica e avere un corpo scolpito : servirà a ben poco.
+
+Giuda ha tradito per 30 monete d'argento.
+Dopo il tradimento si è ritrovato tra le mani un'enorme fortuna.
+Eppure, era infelice.
+
+Non era infelice perché aveva guadagnato più soldi, ma per se stesso.
+
+Le persone non sono infelici per mancanza di beni materiali, ma per il conflitto che vivono con loro stesse.
+
+==Non è quanto possiedi o raggiungi esternamente, ma come vivi internamente.==
+
+Se non stai facendo un lavoro efficace su te stesso per trovare armonia interiore e creare coerenza tra le tue azioni e i tuoi valori più profondi, nessun bene materiale potrà salvarti.
 
 
 

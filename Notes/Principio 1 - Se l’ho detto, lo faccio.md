@@ -10,8 +10,16 @@ tag: #
 ---
 # Principio 1 - Se l’ho detto, lo faccio
 
-Se l’ho detto, lo faccio → Sono “impeccabile” con la mia parola
+==Se l’ho detto, lo faccio → Sono “impeccabile” con la mia parola==
 (Se falou, faca → Seja impecável com sua palavra)
+
+
+[È uno dei principi delle 4 leggi della filosofia Tolteca che possiamo approfondire nel libro.
+- ==Sono impeccabile con la mia parola==
+- Non la prendo sul personale
+- Non precipito alle conclusioni
+- Do sempre il meglio di me]
+
 
 
 Esercizio per rinforzare il principio del “Se lo hai detto, fallo”:
@@ -27,7 +35,7 @@ Questo esercizio che sembra banale, in realtà allena il limbico e rinforza la f
 Un esercizio simile è il conto alla rovescia 5,4,3,2,1... quello che sento non è paura ma è eccitazione.
 
 ---
-Se fai qualcosa di difficile/di impegnativo (es: studiare, programmare, lavorare,...) quando termini ti senti bene! Senti soddisfazione.
+Se fai qualcosa di difficile/di impegnativo (es: studiare, programmare, lavorare,...) ==quando termini ti senti bene!== Senti soddisfazione.
 Anche se farlo costa fatica quando finisci sei contento di averlo fatto.
 
 Se invece ti trastulli per ore con i video-games alla fine la sensazione che ti resta è di “vuoto”, di insoddisfazione, di …mi manca qualcosa.
@@ -48,6 +56,12 @@ Questo principio è molto difficile da seguire perché per fare quello che dicia
 
 Seguire questo principio significa essere in grado di SAPERE DIRE DI NO!
 (è molto più facile dire di sì e poi rimandare…)
+
+---
+## Saper dire di NO
+
+Per seguire questo principio dobbiamo essere in grado di **saper dire di NO**.
+(È molto più facile dire di sì e poi non farlo e trovare delle scuse.)
 
 
 

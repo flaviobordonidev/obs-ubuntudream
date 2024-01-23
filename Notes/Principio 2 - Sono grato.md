@@ -10,7 +10,7 @@ tag: #
 ---
 # Principio-2 Sono grato
 
-Sono grato! → Chi è grato è felice e chi è felice ha successo
+==Sono grato! → Chi è grato è felice e chi è felice ha successo==
 (Seja Grato! → quem è grato è feliz e quem è feliz tem sucesso)
 
 Gratitudine → Felicità → Successo

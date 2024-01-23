@@ -79,6 +79,22 @@ Por que essa pessoa te irrita?
 Escreva 3 atitudes / características
 
 
+## Tu sei abbastanza
+
+- Tu sei abbastanza --> Liberare
+- L'importanza dell'identità --> identità
+- Le storie insegnano --> la tua arma segreta
+-  Costruire fiducia
+- Gestire conversazioni difficili
+
+Trust:
+-> Consistency
+-> reliability
+-> credibility
+-> experteese
+	(you trust them because every time you have an interaction with them they deliver)
+
+
 
 ---
 # Vedi anche

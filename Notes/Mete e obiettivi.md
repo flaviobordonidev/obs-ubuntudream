@@ -34,10 +34,11 @@ La domanda sul perché, ti fa capire quanto, già oggi, sia forte la tua motivaz
 Hai forse un obiettivo, un desiderio, un sogno? Bene! Inizia così, scrivi una lista con tutto quello che hai a disposizione e con cui puoi contribuire attivamente. “Capacità, ambiente, sapere, caratteristiche, denaro, partner, persone, libri, corsi di aggiornamento, training, istituzioni, ecc.”. Poi disegna una ruota con al centro un grosso mozzo. Dentro al mozzo scrivi la tua meta. I raggi sono tutte le cose che abbiamo elencato prima, capacità, ambiente… ecc., dipingi i raggi in maniera sfacciata e sgargiante. La forma migliore è quella varia e dai colori molto forti. Poi incolla la ruota su un pezzo di cartone, ritagliala e al centro fissala con un punto metallico. Appendila in un posto qualunque ed osserva attentamente la tua ruota colorata, lasciati trasportare da lei nel meraviglioso mondo dei tuoi desideri. Mentre fai questo, ascolta la tua musica preferita o canta la tua canzone preferita. Grazie al tuo programmatore di mete, questo meraviglioso mondo dei desideri verrà assorbito ancora più profondamente nel tuo subconscio.
 
 
+## QUAL È LA REGOLA D'ORO PER LA DEFINIZIONE DEGLI OBIETTIVI?
+Anche se l'idea di creare e raggiungere obiettivi è entusiasmante, prova a concentrarti sulla tua lista ==dei primi tre==.
+Perché? 
+Per aiutarti a ridurre il senso di sopraffazione (overwhelm) e il possibile esaurimento. Vale anche la pena visualizzare e annotare i tuoi obiettivi. [[visualizzazione]]
 
-## WHAT IS THE GOLDEN RULE FOR GOAL SETTING?
-Though the idea of creating and hitting goals is exciting, try to focus on your ==top three== list. 
-Why? To help you cut down overwhelm and possible exhaustion. It also pays to visualize and write down your goals. [[visualizzazione]]
 
 ## È nostra responsabilità raggiungere l'obiettivo
 Abbiamo un sacco di input che ci portano a dare la colpa all'esterno. Di quelli che sono i risultati che abbiamo. 
@@ -74,6 +75,44 @@ Altro esempio è l'ambito finanziario. Lo possiamo condizionare ma non controlla
 
 C'è poi la terza area che è quella della "casualità pura" ossia quella che non puoi neanche influenzare ed è inutile sprecare tempo pensieri e risorse in questa area.
 Spesso è quella della "lamentela". Ci lamentiamo del tempo, del governo, della guerra, ....
+
+
+## Set you compelling future (goals)
+
+### Sequence of questions for foundations
+
+1. Guardiamo 12 mesi indietro e vediamo cosa abbiamo sbagliato. Cosa non ha funzionato. Cosa è stato disappointing. Cosa abbiamo provato ed è fallito. Cosa rimpiangiamo. Cosa abbiamo procrastinato. Cosa non abbiamo neanche iniziato. Cosa non abbiamo finito.
+  Cosa stiamo evitando. Cosa rimandiamo a "domani". Cosa non stai pianificando, mettendo sul calendario (scheduling). 
+2. Guardiamo 12 mesi indietro e vediamo cosa è andato bene. Cosa ha funzionato. Cosa è stato proud of ourselves. Cosa abbiamo provato e siamo riusciti. ...
+Immaginiamo di mettere tutte queste cose su una casa che inizia a prendere fuoco e noi abbiamo una piccola valigia e dobbiamo prendere le poche che entrano per portarle con noi. Quale prendiamo?
+3. What stories or thoughts hold you back in 2023.
+   (Immaginati di andare in paradiso e Dio ti fa vedere il film di te stesso che è coraggioso, sbaglia e riprova e va avanti ed ha successo. E Dio ti dice quello sei tu senza le "storie che ti racconti".)
+4. Dai un feel da 1 a 10 di quanto ti ha fatto male.
+5. Creati una nuova "storia da raccontarti".
+   È tutto nell'interpretazione. Nella prospettiva. 
+   Esempi:
+   - Non potrò mai avere successo perché ho dislessia --> Perché ho dislessia avrò un vantaggio enorme rispetto a tutti gli altri.
+   - Sono troppo vecchio per iniziare --> Questi ragazzi giovani potranno sapere la tecnologia ma la mia saggezza li sbaraglierà ogni volta.
+   - Siccome le persone nella mia vita mi dicono che non funzionerà mai, non c'è possibilità di riuscita. --> Siccome le persone nella mia vita mi dicono che non funzionerà, questo è il carburante che mi spingerà a fare sempre di più e garantirà il mio successo.
+   - La pressione mi frena --> I trive under pressure
+   - I problemi sono troppo grandi --> Dammi problemi ancora più grandi
+   - L'economia è troppo rischiosa --> I dominate in winter times
+   - Quando gli altri stanno aspettando --> Io sto creando.
+   - Because they don't believe in me, I believe in me more.
+
+
+### Sequence of questions for setting goals
+
+- Dove sei adesso?
+- Dove vuoi andare adesso?
+  Avere almeno un utente pagante su ubuntudream
+- Fai finta che sei 12 mesi avanti e tutto è andato alla grande. Per far si che tutto sia andato alla grande facciamo una retrospettiva e vediamo quali sono state le milestones che ci hanno portato al successo.
+- Attacca un'emozione al tuo obiettivo.
+  Spostiamola dalla mente al cuore.
+  -> Diciamoci i 7 livelli di "perché questo è importante?"
+- E per ultimo chiudi il "gap tra dove sei e dove vuoi arrivare". Hai 12 mesi per farlo.
+  Concentrati sul processo. Sul cammino per andare da A a B.
+  --> to gain skills, to gain capabilities, to gain abilità, to gain accountability, ..
 
 
 

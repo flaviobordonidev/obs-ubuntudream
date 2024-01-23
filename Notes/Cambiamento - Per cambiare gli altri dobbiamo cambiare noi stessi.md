@@ -96,7 +96,37 @@ Se riesci a capire cosa risuona in te, puoi modificare come TU rispondi alle azi
 
 Ripara se stesso, prima di tentare di riparare o influenzare gli altri. Assume la responsabilità di cambiare se stesso, e come risponde alle azioni degli altri.
 
+---
+L’acceso
+Il segreto per coltivare un buon relazionamento **è la presenza**. E’ essere presente e vivere il momento in piena connessione con l’altro senza preoccupazioni o pensieri in altri posti. Senza essere perso nei social networks, nella televisione, al computer, alla radio o in un libro, o sentendo i discorsi del tavolo al lato, o fantasticando un presente differente. Ma essere presente al 100% per la persona che hai davanti.
 
+... Buone relazioni ci mantengono più felici e più sani. La qualità delle tue relazioni familiari importa. Le buone relazioni non solo proteggono il tuo corpo ma anche il tuo cervello.
+- Le persone che erano più soddisfatte con la loro relazione familiare ai 50 anni erano molto più sane agli 80 anni. 
+
+A prescindere di quanti soldi ha, è ricco in sane relazioni perché sa che le persone che passano tutto il loro tempo a cercare di fare soldi, spendono tutti i loro soldi cercando di ottenere tempo.
+
+Buone relazioni ci mantengono più felici e più sani.
+
+Il segreto per coltivare un buon relazionamento **è la presenza**. E’ essere presente e vivere il momento in piena connessione con l’altro senza preoccupazioni o pensieri in altri posti. E’ essere presente al 100% per la persona che hai davanti.
+
+sta bene con amici e parenti. non ha arrabbiature, non ha situazioni negative.
+se stai rilassato, stai bene con gli altri, vivi meglio anche tu e tutto funziona tranquillo.
+un po’ quello che diceva rene brown a rispetto della socialità. L’uomo è un animale sociale e sta bene quando ha relazione con gli altri. Altrimenti senti che qualcosa ti manca, ti lascia inquieto.
+
+Se sei in sane relazioni tendi anche a gestire meglio le tue emozioni e comunque non ti fai travolgere dalla rabbia e dalle emozioni negativi. perché trovi un supporto, una protezione, una difesa nelle persone con cui sei relazionato.
+ti permette anche di aumentare il tuo networking, il tuo relazionarti con gli altri, le tue possibilità di aiuto.
+
+- Ho una sana e costruttiva relazione cliente fornitori. se mi serve un aiuto dentro eticità correttezza ed integrità me lo fanno. Altrimenti la relazione è rigida. Come da polizia di dogana o avvocato.
+
+- Anche la tabaccaia che uscita mi ha riconosciuto e mi ha detto “devi pagare qualche bolletta? Perché se serve torno indietro.”. 
+
+Non devi lottare contro i muri di gomma se hai sane relazioni / “conoscenze” puoi arrivare direttamente ad ottenere quello che ti serve.
+Le procedure sono più snelle, più fluide. Non sei irrigidito da burocrazia e formalità che rallentano il tutto, come succede nelle grandi imprese elefantiache (cumbersome).
+
+---
+Qual’è la cosa più piccola e più semplice, che potreste fare fin da ora, e che vi permetterà di fare il primo passo per mettere la vostra vita nella direzione cui auspicate?  
+Cambiare se stessi
+(https://www.psicologo-milano.it/crescita-personale-invio-1/)
 
 
 

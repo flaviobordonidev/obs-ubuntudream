@@ -51,6 +51,3 @@ E come lo fanno grandi artisti?
 Con la visualizzazione. Immaginando e facendo navigare la fantasia (esempio Asimov)
 
 Con la visualizzazione riesco anche a rendere molto efficace l’interdisciplinarità perché mi alleno a collegare settori di studio differente che spesso sono studiati in modo chiuso.
-
-  
-**

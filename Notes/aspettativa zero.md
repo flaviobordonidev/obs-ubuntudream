@@ -7,11 +7,6 @@ ubuntudream: # energia-salute equilibrio-interiorità etica-sociale impegno-lavo
 tag: #
 
 ---
-# aspettativa zero
-
-
-**
-
 # Aspettativa zero
 
 "Mi sento sempre felice, sai perché, perché non mi aspetto nulla da nessuno" - Shakespeare
@@ -23,7 +18,6 @@ tag: #
 Perché se la vivi come aspettativa vivi ansioso e stai male se non arriva. Invece se la vivi come possibilità allora vivi tranquillo anche se non arriva; e se arriva sei il doppio più felice.
 
   
-**
 
 Zio Franco che in Giappone ha detto voto 10 anche perché non si era fatto nessuna aspettativa e si è lasciato la mente aperta e curiosa per accettare e ringraziare (*agradecer*) tutte le esperienze. 
 

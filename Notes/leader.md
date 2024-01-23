@@ -15,6 +15,11 @@ Il leader non è una persona che vuol far piacere ad una folla grande. È qualcu
 Who is the authority?
 Claim you own authority non vuol dire prendere decisioni che condividono tutti. Vuol dire "dire la propria" e prendere decisioni anche se non tutti sono d'accordo.
 
+--
+Un leader influenza le persone, non semplicemente le informa.
+È come il figlio che non fa quello che gli dicono i genitori ma fa quello che fanno.
+È l'esempio che è trasmesso.
+
 
 
 ---

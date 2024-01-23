@@ -72,4 +72,7 @@ Il 95% della popolazione:
 ---
 # Vedi anche
 - [[Come allenare la concentrazione]]
+- [[Concentrato sulla soluzione - Risolve problema vs tampona problema]]
+- [[Fuoco sulla soluzione - Problema vs opportunità]]
+- [[Fuoco sulla soluzione - Lavorare è risolvere i problemi]]
 - 

@@ -1,6 +1,3 @@
----
-alias:lista libri - book list 
----
 2023-03-07 - 13:27 - *luogo*
 zettle: #moc
 tag: #

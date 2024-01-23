@@ -39,7 +39,7 @@ Se un oggetto è ammassato torna allo stato originale.
 
 Esempio del padre in CTI che sperava uscisse domenica, si era preparato alla sua morte e ha accettato che continua in CTI ed ha aspettato un nuovo meglior: uscirà la prossima domenica
 
-Perché Gesù disse: “Avrete afflizioni, ma abbiate buon animo”
+Perché Gesù disse: “==Avrete afflizioni, ma abbiate buon animo==”
 → accettate quello che viene.
    Ci vuole dignità nel dolore.
 

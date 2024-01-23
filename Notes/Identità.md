@@ -10,6 +10,10 @@ tag: #
 # Identità
 [ubuntudream - percorso: 4 - Identità]
 
+L'identità è quello in cui credi. È il secondo me...
+(Ritrova anche Murillo Gun che ne parlava... -> Sono le mie "considerazioni" è il "come la penso"...)
+
+
 ### 3 - Congruenza
 
 Congruenza  

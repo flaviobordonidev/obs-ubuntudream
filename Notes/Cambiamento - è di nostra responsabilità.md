@@ -14,6 +14,10 @@ Il cambiamento è di nostra responsabilità
 Questa convinzione è il secondo pilastro che supporta i sei scalini per il cambiamento.
 Mito da sfatare : non è di mia responsabilità perché la responsabilità è esterna 
 
+## 100% responsabilità. 
+Elastico sul braccio e tirarlo ogni volta che dai la colpa ad un altro.
+[vedi anche il primo principio di Coaching Podcast]
+
 
 
 ---

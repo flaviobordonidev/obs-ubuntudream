@@ -19,7 +19,7 @@ Serve per analizzare un’area alla volta della nostra vita di cui ci sentiamo i
 
 ## Comincia esercizio:
 
-1 - Scegli un’area in cui sei estremamente **insoddisfatto** con i tuoi risultati.
+1 - ==Scegli un’area in cui sei estremamente **insoddisfatto** con i tuoi risultati.==
 	Un'area **che vuoi cambiare** nella tua vita.
 	Un'area a cui vuoi dire: ***BASTA!***
 
@@ -38,20 +38,29 @@ Sì, in questo momento scegli 1 SOLA area. (Perché si lavora UNA area alla volt
 Se vuoi lavorare un’altra area ripeti tutto l’esercizio con l’altra area.
 Puoi avere più aree di insoddisfazione ma scegline una. [potremmo fare prima un elenco e poi scegliere quella che se risolviamo può più di tutte aiutarci a salire di livello. Quella che può aiutarci anche a semplificare la risoluzione delle altre. L’insoddisfazione “chiave di arco”.]
 
-2 - Guarda questa area e pensa quello che vuoi per questa area.  
+2 - ==Guarda questa area e pensa quello che vuoi per questa area.==
 	Scrivi quello che desideri per questa area. Quello che vuoi raggiungere.
 
 Esempio:
 -   Io voglio guadagnare 50.000 al mese
 -   Voglio avere un lavoro in cui io sia riconosciuto, dove le persone mi amano, dove sono valorizzata,...
-- 
+- ...
 
 [[visualizzazione]]
-Adesso facciamo un “movimento para dentro”. Ti ricordi del “movimento para dentro”?  
+Adesso facciamo un “movimento para dentro”.
+- Olha para dentro -> quale **emozione** viene?
+	- cansada
+	- muito dificil
+	- desespero
+	- muito traballo
+	- nao vou conseguir
+	- ...
+
 Immagina che incominci a fare adesso tutto quello che è necessario per raggiungere la meta che hai fissato al punto 2. 
 Non è nel futuro ma è adesso. Fai il “movimento para dentro”, ossia **Visualizza come se fosse adesso questa azione.**
 
-3 - Quale pensiero o emozione sorge?
+3 - ==Quale pensiero o emozione sorge?==
+	 ==Guardati da dentro...==
 
 Esempio:
 -   Se al punto due ho scelto di guadagnare 50.000 euro al mese, adesso  
@@ -94,7 +103,7 @@ Esempio:
 
 Il prossimo passo è:
 
-4 - Cosa fai?
+4 - ==Cosa fai?==
 (questo ci aiuta a capire qual è la scusa che ci diamo per non raggiungere le nostre mete)
 
 
@@ -137,12 +146,16 @@ Esempio:
 -   Non ho condizioni/risorse per realizzarlo
 -   Non ho soldi nè spazio per lavorare…
 -   Vado ad assistere video di altre persone per rinforzare ed intendere che è possibile e che credendoci si realizza
--   Comprovo per me stessa che ancora non sono maturata
+- Comprovo per me stessa che ancora non sono maturata
+- Faccio altro prima
+- Lascio per domani
+- Leggo un libro
+- Desisto
 
 Adesso fermati e pensa il seguente: 
 (Attenzione che questa osservazione è para dentro e non guardando i risultati che hai ottenuto fuori. Devi guardarti dentro)
 
-5 - Emozionalmente qual è il mio guadagno?
+5 - ==Emozionalmente qual è il mio guadagno?==
 Emozionalmente cosa guadagno quando io non entro in azione?  
 
 Nel momento di entrare in azione tu pensi: “O mio dio già mi darà molto lavoro. Nossa, meu deus do cel, vai dar muito trabalho, vou deixar pra depois”
@@ -151,40 +164,42 @@ Emozionalmente cosa guadagni? Cosa credi che guadagni in quel momento?
 Immediatamente, quando cedi al tuo “schiavo mentale” (limbico), tu ottieni un sollievo. Senti un sollievo. Che sollievo senti?
 
 Esempio:
--   Ah, io sento che non ho bisogno di impegnarmi 
--   Io sento che posso lavorare di meno
--   Sento una soddisfazione 
--   Io mi rilasso
--   Tranquillità
--   Que não vou ser cobrada por isso
--   Nao vou errar
--   Guadagno tempo
--   Guadagno conforto
--   Guadagno descanso
--   Ganho tempo com os familiares, curto momento de relax
--   Non ho bisogno di rischiare
--   Non ho bisogno di espormi
--   Meno peso sulle spalle
--   Non corro il rischio di fallire 
--   Guadagno non dovermi chiedere se me lo merito
--   Non mi chiriticheranno
--   Guadagno delle serate di divertimento guardando serie su Netflix
--   Non ho il peso della responsabilità
--   Guadagno che le persone non mi criticheranno
--   Guadagno di non dover lavorare molto
--   Sollievo di poter fuggire dall’impegno. Il guadagno è non avere la paura di fare qualcosa di nuovo. Non punteranno il dito su di me. Già che io credo che fallirò…
--   Guadagno la compagnia di altre persone 
--   Descanso e relax
--   Fugir do comprometimento. Questo significa: “Eu nao estou comprometida”. “Eu escolho nao me comprometer"
--   Eu relaxo com a família tomando um café e tenho atenção deles.
--   Sicurezza
--   Non perdo energie con questo. Guadagno un risparmio delle mie energie.
--   Nao vou ter responsabilità
--   Naou vou deceptionar mia mae. Mia mae ter pena di mim.
--   Mi giustifico dicendo che non ho tempo perché ho mille altre cose da fare
+- Ah, io sento che non ho bisogno di impegnarmi 
+- Io sento che posso lavorare di meno
+- Sento una soddisfazione 
+- Io mi rilasso
+- Io mi distraggo
+- Nessuno mi critica
+- Tranquillità. Mi sento tranquillo
+- Que não vou ser cobrada por isso
+- Nao vou errar
+- Guadagno tempo
+- Guadagno conforto
+- Guadagno descanso
+- Ganho tempo com os familiares, curto momento de relax
+- Non ho bisogno di rischiare
+- Non ho bisogno di espormi
+- Meno peso sulle spalle
+- Non corro il rischio di fallire 
+- Guadagno non dovermi chiedere se me lo merito
+- Non mi chiriticheranno
+- Guadagno delle serate di divertimento guardando serie su Netflix
+- Non ho il peso della responsabilità
+- Guadagno che le persone non mi criticheranno
+- Guadagno di non dover lavorare molto
+- Sollievo di poter fuggire dall’impegno. Il guadagno è non avere la paura di fare qualcosa di nuovo. Non punteranno il dito su di me. Già che io credo che fallirò…
+- Guadagno la compagnia di altre persone 
+- Descanso e relax
+- Fugir do comprometimento. Questo significa: “Eu nao estou comprometida”. “Eu escolho nao me comprometer"
+- Eu relaxo com a família tomando um café e tenho atenção deles.
+- Sicurezza
+- Non perdo energie con questo. Guadagno un risparmio delle mie energie.
+- Nao vou ter responsabilità
+- Naou vou deceptionar mia mae. Mia mae ter pena di mim.
+- Mi giustifico dicendo che non ho tempo perché ho mille altre cose da fare
 
 
-6 - Que troca eu faço?
+6 - ==Que troca eu faço? Cosa scelgo in lugar disso?==
 Quando non fai, cosa scegli al posto di questo? 
 Cosa scegli di fare al posto dell’azione che ti porterebbe verso la realizzazione della tua meta? Al posto di fare quello che devi fare?
 Eu troco uma vida incrível de prosperidade por...
@@ -212,7 +227,7 @@ Esempio:
 -   Scelgo di aspettare un’altra opportunità
 
 
-7 - Adesso prendi quello che hai scelto e componi la tua frase. 
+7 - ==Adesso prendi quello che hai scelto e componi la tua frase.==
 In questo passaggio devi avere un livello di integrità con te stesso enorme. Ti ricordi che ti ho detto che il potere è dentro di noi? Tutto quello che succede nel lato di fuori è perché il potere sta dentro. Quindi fai una scelta in quel momento che hai un sollievo… 
 -   Ah, preferisco credere che non sono capace…
 -   Ah, preferisco credere che non funzionerà; che non andrà bene.
@@ -363,8 +378,22 @@ Tutto quello che fai così, del tipo:
 Tutto questo è frutto delle tue convinzioni limitanti. E queste convinzioni limitanti che creano questo cavallo di troia.
 Esistono inoltre le convinzioni limitanti trasparenti che sono pensieri che neanche ti rendi conto di avere che ti stanno paralizzando (un po’ come i bias cognitivi) nel tuo stato mentale di totale ciclo vizioso.
 
+
+Produrre di più non vuol dire lavorare di più. Vuol dire lavorare meglio.
+Chi fa un solo compito (mono tarefa) produce il 30% di più del multi tarefa.
+Questo vuol dire che devo finire il primo compito prima di passare al prossimo?
+Si e No.
+In realtà è sufficiente ==rimanere concentrati per 30-60 minuti su un unico compito==.
+Poi fare una ==pausa di 5-10 minuti== e riprendere.
+
+Se riesci a dividere ogni compito in sotto compiti di 30-60 minuti allora puoi completare tutto il sotto compito prima di passare al prossimo.
+
+
+
 ---
 ## Vedi anche
 
+- [[Rituali]]
 - [[convinzioni limitanti]]
+- [[il ritorno del re]]
 - 

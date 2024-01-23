@@ -10,12 +10,15 @@ tag: #
 ---
 # Principio 4 - Non la prendo sul personale
 
-Non la prendo sul personale → Non precipito alle conclusioni
-Non penso che lo fanno per fare un dispetto a me.
-
-Sono due principi delle 4 leggi Tolteche che possiamo approfondire nel libro.
+==Non la prendo sul personale → Non precipito alle conclusioni==
+- Non penso che lo fanno per fare un dispetto a me.
 
 
+[Sono due principi delle 4 leggi della filosofia Tolteca che possiamo approfondire nel libro.
+- Sono impeccabile con la mia parola
+- ==Non la prendo sul personale==
+- ==Non precipito alle conclusioni==
+- Do sempre il meglio di me]
 
 
 

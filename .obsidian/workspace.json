@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7cd7a01a35c2e845",
+            "id": "055958d3afd60fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +32,41 @@
             }
           },
           {
-            "id": "cdaa70646910a916",
+            "id": "1af54a2ed0503ebb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "64b6d17b8f29b573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cavallo di Troia.md",
+                "file": "Notes/Visualizzare - meditazione Kasina - disco bianco.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e4a07da175092272",
+            "id": "f61158ebaf57878d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cambiamento.md",
+                "file": "Notes/Journaling - La cosa che merita essere raccontata.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "livelli logici",
+                "query": "visualizzazione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Cambiamento.md",
+                "file": "Notes/Journaling - La cosa che merita essere raccontata.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +191,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Cambiamento.md",
+                "file": "Notes/Journaling - La cosa che merita essere raccontata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Cambiamento.md",
+                "file": "Notes/Journaling - La cosa che merita essere raccontata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Cambiamento.md"
+                "file": "Notes/Journaling - La cosa che merita essere raccontata.md"
               }
             }
           }
@@ -275,46 +287,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e4a07da175092272",
+  "active": "f61158ebaf57878d",
   "lastOpenFiles": [
-    "Notes/Cambiamento - I 4 cammini.md",
-    "Notes/Cambiamento.md",
-    "Notes/Cambiamento - Per cambiare gli altri dobbiamo cambiare noi stessi.md",
-    "Notes/Cambiamento - I 3 tipi di cambiamento.md",
-    "Attachments/Pasted image 20231116222631.png",
-    "Notes/Cambiamento - in piccoli passi tutti i giorni.md",
-    "Attachments/Pasted image 20231116220247.png",
-    "Attachments/Pasted image 20231116220226.png",
-    "Notes/Cambiamento - Cambiare il modo in cui ti vedi.md",
-    "Notes/Cambiamento - Dire Basta.md",
-    "Notes/Cambiamento - DASISTEMARE.md",
-    "Notes/Cambiamento - è di nostra responsabilità.md",
-    "Notes/Cambiamento - può essere immediato.md",
-    "Notes/Cambiamento - Stare fermo è un errore.md",
-    "Attachments/Pasted image 20231116181624.png",
-    "Attachments/Pasted image 20231116181559.png",
-    "Notes/preoccupazione - Svuotiamo la mente.md",
-    "Notes/preoccupazione.md",
-    "Notes/Respirare e Meditare.md",
-    "Notes/preoccupazione - Come smettere.md",
-    "Notes/preoccupazione - Tieni un diario.md",
-    "Notes/preoccupazione - Dagli un appuntamento.md",
-    "Notes/preoccupazione - Rifugiatevi nel monastero.md",
-    "Notes/Preoccupazione - Appenderle all'albero fuori casa.md",
-    "Notes/Preoccupazione - Gestire situazione di crisi.md",
-    "Notes/AI - Artificial Intelligence.md",
-    "Notes/Produttività 1 - Occuparsi non è Produrre.md",
-    "Notes/accumula solo conoscenza senza usarla.md",
-    "Notes/Scegliere.md",
-    "Notes/Preparazione - Affila la tua lama.md",
-    "Notes/Scegliere - Crea una bella storia e agisci per realizzarla.md",
-    "Attachments/Screenshot 2023-11-12 at 00.05.41.png",
-    "Attachments/Pasted image 20231022141405.png",
-    "Attachments/Pasted image 20231022141239.png",
-    "Attachments/Brain rettile - coccodrillo.png",
-    "Attachments/Brain limbico - rinoceronte.png",
+    "Notes/Journaling - La cosa che merita essere raccontata.md",
+    "Notes/Visualizzare - meditazione Kasina - disco bianco.md",
+    "Notes/visualizzazione.md",
+    "README.md",
     "Canvas Test.canvas",
     "Untitled.canvas",
+    "Notes/il segreto della felicità.md",
+    "Notes/Cambiamento - piantare il seme - Non so come riuscirai a cambiare.md",
+    "Notes/Cambiamento.md",
+    "Notes/Untitled 4.md",
+    "Notes/Migliorare la visualizzazione.md",
+    "Notes/Principi.md",
+    "Notes/Mete e obiettivi.md",
+    "Notes/Il contenuto ed il contesto.md",
+    "Notes/New Year's resolutions.md",
+    "Notes/Ben Franklin Effect.md",
+    "Notes/Visualizzazione vs Meditazione.md",
+    "Notes/Visualizzare il problema - la rosa.md",
+    "Notes/Prendere coscienza del fatto che stiamo pensando.md",
+    "Notes/visualizzazione - ricordo del futuro.md",
+    "Notes/visualizzazione - mindfullness.md",
+    "Notes/Visualizzazione per trovare la parola che ti definisce.md",
+    "Notes/Visualizzazione - Uno Strumento che Resiste al Tempo.md",
+    "Notes/Quando la Visualizzazione Ispira le Tue Azioni.md",
+    "Notes/Se qualcosa è importante dovresti provarci anche se probabilmente fallirai.md",
+    "Notes/Fare il possibile vs Fare del nostro meglio.md",
+    "Notes/Ruota delle competenze.md",
+    "Notes/Rompere le convinzioni - Belief Busting.md",
+    "Attachments/Pasted image 20231122193936.png",
+    "Attachments/50 Bias Cognitivi.jpg",
+    "Attachments/Brain limbico - rinoceronte.png",
+    "Attachments/Brain neocortex - gatto.png",
+    "Attachments/Brain rettile - coccodrillo.png",
+    "Attachments/Pasted image 20231116181624.png",
+    "Attachments/Pasted image 20231116220226.png",
+    "Attachments/Pasted image 20231116220247.png",
+    "Attachments/Pasted image 20231116222631.png",
+    "Attachments/Pasted image 20231118231948.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
